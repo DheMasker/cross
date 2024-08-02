@@ -1,41 +1,39 @@
 proxies:
   - {name: CF | 🟢 | vmess | @V2rayCollectorDonate | 4, server: 172.67.71.160, port: 443, type: vmess, uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: obdii.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: obdii.cfd}}}
-  - {name: 🇬🇧 GB | 🟢 | trojan | @PrivateVPNs | 0, server: 18.171.92.115, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 1, server: 15.236.115.233, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 2, server: 13.37.174.15, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 3, server: 18.197.253.103, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 4, server: 18.199.0.6, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @PrivateVPNs | 5, server: 13.51.222.245, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @PrivateVPNs | 6, server: 16.16.17.25, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: IE | 🟢 | trojan | @PrivateVPNs | 7, server: 34.252.103.51, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: IE | 🟢 | trojan | @PrivateVPNs | 8, server: 18.203.18.174, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇬🇧 GB | 🟢 | trojan | @PrivateVPNs | 9, server: 35.176.48.29, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇬🇧 GB | 🟢 | trojan | @PrivateVPNs | 10, server: 52.56.155.247, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 11, server: 13.38.182.159, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 12, server: 13.36.150.189, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 13, server: 3.78.35.72, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 14, server: 3.72.196.120, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @PrivateVPNs | 15, server: 16.16.38.164, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @PrivateVPNs | 16, server: 51.21.11.191, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: IE | 🟢 | trojan | @PrivateVPNs | 17, server: 54.155.239.166, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: IE | 🟢 | trojan | @DirectVPN | 0, server: 3.251.103.219, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: IE | 🟢 | trojan | @DirectVPN | 1, server: 52.209.141.184, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇬🇧 GB | 🟢 | trojan | @DirectVPN | 2, server: 3.11.161.167, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇬🇧 GB | 🟢 | trojan | @DirectVPN | 3, server: 18.170.7.8, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 FR | 🟢 | trojan | @DirectVPN | 4, server: 13.39.181.72, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇫🇷 FR | 🟢 | trojan | @DirectVPN | 5, server: 15.236.2.109, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @DirectVPN | 6, server: 51.20.204.252, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @DirectVPN | 7, server: 13.50.157.72, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | trojan | @DirectVPN | 8, server: 18.196.38.156, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | trojan | @DirectVPN | 9, server: 3.79.67.88, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @DirectVPN | 10, server: 13.60.165.157, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: SE | 🟢 | trojan | @DirectVPN | 11, server: 13.49.55.3, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 US | 🟢 | trojan | @DirectVPN | 12, server: 3.212.55.108, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 US | 🟢 | trojan | @DirectVPN | 13, server: 3.16.196.95, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇺🇸 US | 🟢 | trojan | @DirectVPN | 14, server: 3.15.120.16, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇨🇦 CA | 🟢 | trojan | @DirectVPN | 15, server: 3.99.69.145, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: 🇨🇦 CA | 🟢 | trojan | @DirectVPN | 16, server: 35.182.165.95, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
-  - {name: IE | 🟢 | trojan | @DirectVPN | 17, server: 99.80.216.182, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: IE | 🟢 | trojan | @PrivateVPNs | 0, server: 18.202.75.44, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: IE | 🟢 | trojan | @PrivateVPNs | 1, server: 34.240.94.4, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇬🇧 GB | 🟢 | trojan | @PrivateVPNs | 2, server: 18.169.253.190, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇬🇧 GB | 🟢 | trojan | @PrivateVPNs | 3, server: 3.11.172.21, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 4, server: 13.39.194.177, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 5, server: 13.37.133.167, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 6, server: 18.159.168.16, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 7, server: 3.72.138.219, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: SE | 🟢 | trojan | @PrivateVPNs | 8, server: 13.60.126.157, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: SE | 🟢 | trojan | @PrivateVPNs | 9, server: 13.60.141.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: IE | 🟢 | trojan | @PrivateVPNs | 10, server: 54.194.188.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: IE | 🟢 | trojan | @PrivateVPNs | 11, server: 54.220.47.133, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇬🇧 GB | 🟢 | trojan | @PrivateVPNs | 12, server: 3.10.168.52, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇬🇧 GB | 🟢 | trojan | @PrivateVPNs | 13, server: 18.171.92.115, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 14, server: 15.236.115.233, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 FR | 🟢 | trojan | @PrivateVPNs | 15, server: 13.37.174.15, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 16, server: 18.197.253.103, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | trojan | @PrivateVPNs | 17, server: 18.199.0.6, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | trojan | @DirectVPN | 0, server: 3.78.119.203, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | trojan | @DirectVPN | 1, server: 3.124.177.154, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: SE | 🟢 | trojan | @DirectVPN | 2, server: 13.51.32.183, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: SE | 🟢 | trojan | @DirectVPN | 3, server: 13.60.106.31, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 US | 🟢 | trojan | @DirectVPN | 4, server: 54.164.179.156, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 US | 🟢 | trojan | @DirectVPN | 5, server: 3.132.97.28, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇺🇸 US | 🟢 | trojan | @DirectVPN | 6, server: 3.129.171.7, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇨🇦 CA | 🟢 | trojan | @DirectVPN | 7, server: 52.60.65.174, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇨🇦 CA | 🟢 | trojan | @DirectVPN | 8, server: 15.156.47.248, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: IE | 🟢 | trojan | @DirectVPN | 9, server: 3.251.103.219, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: IE | 🟢 | trojan | @DirectVPN | 10, server: 52.209.141.184, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇬🇧 GB | 🟢 | trojan | @DirectVPN | 11, server: 3.11.161.167, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇬🇧 GB | 🟢 | trojan | @DirectVPN | 12, server: 18.170.7.8, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 FR | 🟢 | trojan | @DirectVPN | 13, server: 13.39.181.72, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: 🇫🇷 FR | 🟢 | trojan | @DirectVPN | 14, server: 15.236.2.109, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
+  - {name: SE | 🟢 | trojan | @DirectVPN | 15, server: 51.20.204.252, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: 🇫🇷 FR | 🟢 | vmess | @v2ray_outlineir | 0, server: 146.59.147.250, port: 29776, type: vmess, uuid: 82447abf-dcb9-408a-9ca6-79e0a7698d08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇨🇳 CN | 🟢 | vmess | @mftizi | 0, server: 183.236.51.23, port: 45020, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇺🇸 US | 🟢 | vmess | @mftizi | 7, server: cfcdn1.sanfencdn9.com, port: 2052, type: vmess, uuid: 0921f18e-db32-4c07-939b-4388673bfe59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /video/GQ2qE5Us9g, headers: {Host: tw1bQiWSE4x.fzbqfrse.xyz}}}
@@ -49,54 +47,39 @@ proxies:
   - {name: 🇨🇳 CN | 🟢 | vmess | @mftizi | 17, server: mmjp11.micloud.buzz, port: 46011, type: vmess, uuid: e0affd30-6517-4f32-a2bd-71faab70b40a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /zh-cn, headers: {Host: mmjp11.micloud.buzz}}}
   - {name: 🇭🇰 HK | 🟢 | vmess | @mftizi | 18, server: 38.147.188.239, port: 14979, type: vmess, uuid: 2919ef6f-b8d3-49ea-a32d-2f95d346e4cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇺🇸 US | 🟢 | vmess | @mftizi | 19, server: cfcdn3.sanfencdn9.com, port: 2052, type: vmess, uuid: afa7ee50-d214-4a54-a558-e5c96480916d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /video/9TfVEyku, headers: {Host: wtywwcrzjp5.yofnhkfc.xyz}}}
-  - {name: CF | 🟢 | vmess | @DeamNet_Proxy | 5, server: 104.19.45.240, port: 2095, type: vmess, uuid: 7a737f41-b792-4260-94ff-3d864da67b80, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: onea.flha.ru}}}
-  - {name: CF | 🟢 | vmess | @DeamNet_Proxy | 13, server: 104.16.60.8, port: 80, type: vmess, uuid: 4804f14b-c1f8-452d-a6ec-eff1490aeac9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /lRkGCkYS9X5GDNJYMWXN7kCm3lL, headers: {Host: hdfy6c1.freelines.net}}}
-  - {name: 🇺🇸 US | 🟢 | vmess | @prrofile_purple | 130, server: www.speedtest.net, port: 80, type: vmess, uuid: 3e5cda0a-6122-4f54-9e3c-3f49e7a526f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nlch.blueberrynetwork.store}}}
-  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 135, server: 128.140.117.167, port: 2086, type: vmess, uuid: FILTERSHCAN, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 139, server: 167.235.235.192, port: 2086, type: vmess, uuid: 1bdc1b8f-0a20-4dc8-8f73-e008f64da65e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 149, server: 188.245.59.155, port: 39519, type: vmess, uuid: 7d90c680-6ed1-41b4-8e5c-7a3e217a73dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
-  - {name: IR | 🟢 | vmess | @prrofile_purple | 152, server: 80.71.149.117, port: 63527, type: vmess, uuid: 0493815dee83242c5fdb9830b2bacbd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: ❔XX | 🟢 | vmess | @prrofile_purple | 158, server: cwm6qx1070hp2ds48c26c.tele-too.com, port: 41304, type: vmess, uuid: 42f5c3a2-2743-4212-bd13-cae715be02ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 165, server: 78.46.152.136, port: 2086, type: vmess, uuid: 1bdc1b8f-0a20-4dc8-8f73-e008f64da65e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 US | 🟢 | vmess | @ShadowProxy66 | 0, server: s.marktred.com, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: aveiror.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}}
-  - {name: CF | 🟢 | vmess | @ShadowProxy66 | 1, server: 172.67.192.57, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: max.mankadmu.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: max.mankadmu.com}}}
-  - {name: CF | 🟢 | vmess | @ShadowProxy66 | 2, server: 104.21.95.165, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sareikela.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: sareikela.com}}}
-  - {name: 🇺🇸 US | 🟢 | vmess | @ShadowProxy66 | 3, server: 23.154.136.47, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇺🇸 US | 🟢 | vmess | @ShadowProxy66 | 4, server: Zula.ir, port: 2052, type: vmess, uuid: 6dbb6c48-ff95-502a-a92d-4ca8189308f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: De1.vmess.site.}}}
-  - {name: 🇨🇦 CA | 🟢 | vmess | @ShadowProxy66 | 5, server: 23.162.200.182, port: 22324, type: vmess, uuid: 04621bae-ab36-11ec-b909-0242ac120002, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: CF | 🟢 | vmess | @ShadowProxy66 | 6, server: 188.114.99.205, port: 443, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: linde06.indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linde06.indiavideo.sbs}}}
-  - {name: CF | 🟢 | vmess | @ShadowProxy66 | 7, server: 188.114.97.6, port: 443, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: linde06.indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linde06.indiavideo.sbs}}}
-  - {name: TR | 🟢 | vmess | @ShadowProxy66 | 8, server: 45.89.52.114, port: 13701, type: vmess, uuid: 86a0c17d-1871-40e3-db65-2b9bf1a7650e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇬🇧 GB | 🟢 | vmess | @ShadowProxy66 | 10, server: 45.12.30.9, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: aveiror.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}}
-  - {name: BZ | 🟢 | vmess | @ShadowProxy66 | 12, server: 45.131.210.181, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: aveiror.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}}
-  - {name: 🇬🇧 GB | 🟢 | vmess | @ShadowProxy66 | 15, server: 194.36.55.55, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: aveiror.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}}
-  - {name: 🇬🇧 GB | 🟢 | vmess | @ShadowProxy66 | 16, server: 45.12.31.46, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: aveiror.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}}
+  - {name: IE | 🟢 | vmess | @DeamNet_Proxy | 0, server: 85.159.229.8, port: 8443, type: vmess, uuid: afe57557-df24-43e5-9cea-5d2acc2cad08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: /}}
+  - {name: CF | 🟢 | vmess | @DeamNet_Proxy | 12, server: 172.67.170.11, port: 443, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: linde06.indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linde06.indiavideo.sbs}}}
+  - {name: 🇺🇸 US | 🟢 | vmess | @prrofile_purple | 139, server: www.speedtest.net, port: 80, type: vmess, uuid: 3e5cda0a-6122-4f54-9e3c-3f49e7a526f9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nlch.blueberrynetwork.store}}}
+  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 144, server: 128.140.117.167, port: 2086, type: vmess, uuid: FILTERSHCAN, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 148, server: 167.235.235.192, port: 2086, type: vmess, uuid: 1bdc1b8f-0a20-4dc8-8f73-e008f64da65e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 158, server: 188.245.59.155, port: 39519, type: vmess, uuid: 7d90c680-6ed1-41b4-8e5c-7a3e217a73dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}}
+  - {name: IR | 🟢 | vmess | @prrofile_purple | 161, server: 80.71.149.117, port: 63527, type: vmess, uuid: 0493815dee83242c5fdb9830b2bacbd1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: ❔XX | 🟢 | vmess | @prrofile_purple | 167, server: cwm6qx1070hp2ds48c26c.tele-too.com, port: 41304, type: vmess, uuid: 42f5c3a2-2743-4212-bd13-cae715be02ff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇩🇪 DE | 🟢 | vmess | @prrofile_purple | 174, server: 78.46.152.136, port: 2086, type: vmess, uuid: 1bdc1b8f-0a20-4dc8-8f73-e008f64da65e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: CF | 🟢 | vmess | @v2ray1_ng | 5, server: 108.162.192.109, port: 80, type: vmess, uuid: 5d214f53-1332-449f-ad0e-0a1888ef5479, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: dl2.arsha.разведки守望者.hаблюдатели.watchers.aгент.偵察探員.wonkacapitano.buzz.}}}
   - {name: CF | 🟢 | vmess | @v2ray1_ng | 11, server: 104.21.94.64, port: 443, type: vmess, uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: linja05.hwcar.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linja05.hwcar.sbs}}}
-  - {name: 🇺🇸 US | 🟢 | ss | @VmessProtocol | 2, server: 38.110.1.88, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: AT | 🟢 | ss | @VmessProtocol | 7, server: 212.113.106.76, port: 61992, type: ss, cipher: chacha20-ietf-poly1305, password: PToksYwBeZWcIeKXP6nnU7}
-  - {name: ❔XX | 🟢 | vmess | @DailyV2RY | 215, server: "", port: 0, type: vmess, uuid: 00000000-0000-0000-0000-000000000000, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: IR | 🟢 | vmess | @DailyV2RY | 218, server: mci12.spdv.shop, port: 52927, type: vmess, uuid: f0387ddf-dcce-42c6-983e-ece6c3abf478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 0, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇳🇱 NL | 🟢 | ss | @OutlineVpnOfficial | 1, server: 188.212.132.20, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: XRUwpkSouW5HCTUFUxErfnL5AmahofrjznVrAu2iNFMFGUCrChznAULhuHGAQdC463mzcgo2jV546Ut5HKhk3pz956cHYYyc}
-  - {name: 🇬🇧 GB | 🟢 | ss | @OutlineVpnOfficial | 2, server: 142.202.51.58, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 3, server: 54.36.174.181, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇩🇪 DE | 🟢 | ss | @OutlineVpnOfficial | 4, server: 81.19.141.45, port: 52873, type: ss, cipher: chacha20-ietf-poly1305, password: x13Cv63IdnCZCBNwY0E9dQ}
-  - {name: 🇨🇦 CA | 🟢 | ss | @OutlineVpnOfficial | 5, server: ca225.vpnbook.com, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
-  - {name: 🇺🇸 US | 🟢 | ss | @OutlineVpnOfficial | 6, server: 38.86.135.225, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇸🇬 SG | 🟢 | ss | @OutlineVpnOfficial | 7, server: 159.65.129.128, port: 18814, type: ss, cipher: chacha20-ietf-poly1305, password: ZdWZ9QvFlbOOGreMoE3Bq8}
-  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 8, server: 77.83.246.74, port: 33320, type: ss, cipher: chacha20-ietf-poly1305, password: sFxAYglxQ6oMAWVam55UmA}
-  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 9, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇳🇱 NL | 🟢 | ss | @OutlineVpnOfficial | 10, server: 45.158.171.131, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: a8bt9fY0QsLS6eLnXUe0Ym}
-  - {name: 🇬🇧 GB | 🟢 | ss | @OutlineVpnOfficial | 11, server: 212.102.53.197, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 12, server: 54.36.174.181, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇩🇪 DE | 🟢 | ss | @OutlineVpnOfficial | 13, server: 81.19.141.45, port: 52873, type: ss, cipher: chacha20-ietf-poly1305, password: oB8XQxI9C0HvBzzlqvxIDa}
-  - {name: 🇨🇦 CA | 🟢 | ss | @OutlineVpnOfficial | 14, server: 51.222.157.179, port: 49602, type: ss, cipher: aes-256-gcm, password: 7gaTTlW73G}
-  - {name: AT | 🟢 | ss | @OutlineVpnOfficial | 15, server: 95.164.9.144, port: 2927, type: ss, cipher: chacha20-ietf-poly1305, password: ug4Fu79SEREdFGlt2sUyT4}
-  - {name: 🇺🇸 US | 🟢 | ss | @OutlineVpnOfficial | 16, server: 38.86.135.225, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 17, server: 51.77.53.200, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 🇳🇱 NL | 🟢 | ss | @OutlineVpnOfficial | 18, server: 89.19.216.18, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: NC7jORVNrruV/+3+PwOJrnnOeG7n75X1}
-  - {name: 🇮🇳 IN | 🟢 | ss | @OutlineVpnOfficial | 19, server: 165.22.208.240, port: 4917, type: ss, cipher: chacha20-ietf-poly1305, password: l2zEoLV7XbwU4ZvGN46gyr}
+  - {name: 🇺🇸 US | 🟢 | ss | @VmessProtocol | 3, server: 38.110.1.88, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: AT | 🟢 | ss | @VmessProtocol | 8, server: 212.113.106.76, port: 61992, type: ss, cipher: chacha20-ietf-poly1305, password: PToksYwBeZWcIeKXP6nnU7}
+  - {name: 🇺🇸 US | 🟢 | ss | @OutlineVpnOfficial | 0, server: 38.86.135.31, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 1, server: 77.83.246.74, port: 33320, type: ss, cipher: chacha20-ietf-poly1305, password: Hd2nY5MZaKGVyoTHcgLpjX}
+  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 2, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇳🇱 NL | 🟢 | ss | @OutlineVpnOfficial | 3, server: 188.212.132.20, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: XRUwpkSouW5HCTUFUxErfnL5AmahofrjznVrAu2iNFMFGUCrChznAULhuHGAQdC463mzcgo2jV546Ut5HKhk3pz956cHYYyc}
+  - {name: 🇬🇧 GB | 🟢 | ss | @OutlineVpnOfficial | 4, server: 142.202.51.58, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 5, server: 54.36.174.181, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇩🇪 DE | 🟢 | ss | @OutlineVpnOfficial | 6, server: 81.19.141.45, port: 52873, type: ss, cipher: chacha20-ietf-poly1305, password: x13Cv63IdnCZCBNwY0E9dQ}
+  - {name: 🇨🇦 CA | 🟢 | ss | @OutlineVpnOfficial | 7, server: ca225.vpnbook.com, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq}
+  - {name: 🇺🇸 US | 🟢 | ss | @OutlineVpnOfficial | 8, server: 38.86.135.225, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇸🇬 SG | 🟢 | ss | @OutlineVpnOfficial | 9, server: 159.65.129.128, port: 18814, type: ss, cipher: chacha20-ietf-poly1305, password: ZdWZ9QvFlbOOGreMoE3Bq8}
+  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 10, server: 77.83.246.74, port: 33320, type: ss, cipher: chacha20-ietf-poly1305, password: sFxAYglxQ6oMAWVam55UmA}
+  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 11, server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇳🇱 NL | 🟢 | ss | @OutlineVpnOfficial | 12, server: 45.158.171.131, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: a8bt9fY0QsLS6eLnXUe0Ym}
+  - {name: 🇬🇧 GB | 🟢 | ss | @OutlineVpnOfficial | 13, server: 212.102.53.197, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 14, server: 54.36.174.181, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇩🇪 DE | 🟢 | ss | @OutlineVpnOfficial | 15, server: 81.19.141.45, port: 52873, type: ss, cipher: chacha20-ietf-poly1305, password: oB8XQxI9C0HvBzzlqvxIDa}
+  - {name: 🇨🇦 CA | 🟢 | ss | @OutlineVpnOfficial | 16, server: 51.222.157.179, port: 49602, type: ss, cipher: aes-256-gcm, password: 7gaTTlW73G}
+  - {name: AT | 🟢 | ss | @OutlineVpnOfficial | 17, server: 95.164.9.144, port: 2927, type: ss, cipher: chacha20-ietf-poly1305, password: ug4Fu79SEREdFGlt2sUyT4}
+  - {name: 🇺🇸 US | 🟢 | ss | @OutlineVpnOfficial | 18, server: 38.86.135.225, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇵🇱 PL | 🟢 | ss | @OutlineVpnOfficial | 19, server: 51.77.53.200, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
   - {name: SE | 🟢 | trojan | @proxystore11 | 0, server: 16.16.112.92, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false}
   - {name: CF | 🟢 | vmess | @proxystore11 | 2, server: 172.67.219.194, port: 443, type: vmess, uuid: b321fd5d-e6ec-4293-a644-164e3885f52e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: adenc36v.xtooltech.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: adenc36v.xtooltech.cfd}}}
   - {name: SE | 🟢 | vmess | @proxystore11 | 4, server: 185.146.173.158, port: 443, type: vmess, uuid: 950db6aa-4926-4616-816e-ec0312dcb87b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jahfkjha.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: jahfkjha.cfd}}}
@@ -113,90 +96,107 @@ proxies:
   - {name: CF | 🟢 | vmess | @Hope_Net | 2, server: 172.67.220.83, port: 443, type: vmess, uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: linja05.hwcar.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linja05.hwcar.sbs}}}
   - {name: CF | 🟢 | vmess | @v2Line | 0, server: 172.67.156.22, port: 443, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: nezuko.raidenshogun.cloudns.org, network: ws, ws-opts: {path: /linkws/afrhms16v.bestxray.buzz, headers: {Host: nezuko.raidenshogun.cloudns.org}}}
   - {name: CF | 🟢 | vmess | @FreakConfig | 0, server: 172.67.204.84, port: 2052, type: vmess, uuid: 6dbb6c48-ff95-502a-a92d-4ca8189308f0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: De1.vmess.site.}}}
-  - {name: CF | 🟢 | vmess | @FreakConfig | 1, server: 188.114.97.3, port: 443, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: afrhms16v.bestxray.buzz, network: ws, ws-opts: {path: /linkws, headers: {Host: afrhms16v.bestxray.buzz}}}
-  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 1, server: zula.ir, port: 2096, type: vmess, uuid: 58d7ba5c-7717-4d94-b94b-4099611e6b7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cloud.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: cloud.hightechservice.ir}}}
-  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 3, server: zula.ir, port: 2096, type: vmess, uuid: da2aa762-9c57-49c1-9ecd-cdc1f18493a7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: join.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: join.hightechservice.ir}}}
-  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 5, server: zula.ir, port: 2096, type: vmess, uuid: f92701e4-2394-4771-9599-5f291edc19ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kingo.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: kingo.hightechservice.ir}}}
-  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 7, server: zula.ir, port: 2096, type: vmess, uuid: 11cfd86e-c3a9-42b2-803f-1bdbca3dcb28, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kingo.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: kingo.hightechservice.ir}}}
-  - {name: LATEST-UPDATE 📅 THU-11-MORDAD-1403 🕑 15:01, server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: acabbca-cbaa-baac-dcab-acbbbacaccba}
-  - {name: DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI, server: 127.0.0.1, port: 2080, type: ss, cipher: none, password: bcacbaa-bcaa-cbaa-dacb-aaccabbbacbc}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:443, server: 38.75.136.21, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.86:8000, server: 69.50.95.86, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-54.36.174.181:4444, server: 54.36.174.181, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.89:2376, server: 23.157.40.89, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-38.207.154.30:30500, server: 38.207.154.30, port: 30500, type: ss, cipher: chacha20-ietf-poly1305, password: 9c2bf54f-5f13-4d71-b866-3a3f23c4d86b}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-141.95.125.11:443, server: 141.95.125.11, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.68.135.19:3389, server: 38.68.135.19, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-162.19.170.225:443, server: 162.19.170.225, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: 🇯🇵 SS-TCP-NA 🇯🇵 JP-154.16.55.112:50118, server: 154.16.55.112, port: 50118, type: ss, cipher: chacha20-ietf-poly1305, password: 25cb8cd7-800f-359e-81b5-a12863e2018d}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:2375, server: 38.75.136.21, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-147.45.124.227:30488, server: 147.45.124.227, port: 30488, type: ss, cipher: chacha20-ietf-poly1305, password: i7LJkuFJI8nI7daaaCOG3w}
-  - {name: SS-TCP-NA 🇫🇮 FI-194.116.172.158:2093, server: 194.116.172.158, port: 2093, type: ss, cipher: 2022-blake3-aes-256-gcm, password: 7IYrqUzkU0OxTit+fIkr19VVdcNi3SVTrFnNikIGjNA=:pFTn+A8qT0at48SeUywZHg+X9AyKVn50IWZM3fNy2UY=}
-  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-212.192.9.220:998, server: 212.192.9.220, port: 998, type: ss, cipher: chacha20-ietf-poly1305, password: cg0KkMjbGdJEh}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.120:8881, server: 23.157.40.120, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇷🇺 SS-TCP-NA 🇷🇺 RU-92.53.86.220:51348, server: 92.53.86.220, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: Y26aH7Xfgd5f0xXKA}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.89:5004, server: 23.157.40.89, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.26:8090, server: 23.157.40.26, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.248:8882, server: 38.121.43.248, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.103:7307, server: 23.157.40.103, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-45.33.30.8:18789, server: 45.33.30.8, port: 18789, type: ss, cipher: chacha20-ietf-poly1305, password: wQO0tJMABOnw9SxZSA1Zm2}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.87:9102, server: 23.157.40.87, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.86.135.225:7306, server: 38.86.135.225, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: CF | 🟢 | vmess | @FreakConfig | 2, server: 188.114.97.3, port: 443, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: afrhms16v.bestxray.buzz, network: ws, ws-opts: {path: /linkws, headers: {Host: afrhms16v.bestxray.buzz}}}
+  - {name: 🇺🇸 US | 🟢 | vmess | @FreakConfig | 9, server: s.marktred.com, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: aveiror.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}}
+  - {name: AE | 🟢 | ss | @proxy_mtm | 1, server: series-a2-mec.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 1, server: zula.ir, port: 2096, type: vmess, uuid: f849605a-be3e-4a22-95ec-a2662a684de2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cloud.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: cloud.hightechservice.ir}}}
+  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 3, server: zula.ir, port: 2096, type: vmess, uuid: 58d7ba5c-7717-4d94-b94b-4099611e6b7f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cloud.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: cloud.hightechservice.ir}}}
+  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 5, server: zula.ir, port: 2096, type: vmess, uuid: da2aa762-9c57-49c1-9ecd-cdc1f18493a7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: join.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: join.hightechservice.ir}}}
+  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 7, server: zula.ir, port: 2096, type: vmess, uuid: f92701e4-2394-4771-9599-5f291edc19ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kingo.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: kingo.hightechservice.ir}}}
+  - {name: 🇺🇸 US | 🟢 | vmess | @kingofilter | 9, server: zula.ir, port: 2096, type: vmess, uuid: 11cfd86e-c3a9-42b2-803f-1bdbca3dcb28, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kingo.hightechservice.ir, network: ws, ws-opts: {path: /, headers: {Host: kingo.hightechservice.ir}}}
+  - {name: LATEST-UPDATE 📅 FRI-12-MORDAD-1403 🕑 02:58, server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: aaccabb-cbaa-cbaa-cbad-ccbbccbaabaa}
+  - {name: DONATE-SPONSORING ❤️ DARAMET.COM/SOROUSHMIRZAEI, server: 127.0.0.1, port: 2080, type: ss, cipher: none, password: acacbba-caba-baca-dbca-bbaacaacbcbc}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-51.178.87.37:800, server: 51.178.87.37, port: 800, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.89:5000, server: 23.157.40.89, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-212.102.53.198:443, server: 212.102.53.198, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:6379, server: 23.157.40.83, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.86.135.225:5601, server: 38.86.135.225, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-217.30.10.18:9019, server: 217.30.10.18, port: 9019, type: ss, cipher: aes-256-cfb, password: GA9KzeEgvfxNrgmM}
+  - {name: SS-TCP-NA 🇰🇿 KZ-45.136.58.86:17451, server: 45.136.58.86, port: 17451, type: ss, cipher: chacha20-ietf-poly1305, password: hjrlXGNINHE2jspnma04TP}
+  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-117.143.14.158:40549, server: 117.143.14.158, port: 40549, type: ss, cipher: aes-128-gcm, password: 48b197da0e414acc}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2376, server: 54.36.174.181, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8881, server: 149.202.82.172, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.175.201.85:40871, server: 38.175.201.85, port: 40871, type: ss, cipher: aes-256-gcm, password: HrfTdWH7Eu}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.86.135.225:8000, server: 38.86.135.225, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-43.241.51.87:22781, server: 43.241.51.87, port: 22781, type: ss, cipher: chacha20-ietf-poly1305, password: 62e88a11-3420-408d-b5d8-0c8f9502ae2e}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.225:8090, server: 15.204.87.225, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8118, server: 51.68.206.229, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-169.197.142.120:7307, server: 169.197.142.120, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.113:3389, server: 23.157.40.113, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:2375, server: 23.157.40.83, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-38.180.158.38:5555, server: 38.180.158.38, port: 5555, type: ss, cipher: chacha20-ietf-poly1305, password: viUVZp9VSR4g1uur27Z2DA}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.86.135.31:8091, server: 38.86.135.31, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.69:5001, server: 38.114.114.69, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-18.133.155.154:10901, server: 18.133.155.154, port: 10901, type: ss, cipher: chacha20-ietf-poly1305, password: CIw5YUtHhI8uTCXAjWyuAf}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.217:8118, server: 15.204.87.217, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-188.245.88.151:80, server: 188.245.88.151, port: 80, type: ss, cipher: aes-256-gcm, password: rPy+VXFHmdhMPPG3JjlYe/IGDkUZuhSbbVoFyo4LDiY=}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:7306, server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.41:9101, server: 23.150.152.41, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.88:5499, server: 38.110.1.88, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.193:5601, server: 38.114.114.193, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-167.86.116.89:443, server: 167.86.116.89, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: srt1xudOe3tF}
-  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:7001, server: 51.77.53.200, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-117.143.14.158:41318, server: 117.143.14.158, port: 41318, type: ss, cipher: aes-128-gcm, password: 48b197da0e414acc}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.124:5499, server: 69.50.95.124, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.93.10:8091, server: 69.50.93.10, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50245, server: 46.232.123.37, port: 50245, type: ss, cipher: chacha20-ietf-poly1305, password: d31534ff-83a3-4137-91b7-79e144489643}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-199.59.243.226:13896, server: 199.59.243.226, port: 13896, type: ss, cipher: chacha20-ietf-poly1305, password: OZrpZOS/BOB3z/IKIpuM+RBmmjQuum9cYKrVVkQwzh8=}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:8881, server: 23.157.40.83, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.89:8881, server: 23.157.40.89, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:20003, server: 46.232.123.37, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: 853a4d4c-153f-4897-9a9b-8528b2bfafb2}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-149.202.82.172:5601, server: 149.202.82.172, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇸🇬 SS-TCP-NA 🇸🇬 SG-139.59.119.251:20181, server: 139.59.119.251, port: 20181, type: ss, cipher: chacha20-ietf-poly1305, password: df30da54-317f-4726-98bd-8bc8ec8140c9}
-  - {name: 🇷🇺 SS-TCP-NA 🇷🇺 RU-45.67.32.147:41772, server: 45.67.32.147, port: 41772, type: ss, cipher: chacha20-ietf-poly1305, password: h4Ef2XItAa1llkdVvLIlp/vH96KNqIY76Wiwn6eNzWU=}
-  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5003, server: 51.77.53.200, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: SS-TCP-NA 🇨🇭 CH-188.244.117.233:26615, server: 188.244.117.233, port: 26615, type: ss, cipher: chacha20-ietf-poly1305, password: 9Yq1io9qdxyAb0hExi6B1n}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-142.202.48.43:443, server: 142.202.48.43, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: SS-TCP-NA 🏴‍☠️ NA-172.67.198.153:443, server: 172.67.198.153, port: 443, type: ss, cipher: aes-128-gcm, password: a-wym4ovY4Yw}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-146.59.111.212:443, server: 146.59.111.212, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
-  - {name: 🇨🇦 SS-TCP-NA 🇨🇦 CA-45.153.48.114:443, server: 45.153.48.114, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ICTOtROjrAqIotsEYTG8Nc}
-  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-94.228.165.178:58176, server: 94.228.165.178, port: 58176, type: ss, cipher: chacha20-ietf-poly1305, password: afKAHp1VfRWZu91LIi9o0D}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:5001, server: 23.157.40.83, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇯🇵 SS-TCP-NA 🇯🇵 JP-185.172.113.182:801, server: 185.172.113.182, port: 801, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-104.207.155.64:1633, server: 104.207.155.64, port: 1633, type: ss, cipher: chacha20-ietf-poly1305, password: o_A7inN1yqeWtOTL}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.222:5600, server: 15.204.87.222, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.93.80:5498, server: 69.50.93.80, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: 🇸🇬 SS-TCP-NA 🇸🇬 SG-128.199.101.171:3127, server: 128.199.101.171, port: 3127, type: ss, cipher: chacha20-ietf-poly1305, password: lCX9K1cOjhbSGoMzQqnrOR}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.113:443, server: 23.157.40.113, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8090, server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:5004, server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.112:5498, server: 23.150.152.112, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.71:8881, server: 38.121.43.71, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇷🇺 SS-TCP-NA 🇷🇺 RU-178.20.40.126:443, server: 178.20.40.126, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6HOYv9daCxoTMAh9YMX7Vg}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-51.158.195.96:443, server: 51.158.195.96, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:7307, server: 38.75.136.21, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:8009, server: 23.157.40.83, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇯🇵 SS-TCP-NA 🇯🇵 JP-185.172.113.182:811, server: 185.172.113.182, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.43:7306, server: 38.110.1.43, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.43:8881, server: 38.110.1.43, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇸🇬 SS-TCP-NA 🇸🇬 SG-159.65.129.128:18814, server: 159.65.129.128, port: 18814, type: ss, cipher: chacha20-ietf-poly1305, password: ZdWZ9QvFlbOOGreMoE3Bq8}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.102:2375, server: 23.157.40.102, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.215:8119, server: 15.204.87.215, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-167.88.61.235:6679, server: 167.88.61.235, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇨🇦 SS-TCP-NA 🇨🇦 CA-23.162.200.133:2375, server: 23.162.200.133, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: SS-TCP-NA 🇷🇴 RO-146.19.75.41:9350, server: 146.19.75.41, port: 9350, type: ss, cipher: chacha20-ietf-poly1305, password: PY2fiJfDCR5dktvS9dLYbI}
+  - {name: SS-TCP-NA 🇧🇦 BA-185.164.35.9:989, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-34.193.97.35:443, server: 34.193.97.35, port: 443, type: ss, cipher: chacha20-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.113:8882, server: 23.157.40.113, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.86:8888, server: 69.50.95.86, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.24:5003, server: 23.150.152.24, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.71:8119, server: 38.121.43.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8008, server: 149.202.82.172, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.71:6379, server: 38.121.43.71, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:10014, server: 46.232.123.37, port: 10014, type: ss, cipher: chacha20-ietf-poly1305, password: 853a4d4c-153f-4897-9a9b-8528b2bfafb2}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-149.202.82.172:6379, server: 149.202.82.172, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:3306, server: 38.75.136.21, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50255, server: 46.232.123.37, port: 50255, type: ss, cipher: chacha20-ietf-poly1305, password: ef72f9da-87ee-42d1-aced-3c1930dab000}
+  - {name: SS-TCP-NA 🏴‍☠️ NA-172.67.204.84:8880, server: 172.67.204.84, port: 8880, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PW4LOuyuplhUM4fXD+v7h6CopWD2Si4iON1yC7ZoZGQ=:k+/niBBt01D78JJLFGcpxpyHJx07bwuaJvUUIucNsGM=}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:10015, server: 46.232.123.37, port: 10015, type: ss, cipher: chacha20-ietf-poly1305, password: 853a4d4c-153f-4897-9a9b-8528b2bfafb2}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50215, server: 46.232.123.37, port: 50215, type: ss, cipher: chacha20-ietf-poly1305, password: d31534ff-83a3-4137-91b7-79e144489643}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50204, server: 46.232.123.37, port: 50204, type: ss, cipher: chacha20-ietf-poly1305, password: 033c8fd4-ef0c-479c-a4ff-cbd0f4bd3ef1}
+  - {name: SS-TCP-NA 🇺🇦 UA-195.28.182.217:51348, server: 195.28.182.217, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: 70PXfAv4ldwsOT5714dgutH0sw5y5tinhGxYqMuF7CqVcCXJ}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-51.159.111.208:989, server: 51.159.111.208, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: SS-TCP-NA 🇲🇩 MD-176.123.1.241:8576, server: 176.123.1.241, port: 8576, type: ss, cipher: chacha20-ietf-poly1305, password: xjjHhhWyyIQAl1WHWkzdxl}
+  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-3.67.70.16:23456, server: 3.67.70.16, port: 23456, type: ss, cipher: chacha20-ietf-poly1305, password: 2ql6YkDqgDP8TCf2HFFMFT}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.39:9101, server: 69.50.95.39, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-38.207.154.30:30002, server: 38.207.154.30, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 9c2bf54f-5f13-4d71-b866-3a3f23c4d86b}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-141.95.126.108:443, server: 141.95.126.108, port: 443, type: ss, cipher: aes-256-cfb, password: asdKkaskJKfnsa}
+  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-188.245.87.175:80, server: 188.245.87.175, port: 80, type: ss, cipher: aes-256-gcm, password: CH1UNTDYpn/iAH8O1dMmv/Hs8c46PU9GXnHrGyt4SW0=}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-149.202.82.172:8882, server: 149.202.82.172, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.174:443, server: 69.50.95.174, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.120:8881, server: 23.157.40.120, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: SS-TCP-NA 🇧🇪 BE-38.180.18.119:1080, server: 38.180.18.119, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 3pURuTUf-lFgg5qWg8euFA}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-220.246.100.139:22375, server: 220.246.100.139, port: 22375, type: ss, cipher: chacha20-ietf-poly1305, password: c1bbfd05-1d32-4b9b-9feb-79eb5ad3645d}
+  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-136.244.81.170:20888, server: 136.244.81.170, port: 20888, type: ss, cipher: chacha20-ietf-poly1305, password: n42zLJySrLalpdw6cDCckY}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.51:8091, server: 38.110.1.51, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-117.143.14.158:42669, server: 117.143.14.158, port: 42669, type: ss, cipher: aes-128-gcm, password: 48b197da0e414acc}
+  - {name: 🇷🇺 SS-TCP-NA 🇷🇺 RU-195.2.76.71:60422, server: 195.2.76.71, port: 60422, type: ss, cipher: chacha20-ietf-poly1305, password: Zmq9XPPKQMcVRvMVAPMiAA}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.24:8888, server: 23.150.152.24, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:8091, server: 23.157.40.83, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:5003, server: 23.157.40.83, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.86.135.31:443, server: 38.86.135.31, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-38.207.154.30:45076, server: 38.207.154.30, port: 45076, type: ss, cipher: chacha20-ietf-poly1305, password: 9c2bf54f-5f13-4d71-b866-3a3f23c4d86b}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-213.130.141.113:28102, server: 213.130.141.113, port: 28102, type: ss, cipher: chacha20-ietf-poly1305, password: 4e079290-392b-4e4b-bdc4-f0a1f56ae841}
+  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8888, server: 51.77.53.200, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-193.29.139.237:8080, server: 193.29.139.237, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: a8bt9fY0QsLS6eLnXUe0Ym}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:20005, server: 46.232.123.37, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: 853a4d4c-153f-4897-9a9b-8528b2bfafb2}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.69:8090, server: 38.114.114.69, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇨🇦 SS-TCP-NA 🇨🇦 CA-134.195.196.178:805, server: 134.195.196.178, port: 805, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:40030, server: 46.232.123.37, port: 40030, type: ss, cipher: chacha20-ietf-poly1305, password: 853a4d4c-153f-4897-9a9b-8528b2bfafb2}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.87:8881, server: 23.157.40.87, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-40.172.15.243:443, server: 40.172.15.243, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: SS-TCP-NA 🇹🇷 TR-83.217.9.104:443, server: 83.217.9.104, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: uLXKqw9h3Ff0LiFOShB3lQ}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.29:9101, server: 23.157.40.29, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
   - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.26:3306, server: 23.157.40.26, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇩🇪 SS-TCP-NA 🇩🇪 DE-128.140.81.110:80, server: 128.140.81.110, port: 80, type: ss, cipher: aes-256-gcm, password: rPy+VXFHmdhMPPG3JjlYe/IGDkUZuhSbbVoFyo4LDiY=}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.167:8119, server: 38.110.1.167, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-117.143.14.158:42312, server: 117.143.14.158, port: 42312, type: ss, cipher: aes-128-gcm, password: 48b197da0e414acc}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.65:2375, server: 38.121.43.65, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:50233, server: 46.232.123.37, port: 50233, type: ss, cipher: chacha20-ietf-poly1305, password: 033c8fd4-ef0c-479c-a4ff-cbd0f4bd3ef1}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.87:2375, server: 23.157.40.87, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.113:445, server: 23.157.40.113, port: 445, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.26:5601, server: 23.157.40.26, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: SS-TCP-NA 🇨🇭 CH-195.15.243.171:2048, server: 195.15.243.171, port: 2048, type: ss, cipher: chacha20-poly1305, password: FDfrXXL5TYb3LfBUFSAgDp46/BCAzQZFronMWDV5J54=}
-  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8882, server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.225:8000, server: 15.204.87.225, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.20:8000, server: 23.157.40.20, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:9102, server: 51.77.53.200, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.68.134.9:5601, server: 38.68.134.9, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.83:8090, server: 23.157.40.83, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-46.232.123.37:30017, server: 46.232.123.37, port: 30017, type: ss, cipher: chacha20-ietf-poly1305, password: 853a4d4c-153f-4897-9a9b-8528b2bfafb2}
-  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-117.143.14.158:42744, server: 117.143.14.158, port: 42744, type: ss, cipher: aes-128-gcm, password: 48b197da0e414acc}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.33:5001, server: 38.75.136.33, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.112:7002, server: 23.150.152.112, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.16:9102, server: 23.150.152.16, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.112:8009, server: 23.150.152.112, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-218.250.217.111:81, server: 218.250.217.111, port: 81, type: ss, cipher: aes-128-gcm, password: a-wym4ovY4Yw}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.113:5004, server: 23.157.40.113, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-54.36.174.181:5003, server: 54.36.174.181, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-54.157.24.8:443, server: 54.157.24.8, port: 443, type: ss, cipher: chacha20-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: SS-TCP-NA 🇪🇪 EE-95.164.8.130:443, server: 95.164.8.130, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RqSb1brwAqTCp5iXK-tlLg}
+  - {name: 🇨🇦 SS-TCP-NA 🇨🇦 CA-23.162.200.181:5004, server: 23.162.200.181, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+  - {name: 🇸🇬 SS-TCP-NA 🇸🇬 SG-152.69.211.94:16889, server: 152.69.211.94, port: 16889, type: ss, cipher: chacha20-ietf-poly1305, password: 8bf1a294-3b6b-45f5-b321-201b83ea9114}
