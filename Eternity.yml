@@ -11,7 +11,7 @@ dns:
   - 1.1.1.1
   - 8.8.8.8
 proxies:
-- name: CF|🟢|vmess|@V2rayCollectorDonate|4 | 99.569MB
+- name: CF|🟢|vmess|@V2rayCollectorDonate|4 | 106.73MB
   server: 172.67.71.160
   port: 443
   type: vmess
@@ -20,265 +20,265 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: CF|🟢|vmess|@V2rayCollectorDonate|4 | 99.569MB
+  servername: CF|🟢|vmess|@V2rayCollectorDonate|4 | 106.73MB
   network: ws
   ws-opts:
     path: /linkws
     headers:
       Host: obdii.cfd
-- name: IE|🟢|trojan|@PrivateVPNs|0 | 95.937MB
+- name: 🇬🇧GB|🟢|trojan|@PrivateVPNs|0 | 88.935MB
+  server: 13.41.220.181
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|1 | 49.035MB
+  server: 35.181.84.224
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|2 | 42.539MB
+  server: 15.188.248.36
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|3 | 36.804MB
+  server: 18.193.170.49
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|4 | 34.858MB
+  server: 3.64.111.17
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: SE|🟢|trojan|@PrivateVPNs|5 | 33.8MB
+  server: 51.20.194.243
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: SE|🟢|trojan|@PrivateVPNs|6 | 33.463MB
+  server: 13.49.37.39
+  port: 22222
+  type: trojan
+  password: telegram-id-privatevpns
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: IE|🟢|trojan|@PrivateVPNs|7 | 32.228MB
   server: 34.240.36.136
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: IE|🟢|trojan|@PrivateVPNs|1 | 83.815MB
+- name: IE|🟢|trojan|@PrivateVPNs|8 | 31.111MB
   server: 3.254.217.40
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇬🇧GB|🟢|trojan|@PrivateVPNs|2 | 83.123MB
+- name: 🇬🇧GB|🟢|trojan|@PrivateVPNs|9 | 30.727MB
   server: 3.10.251.210
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇬🇧GB|🟢|trojan|@PrivateVPNs|3 | 74.245MB
+- name: 🇬🇧GB|🟢|trojan|@PrivateVPNs|10 | 30.718MB
   server: 18.175.108.180
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|4 | 70.729MB
+- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|11 | 30.56MB
   server: 15.236.66.24
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|5 | 41.368MB
+- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|12 | 30.344MB
   server: 13.37.131.45
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|6 | 35.919MB
+- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|13 | 30.304MB
   server: 52.59.95.40
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|7 | 35.907MB
+- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|14 | 28.696MB
   server: 3.76.57.96
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: SE|🟢|trojan|@PrivateVPNs|8 | 35.278MB
+- name: SE|🟢|trojan|@PrivateVPNs|15 | 24.871MB
   server: 13.50.184.242
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: SE|🟢|trojan|@PrivateVPNs|9 | 34.874MB
+- name: SE|🟢|trojan|@PrivateVPNs|16 | 21.926MB
   server: 16.170.174.238
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: IE|🟢|trojan|@PrivateVPNs|10 | 34.189MB
+- name: IE|🟢|trojan|@PrivateVPNs|17 | 21.718MB
   server: 46.137.118.193
   port: 22222
   type: trojan
   password: telegram-id-privatevpns
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: IE|🟢|trojan|@PrivateVPNs|11 | 33.839MB
-  server: 176.34.126.244
+- name: IE|🟢|trojan|@DirectVPN|0 | 21.068MB
+  server: 54.220.30.226
   port: 22222
   type: trojan
-  password: telegram-id-privatevpns
+  password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇬🇧GB|🟢|trojan|@PrivateVPNs|12 | 33.78MB
-  server: 18.171.99.237
+- name: IE|🟢|trojan|@DirectVPN|1 | 19.535MB
+  server: 52.209.142.161
   port: 22222
   type: trojan
-  password: telegram-id-privatevpns
+  password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇬🇧GB|🟢|trojan|@PrivateVPNs|13 | 33.746MB
-  server: 3.11.191.246
+- name: 🇬🇧GB|🟢|trojan|@DirectVPN|2 | 19.508MB
+  server: 18.169.101.247
   port: 22222
   type: trojan
-  password: telegram-id-privatevpns
+  password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|14 | 33.395MB
-  server: 13.37.128.6
+- name: 🇬🇧GB|🟢|trojan|@DirectVPN|3 | 19.03MB
+  server: 35.176.238.211
   port: 22222
   type: trojan
-  password: telegram-id-privatevpns
+  password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇫🇷FR|🟢|trojan|@PrivateVPNs|15 | 33.232MB
-  server: 13.39.191.249
+- name: 🇫🇷FR|🟢|trojan|@DirectVPN|4 | 18.792MB
+  server: 15.236.34.61
   port: 22222
   type: trojan
-  password: telegram-id-privatevpns
+  password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|16 | 33.085MB
-  server: 3.64.76.22
+- name: 🇫🇷FR|🟢|trojan|@DirectVPN|5 | 18.766MB
+  server: 13.38.168.162
   port: 22222
   type: trojan
-  password: telegram-id-privatevpns
+  password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇩🇪DE|🟢|trojan|@PrivateVPNs|17 | 32.711MB
-  server: 3.122.12.15
+- name: SE|🟢|trojan|@DirectVPN|6 | 17.482MB
+  server: 13.48.122.62
   port: 22222
   type: trojan
-  password: telegram-id-privatevpns
+  password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇩🇪DE|🟢|trojan|@DirectVPN|0 | 32.545MB
+- name: SE|🟢|trojan|@DirectVPN|7 | 14.339MB
+  server: 13.50.64.151
+  port: 22222
+  type: trojan
+  password: telegram-id-directvpn
+  sni: trojan.burgerip.co.uk
+  skip-cert-verify: false
+- name: 🇩🇪DE|🟢|trojan|@DirectVPN|8 | 14.215MB
   server: 3.69.160.198
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇩🇪DE|🟢|trojan|@DirectVPN|1 | 31.496MB
+- name: 🇩🇪DE|🟢|trojan|@DirectVPN|9 | 13.05MB
   server: 18.184.47.96
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: SE|🟢|trojan|@DirectVPN|2 | 30.755MB
+- name: SE|🟢|trojan|@DirectVPN|10 | 13.005MB
   server: 13.53.84.170
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: SE|🟢|trojan|@DirectVPN|3 | 29.248MB
+- name: SE|🟢|trojan|@DirectVPN|11 | 12.738MB
   server: 51.20.241.67
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇺🇸US|🟢|trojan|@DirectVPN|4 | 29.06MB
+- name: 🇺🇸US|🟢|trojan|@DirectVPN|12 | 12.709MB
   server: 35.174.64.231
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇺🇸US|🟢|trojan|@DirectVPN|5 | 27.315MB
+- name: 🇺🇸US|🟢|trojan|@DirectVPN|13 | 12.565MB
   server: 3.130.239.241
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇺🇸US|🟢|trojan|@DirectVPN|6 | 25.874MB
+- name: 🇺🇸US|🟢|trojan|@DirectVPN|14 | 12.542MB
   server: 3.13.235.22
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇨🇦CA|🟢|trojan|@DirectVPN|7 | 25.319MB
+- name: 🇨🇦CA|🟢|trojan|@DirectVPN|15 | 12.457MB
   server: 15.157.98.140
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: 🇨🇦CA|🟢|trojan|@DirectVPN|8 | 23.541MB
+- name: 🇨🇦CA|🟢|trojan|@DirectVPN|16 | 12.041MB
   server: 35.183.231.28
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: IE|🟢|trojan|@DirectVPN|9 | 23.056MB
+- name: IE|🟢|trojan|@DirectVPN|17 | 11.725MB
   server: 54.75.221.39
   port: 22222
   type: trojan
   password: telegram-id-directvpn
   sni: trojan.burgerip.co.uk
   skip-cert-verify: false
-- name: IE|🟢|trojan|@DirectVPN|10 | 22.377MB
-  server: 52.49.9.125
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: 🇬🇧GB|🟢|trojan|@DirectVPN|11 | 20.779MB
-  server: 3.11.244.181
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: 🇬🇧GB|🟢|trojan|@DirectVPN|12 | 20.431MB
-  server: 18.132.55.237
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: 🇫🇷FR|🟢|trojan|@DirectVPN|13 | 20.187MB
-  server: 13.39.244.192
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: 🇫🇷FR|🟢|trojan|@DirectVPN|14 | 18.256MB
-  server: 13.39.246.224
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: SE|🟢|trojan|@DirectVPN|15 | 18.065MB
-  server: 13.50.180.156
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: SE|🟢|trojan|@DirectVPN|16 | 16.159MB
-  server: 13.60.130.106
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: 🇩🇪DE|🟢|trojan|@DirectVPN|17 | 15.643MB
-  server: 18.153.251.85
-  port: 22222
-  type: trojan
-  password: telegram-id-directvpn
-  sni: trojan.burgerip.co.uk
-  skip-cert-verify: false
-- name: 🇫🇷FR|🟢|vmess|@v2ray_outlineir|0 | 15.388MB
+- name: 🇫🇷FR|🟢|vmess|@v2ray_outlineir|0 | 10.728MB
   server: 146.59.147.250
   port: 29776
   type: vmess
@@ -287,7 +287,21 @@ proxies:
   cipher: auto
   tls: false
   skip-cert-verify: false
-- name: 🇨🇳CN|🟢|vmess|@mftizi|0 | 15.038MB
+- name: 🇺🇸US|🟢|vmess|@mftizi|0 | 8.343MB
+  server: cfcdn3.sanfencdn9.com
+  port: 80
+  type: vmess
+  uuid: 7e1d0a3d-8d0d-46b9-83bf-0eac8cf895c6
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /video/ibCT6z55
+    headers:
+      Host: agzbjszujp4.yofnhkfc.xyz
+- name: 🇨🇳CN|🟢|vmess|@mftizi|1 | 7.625MB
   server: 183.236.51.23
   port: 54104
   type: vmess
@@ -296,7 +310,7 @@ proxies:
   cipher: auto
   tls: false
   skip-cert-verify: false
-- name: 🇨🇳CN|🟢|vmess|@mftizi|2 | 14.915MB
+- name: 🇨🇳CN|🟢|vmess|@mftizi|3 | 6.414MB
   server: mmhk01.micloud.buzz
   port: 46001
   type: vmess
@@ -310,7 +324,7 @@ proxies:
     path: /zh-cn
     headers:
       Host: mmhk01.micloud.buzz
-- name: 🇨🇳CN|🟢|vmess|@mftizi|4 | 14.54MB
+- name: 🇨🇳CN|🟢|vmess|@mftizi|5 | 6.092MB
   server: mmhk01.micloud.buzz
   port: 46001
   type: vmess
@@ -324,7 +338,7 @@ proxies:
     path: /zh-cn
     headers:
       Host: mmhk01.micloud.buzz
-- name: 🇨🇳CN|🟢|vmess|@mftizi|6 | 14.403MB
+- name: 🇨🇳CN|🟢|vmess|@mftizi|7 | 5.89MB
   server: 183.236.51.23
   port: 45020
   type: vmess
@@ -333,7 +347,7 @@ proxies:
   cipher: auto
   tls: false
   skip-cert-verify: false
-- name: 🇺🇸US|🟢|vmess|@mftizi|13 | 14.304MB
+- name: 🇺🇸US|🟢|vmess|@mftizi|14 | 5.725MB
   server: cfcdn1.sanfencdn9.com
   port: 2052
   type: vmess
@@ -347,7 +361,7 @@ proxies:
     path: /video/GQ2qE5Us9g
     headers:
       Host: tw1bQiWSE4x.fzbqfrse.xyz
-- name: 🇨🇳CN|🟢|vmess|@mftizi|14 | 13.954MB
+- name: 🇨🇳CN|🟢|vmess|@mftizi|15 | 5.628MB
   server: 183.238.202.173
   port: 51193
   type: vmess
@@ -356,40 +370,33 @@ proxies:
   cipher: auto
   tls: false
   skip-cert-verify: false
-- name: 🇨🇳CN|🟢|vmess|@mftizi|16 | 13.756MB
-  server: 120.232.153.71
-  port: 45972
-  type: vmess
-  uuid: 770ee730-2450-4e3c-a6c6-3932bd32afbd
-  alterId: 64
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-- name: 🇨🇳CN|🟢|vmess|@mftizi|17 | 13.365MB
-  server: 183.240.235.166
-  port: 31778
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  alterId: 64
-  cipher: auto
-  tls: false
-  skip-cert-verify: false
-- name: SE|🟢|vmess|@DeamNet_Proxy|0 | 12.711MB
-  server: 185.146.173.59
+- name: 🇬🇧GB|🟢|ss|@DeamNet_Proxy|3 | 5.619MB
+  server: series-a1.samanehha.co
   port: 443
+  type: ss
+  cipher: chacha20-poly1305
+  password: W74XFALLLuw6m5IA
+- name: CF|🟢|vmess|@DeamNet_Proxy|11 | 5.607MB
+  server: 104.16.60.8
+  port: 2095
   type: vmess
-  uuid: 6c168fcc-2231-4f3b-8c1e-f6391692df4a
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
   alterId: 0
   cipher: auto
-  tls: true
+  tls: false
   skip-cert-verify: false
-  servername: SE|🟢|vmess|@DeamNet_Proxy|0 | 12.711MB
   network: ws
   ws-opts:
-    path: /link
+    path: /obdii.cfd/linkws
     headers:
-      Host: hms02.fxiaomi.sbs
-- name: 🇸🇬SG|🟢|vmess|@ShadowProxy66|11 | 12.623MB
+      Host: ury-unit-c030ehei8.poget71138.workers.dev
+- name: 🇩🇪DE|🟢|ss|@DeamNet_Proxy|14 | 5.222MB
+  server: 81.19.141.45
+  port: 52873
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: BXkeUSabwj1rRTj4cLT3O5
+- name: 🇸🇬SG|🟢|vmess|@ShadowProxy66|11 | 5.074MB
   server: sin.raspberryip.com
   port: 13024
   type: vmess
@@ -398,228 +405,220 @@ proxies:
   cipher: auto
   tls: false
   skip-cert-verify: false
-- name: CF|🟢|vmess|@v2ray1_ng|9 | 12.59MB
-  server: 104.21.94.64
-  port: 443
-  type: vmess
-  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
-  alterId: 0
-  cipher: auto
-  tls: true
-  skip-cert-verify: false
-  servername: CF|🟢|vmess|@v2ray1_ng|9 | 12.59MB
-  network: ws
-  ws-opts:
-    path: /linkws
-    headers:
-      Host: linja05.hwcar.sbs
-- name: 🇩🇪DE|🟢|ss|@VmessProtocol|7 | 12.456MB
+- name: 🇩🇪DE|🟢|ss|@VmessProtocol|8 | 4.658MB
   server: 188.34.194.165
   port: 80
   type: ss
   cipher: 2022-blake3-aes-256-gcm
   password: pZ4+ZusaghoksCUR75L2TVQ0zFPugWwgpuDpyXzxmcc=
-- name: AE|🟢|ss|@VmessProtocol|12 | 12.372MB
+- name: AE|🟢|ss|@VmessProtocol|13 | 4.608MB
   server: series-a2-mec.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: u17T3BvpYaaiuW2c
-- name: CF|🟢|vmess|@DailyV2RY|294 | 12.248MB
-  server: 104.21.51.208
-  port: 80
+- name: ❔XX|🟢|vmess|@DailyV2RY|286 | 4.018MB
+  server: ''
+  port: 0
   type: vmess
-  uuid: cb4fca5f-edf8-415b-aa8f-ac52f415296a
+  uuid: 00000000-0000-0000-0000-000000000000
   alterId: 0
   cipher: auto
   tls: false
   skip-cert-verify: false
-  network: ws
-  ws-opts:
-    path: /0fpZFB6IbpNptGAxAtI0QM
-    headers:
-      Host: deefull.tradex2080.com
-- name: TR|🟢|ss|@OutlineVpnOfficial|0 | 12.105MB
+- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|0 | 3.434MB
+  server: 15.204.87.222
+  port: 8080
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|1 | 3.162MB
+  server: 23.94.76.55
+  port: 51981
+  type: ss
+  cipher: aes-256-gcm
+  password: 06gZKkeC2J
+- name: TR|🟢|ss|@OutlineVpnOfficial|2 | 2.64MB
   server: 5.188.36.54
   port: 51348
   type: ss
   cipher: chacha20-ietf-poly1305
   password: xeQxB7sMGptfFct2qk2ESLeCNLLhRRwXrkNZXCdLFYvYwPQD
-- name: 🇸🇬SG|🟢|ss|@OutlineVpnOfficial|1 | 11.821MB
+- name: 🇸🇬SG|🟢|ss|@OutlineVpnOfficial|3 | 2.303MB
   server: 159.65.129.128
   port: 18814
   type: ss
   cipher: chacha20-ietf-poly1305
   password: ZdWZ9QvFlbOOGreMoE3Bq8
-- name: SE|🟢|ss|@OutlineVpnOfficial|2 | 11.795MB
+- name: SE|🟢|ss|@OutlineVpnOfficial|4 | 2.083MB
   server: 217.196.103.206
   port: 29312
   type: ss
   cipher: chacha20-ietf-poly1305
   password: qgpdyzHj8rZW9fDxxkUHRI
-- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|3 | 10.389MB
+- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|5 | 2.081MB
   server: 51.77.53.200
   port: 8080
   type: ss
   cipher: aes-256-gcm
   password: KixLvKzwjekG00rm
-- name: 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|4 | 10.034MB
+- name: 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|6 | 2.023MB
   server: 167.71.77.212
   port: 62062
   type: ss
   cipher: chacha20-ietf-poly1305
   password: UeCtaK8vx4M5UfYOXzCXt5
-- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|5 | 9.849MB
+- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|7 | 1.839MB
   server: 2.58.87.221
   port: 16899
   type: ss
   cipher: aes-128-gcm
   password: Yc2CtrIz8L
-- name: 🇯🇵JP|🟢|ss|@OutlineVpnOfficial|6 | 9.099MB
+- name: 🇯🇵JP|🟢|ss|@OutlineVpnOfficial|8 | 1.772MB
   server: 185.172.113.182
   port: 800
   type: ss
   cipher: chacha20-ietf-poly1305
   password: G!yBwPWH3Vao
-- name: 🇮🇳IN|🟢|ss|@OutlineVpnOfficial|7 | 6.619MB
+- name: 🇮🇳IN|🟢|ss|@OutlineVpnOfficial|9 | 1.727MB
   server: 165.22.208.240
   port: 4917
   type: ss
   cipher: chacha20-ietf-poly1305
   password: l2zEoLV7XbwU4ZvGN46gyr
-- name: 🇷🇺RU|🟢|ss|@OutlineVpnOfficial|8 | 6.606MB
+- name: 🇷🇺RU|🟢|ss|@OutlineVpnOfficial|10 | 1.675MB
   server: 195.2.76.71
   port: 60422
   type: ss
   cipher: chacha20-ietf-poly1305
   password: WBudlMu3Zbyt8ztYtcLmS3
-- name: IE|🟢|ss|@OutlineVpnOfficial|9 | 6.594MB
+- name: IE|🟢|ss|@OutlineVpnOfficial|11 | 1.654MB
   server: 13.94.117.31
   port: 10238
   type: ss
   cipher: chacha20-ietf-poly1305
   password: xPrKUBQPwCFeXEQ5uXlRNX
-- name: 🇭🇰HK|🟢|ss|@OutlineVpnOfficial|10 | 6.558MB
+- name: 🇭🇰HK|🟢|ss|@OutlineVpnOfficial|12 | 1.61MB
   server: 218.250.217.111
   port: 81
   type: ss
   cipher: aes-128-gcm
   password: a-wym4ovY4Yw
-- name: 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|11 | 6.547MB
+- name: 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|13 | 1.361MB
   server: 212.102.53.79
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|12 | 6.258MB
+- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|14 | 1.188MB
   server: 107.173.192.238
   port: 9875
   type: ss
   cipher: aes-256-gcm
   password: BoiX102924
-- name: 🇫🇷FR|🟢|ss|@OutlineVpnOfficial|13 | 6.163MB
+- name: 🇫🇷FR|🟢|ss|@OutlineVpnOfficial|15 | 1.128MB
   server: 149.202.82.172
   port: 5004
   type: ss
   cipher: aes-256-gcm
   password: g5MeD6Ft3CWlJId
-- name: KZ|🟢|ss|@OutlineVpnOfficial|14 | 5.537MB
+- name: KZ|🟢|ss|@OutlineVpnOfficial|16 | 1.118MB
   server: 89.44.193.112
   port: 51348
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 04yG0sOWSRVSlid9mfKUmmj8U4XgVlodu4oSRU90ey2e0CQ2
-- name: 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|15 | 5.373MB
+- name: 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|17 | 1.088MB
   server: 167.235.139.105
   port: 51348
   type: ss
   cipher: chacha20-ietf-poly1305
   password: P0VmjYa00wNNEDBoDuWKfIdWKIxycJQuq1eIwXMCRi2T650R
-- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|16 | 4.967MB
+- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|18 | 1.087MB
   server: 23.157.40.103
   port: 8882
   type: ss
   cipher: aes-256-gcm
   password: kDWvXYZoTBcGkC4
-- name: CY|🟢|ss|@OutlineVpnOfficial|17 | 4.785MB
+- name: CY|🟢|ss|@OutlineVpnOfficial|19 | 1.085MB
   server: 193.201.15.185
   port: 35199
   type: ss
   cipher: chacha20-ietf-poly1305
   password: KD1HHqw3qyK7RhaipiqRap
-- name: 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|18 | 4.728MB
+- name: 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|20 | 1.08MB
   server: 45.158.171.131
   port: 8080
   type: ss
   cipher: chacha20-ietf-poly1305
   password: a8bt9fY0QsLS6eLnXUe0Ym
-- name: CH|🟢|ss|@OutlineVpnOfficial|19 | 4.56MB
+- name: CH|🟢|ss|@OutlineVpnOfficial|21 | 1.079MB
   server: 51.103.232.91
   port: 8929
   type: ss
   cipher: chacha20-ietf-poly1305
   password: 76ZehNxtyrhe4tLmDYfHsq
-- name: 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|20 | 3.843MB
+- name: 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|22 | 1.079MB
   server: 38.111.114.133
   port: 443
   type: ss
   cipher: aes-256-gcm
   password: pKEW8JPByTVTLtM
-- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|21 | 3.781MB
+- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|23 | 1.078MB
   server: 38.86.135.31
   port: 5001
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|22 | 3.404MB
+- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|24 | 1.078MB
   server: 77.83.246.74
   port: 33320
   type: ss
   cipher: chacha20-ietf-poly1305
   password: Hd2nY5MZaKGVyoTHcgLpjX
-- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|23 | 3.395MB
+- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|25 | 1.078MB
   server: 51.77.53.200
   port: 8882
   type: ss
   cipher: aes-256-gcm
   password: kDWvXYZoTBcGkC4
-- name: 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|24 | 3.095MB
+- name: 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|26 | 1.078MB
   server: 188.212.132.20
   port: 52952
   type: ss
   cipher: chacha20-ietf-poly1305
   password: XRUwpkSouW5HCTUFUxErfnL5AmahofrjznVrAu2iNFMFGUCrChznAULhuHGAQdC463mzcgo2jV546Ut5HKhk3pz956cHYYyc
-- name: 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|25 | 2.835MB
+- name: 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|27 | 1.078MB
   server: 142.202.51.58
   port: 3389
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|26 | 2.822MB
+- name: 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|28 | 1.077MB
   server: 54.36.174.181
   port: 2375
   type: ss
   cipher: aes-256-gcm
   password: faBAoD54k87UJG7
-- name: 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|27 | 2.782MB
+- name: 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|29 | 1.077MB
   server: 81.19.141.45
   port: 52873
   type: ss
   cipher: chacha20-ietf-poly1305
   password: x13Cv63IdnCZCBNwY0E9dQ
-- name: 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|28 | 2.772MB
+- name: 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|30 | 1.077MB
   server: ca225.vpnbook.com
   port: 80
   type: ss
   cipher: chacha20-ietf-poly1305
   password: JIhN6rBKkaEboLNXVSv5rq
-- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|29 | 2.747MB
+- name: 🇺🇸US|🟢|ss|@OutlineVpnOfficial|31 | 1.077MB
   server: 38.86.135.225
   port: 7307
   type: ss
   cipher: aes-256-gcm
   password: FoOiGlkAA9yPEGP
-- name: CF|🟢|vmess|@proxystore11|0 | 2.227MB
+- name: CF|🟢|vmess|@proxystore11|0 | 1.077MB
   server: 104.21.9.236
   port: 443
   type: vmess
@@ -628,13 +627,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: CF|🟢|vmess|@proxystore11|0 | 2.227MB
+  servername: CF|🟢|vmess|@proxystore11|0 | 1.077MB
   network: ws
   ws-opts:
     path: /linkws
     headers:
       Host: hms19.best-tizi.top
-- name: CF|🟢|vmess|@proxystore11|1 | 2.225MB
+- name: CF|🟢|vmess|@proxystore11|1 | 1.077MB
   server: 104.26.15.148
   port: 80
   type: vmess
@@ -648,7 +647,7 @@ proxies:
     path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
     headers:
       Host: 58892877706648357761980405045364.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
-- name: 🇳🇱NL|🟢|vmess|@yaney_01|1 | 2.13MB
+- name: 🇳🇱NL|🟢|vmess|@yaney_01|1 | 1.076MB
   server: 45.199.138.217
   port: 41000
   type: vmess
@@ -660,7 +659,7 @@ proxies:
   network: ws
   ws-opts:
     path: /path/282018252526
-- name: 🇺🇸US|🟢|vmess|@yaney_01|2 | 2.084MB
+- name: 🇺🇸US|🟢|vmess|@yaney_01|2 | 1.076MB
   server: 107.149.119.43
   port: 37000
   type: vmess
@@ -672,7 +671,7 @@ proxies:
   network: ws
   ws-opts:
     path: /path/040318142507
-- name: ❔XX|🟢|vmess|@yaney_01|3 | 2.041MB
+- name: ❔XX|🟢|vmess|@yaney_01|3 | 1.076MB
   server: admin.arzonhost.ir
   port: 2086
   type: vmess
@@ -686,7 +685,7 @@ proxies:
     path: /
     headers:
       Host: admin.arzonhost.ir
-- name: 🇨🇳CN|🟢|vmess|@yaney_01|4 | 1.905MB
+- name: 🇨🇳CN|🟢|vmess|@yaney_01|4 | 1.076MB
   server: ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub
   port: 80
   type: vmess
@@ -700,7 +699,7 @@ proxies:
     path: /
     headers:
       Host: tms.dingtalk.com
-- name: CF|🟢|vmess|@yaney_01|5 | 1.903MB
+- name: CF|🟢|vmess|@yaney_01|5 | 1.076MB
   server: 104.26.8.210
   port: 443
   type: vmess
@@ -714,7 +713,22 @@ proxies:
     path: /66
     headers:
       Host: uyhgiuyfewdrgf-to12345.xiaohhh.xyz
-- name: ❔XX|🟢|vmess|@Hope_Net|0 | 1.777MB
+- name: CF|🟢|vmess|@free1_vpn|1 | 1.076MB
+  server: 104.21.94.64
+  port: 443
+  type: vmess
+  uuid: 39cec18f-a439-427c-9a4e-aeb6fcdf6f53
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: false
+  servername: CF|🟢|vmess|@free1_vpn|1 | 1.076MB
+  network: ws
+  ws-opts:
+    path: /linkws
+    headers:
+      Host: linja05.hwcar.sbs
+- name: ❔XX|🟢|vmess|@Hope_Net|0 | 1.076MB
   server: jp2.elkcloud.cf
   port: 80
   type: vmess
@@ -728,7 +742,7 @@ proxies:
     path: /qatjpji
     headers:
       Host: '%7B%22Host%22:%22data.video.qiyi.com%22%7D'
-- name: 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.645MB
+- name: 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.076MB
   server: zula.ir
   port: 2096
   type: vmess
@@ -737,13 +751,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.645MB
+  servername: 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.076MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: kingo.hightechservice.ir
-- name: CF|🟢|vmess|@Hope_Net|2 | 1.364MB
+- name: CF|🟢|vmess|@Hope_Net|2 | 1.076MB
   server: 172.67.220.83
   port: 443
   type: vmess
@@ -752,13 +766,27 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: CF|🟢|vmess|@Hope_Net|2 | 1.364MB
+  servername: CF|🟢|vmess|@Hope_Net|2 | 1.076MB
   network: ws
   ws-opts:
     path: /linkws
     headers:
       Host: linja05.hwcar.sbs
-- name: CF|🟢|vmess|@v2Line|0 | 1.096MB
+- name: CF|🟢|vmess|@v2Line|0 | 1.076MB
+  server: 172.64.154.211
+  port: 80
+  type: vmess
+  uuid: 5132dcbc-3299-477c-9e96-930c77b7537d
+  alterId: 0
+  cipher: auto
+  tls: false
+  skip-cert-verify: false
+  network: ws
+  ws-opts:
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+    headers:
+      Host: 73012792103530616183052842717949.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
+- name: CF|🟢|vmess|@v2Line|1 | 1.076MB
   server: 104.26.15.148
   port: 80
   type: vmess
@@ -772,7 +800,7 @@ proxies:
     path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
     headers:
       Host: 58892877706648357761980405045364.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou
-- name: CF|🟢|vmess|@v2Line|1 | 1.09MB
+- name: CF|🟢|vmess|@v2Line|2 | 1.076MB
   server: 104.17.148.22
   port: 80
   type: vmess
@@ -786,7 +814,7 @@ proxies:
     path: /
     headers:
       Host: nlch.blueberrynetwork.store
-- name: CF|🟢|vmess|@nofiltering2|5 | 1.09MB
+- name: CF|🟢|vmess|@nofiltering2|5 | 1.076MB
   server: 104.21.95.165
   port: 443
   type: vmess
@@ -795,13 +823,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: CF|🟢|vmess|@nofiltering2|5 | 1.09MB
+  servername: CF|🟢|vmess|@nofiltering2|5 | 1.076MB
   network: ws
   ws-opts:
     path: /linkvws
     headers:
       Host: sareikela.com
-- name: 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.084MB
+- name: 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.076MB
   server: zula.ir
   port: 2096
   type: vmess
@@ -810,13 +838,13 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.084MB
+  servername: 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.076MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: cloud.hightechservice.ir
-- name: 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.083MB
+- name: 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.076MB
   server: zula.ir
   port: 2096
   type: vmess
@@ -825,1049 +853,1025 @@ proxies:
   cipher: auto
   tls: true
   skip-cert-verify: false
-  servername: 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.083MB
+  servername: 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.076MB
   network: ws
   ws-opts:
     path: /
     headers:
       Host: cloud.hightechservice.ir
-- name: 🇬🇧GB|🟢|ss|@ROMAX_VPN|2 | 1.079MB
+- name: 🇬🇧GB|🟢|ss|@ROMAX_VPN|2 | 1.076MB
   server: series-a1.samanehha.co
   port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
   password: W74XFALLLuw6m5IA
-- name: LATEST-UPDATE📅WED-24-MORDAD-1403🕑02:41 | 1.078MB
+- name: LATEST-UPDATE📅WED-24-MORDAD-1403🕑14:45 | 1.076MB
   server: 127.0.0.1
   port: 1080
   type: ss
   cipher: none
-  password: aababcc-acab-cbaa-cdab-cacbcabcbbaa
-- name: 🇺🇸SS-TCP-NA🇺🇸US-40.172.36.247:443 | 1.078MB
-  server: 40.172.36.247
-  port: 443
+  password: baaabcc-cbaa-caab-cbad-cbacbbbacaac
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50207 | 1.075MB
+  server: 46.232.123.37
+  port: 50207
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: goBk19aChEH2xXqI
-- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:7002 | 1.078MB
-  server: 15.204.87.225
-  port: 7002
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.46:8091 | 1.077MB
-  server: 38.114.114.46
-  port: 8091
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:5003 | 1.077MB
-  server: 54.36.174.181
+  password: 190067b9-63a3-4f8d-9c16-ee2737a87c14
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.197:5003 | 1.075MB
+  server: 38.110.1.197
   port: 5003
   type: ss
   cipher: aes-256-gcm
   password: g5MeD6Ft3CWlJId
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-157.245.206.70:3127 | 1.077MB
-  server: 157.245.206.70
-  port: 3127
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-85.159.230.44:52842 | 1.075MB
+  server: 85.159.230.44
+  port: 52842
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: JBdBmV7wiBKNNlyq55cazI
-- name: 🇨🇦SS-TCP-NA🇨🇦CA-81.19.140.31:65305 | 1.077MB
-  server: 81.19.140.31
-  port: 65305
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: WQC0BtSUQnhuBUkm0meQES
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8009 | 1.077MB
-  server: 23.157.40.89
-  port: 8009
+  password: E8m1Ia5lGZnkBIeiO4fmLZ
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 1.075MB
+  server: 38.114.114.69
+  port: 5500
   type: ss
   cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:8009 | 1.076MB
-  server: 23.157.40.103
-  port: 8009
-  type: ss
-  cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.79:443 | 1.076MB
-  server: 212.102.53.79
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-8.210.172.202:80 | 1.075MB
-  server: 8.210.172.202
-  port: 80
-  type: ss
-  cipher: aes-128-gcm
-  password: a-wym4ovY4Yw
-- name: SS-TCP-NA🇧🇭BH-15.185.170.210:443 | 1.075MB
-  server: 15.185.170.210
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: Bog0ELmMM9DSxDdQ
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.10:8091 | 1.075MB
-  server: 69.50.93.10
-  port: 8091
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.225:7001 | 1.074MB
-  server: 38.86.135.225
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.42:2376 | 1.074MB
-  server: 38.75.137.42
-  port: 2376
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:7001 | 1.074MB
-  server: 38.121.43.71
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-135.125.172.153:443 | 1.074MB
-  server: 135.125.172.153
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: asdKkaskJKfnsa
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:9090 | 1.073MB
-  server: 23.157.40.120
-  port: 9090
+  password: KixLvKzwjekG00rm
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5600 | 1.075MB
+  server: 149.202.82.172
+  port: 5600
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.107.226.146:1230 | 1.072MB
-  server: 38.107.226.146
-  port: 1230
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: H5S0hvcxRi#YLmgU
-- name: 🇳🇱SS-TCP-NA🇳🇱NL-188.212.132.20:52952 | 1.072MB
-  server: 188.212.132.20
-  port: 52952
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: XRUwpkSouW5HCTUFUxErfnL5AmahofrjznVrAu2iNFMFGUCrChznAULhuHGAQdC463mzcgo2jV546Ut5HKhk3pz956cHYYyc
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:6697 | 1.072MB
-  server: 54.36.174.181
-  port: 6697
-  type: ss
-  cipher: aes-256-gcm
-  password: TEzjfAYq2IjtuoS
-- name: SS-TCP-NA🇪🇪EE-95.164.8.130:443 | 1.072MB
-  server: 95.164.8.130
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: RqSb1brwAqTCp5iXK-tlLg
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:7307 | 1.071MB
-  server: 54.36.174.181
-  port: 7307
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇳🇱SS-TCP-NA🇳🇱NL-89.110.70.175:13402 | 1.071MB
-  server: 89.110.70.175
-  port: 13402
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: bPErPfNY2jEWF8q9GmNklX
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.19:7002 | 1.071MB
-  server: 38.68.135.19
-  port: 7002
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-62.133.60.60:21712 | 1.071MB
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-62.133.60.60:21712 | 1.075MB
   server: 62.133.60.60
   port: 21712
   type: ss
   cipher: chacha20-ietf-poly1305
   password: uf8L2qfrISGIU7xL7Cwr4O
-- name: 🇷🇺SS-TCP-NA🇷🇺RU-80.66.64.39:21076 | 1.071MB
-  server: 80.66.64.39
-  port: 21076
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: EenmocDpEfzIN6FBOfxrQN
-- name: SS-TCP-NA🇹🇷TR-185.123.101.241:989 | 1.071MB
-  server: 185.123.101.241
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: SS-TCP-NA🇻🇳VN-103.163.218.2:989 | 1.071MB
-  server: 103.163.218.2
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.158.195.96:443 | 1.071MB
-  server: 51.158.195.96
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: asdKkaskJKfnsa
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:2375 | 1.071MB
-  server: 38.75.136.21
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:2375 | 1.071MB
-  server: 38.111.114.133
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.101:5601 | 1.071MB
-  server: 69.50.95.101
-  port: 5601
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.24:5600 | 1.075MB
+  server: 23.150.152.24
+  port: 5600
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:8119 | 1.071MB
-  server: 54.36.174.181
-  port: 8119
-  type: ss
-  cipher: aes-256-gcm
-  password: cdBIDV42DCwnfIN
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.53:9101 | 1.071MB
-  server: 23.150.152.53
-  port: 9101
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:4444 | 1.07MB
-  server: 23.157.40.120
-  port: 4444
-  type: ss
-  cipher: aes-256-gcm
-  password: pKEW8JPByTVTLtM
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.118:2375 | 1.07MB
-  server: 69.50.93.118
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-45.144.48.63:57456 | 1.07MB
-  server: 45.144.48.63
-  port: 57456
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: d3837224ed465f00
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.118:8080 | 1.07MB
-  server: 69.50.93.118
-  port: 8080
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.46:8118 | 1.07MB
-  server: 38.114.114.46
-  port: 8118
-  type: ss
-  cipher: aes-256-gcm
-  password: cdBIDV42DCwnfIN
-- name: SS-TCP-NA🇮🇪IE-23.92.127.134:989 | 1.07MB
-  server: 23.92.127.134
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇳🇱SS-TCP-NA🇳🇱NL-109.107.185.225:443 | 1.07MB
-  server: 109.107.185.225
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: YsmyADxNtY6MztltFY1h7c
-- name: 🇷🇺SS-TCP-NA🇷🇺RU-195.2.76.71:60422 | 1.07MB
-  server: 195.2.76.71
-  port: 60422
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: cq079FNA6HLc7gnfGZIHW9
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-162.19.83.12:443 | 1.07MB
-  server: 162.19.83.12
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: asdKkaskJKfnsa
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8119 | 1.07MB
-  server: 23.157.40.120
-  port: 8119
-  type: ss
-  cipher: aes-256-gcm
-  password: cdBIDV42DCwnfIN
-- name: 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:811 | 1.07MB
-  server: 185.172.113.182
-  port: 811
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: G!yBwPWH3Vao
-- name: 🇨🇳SS-TCP-NA🇨🇳CN-120.232.217.88:36245 | 1.069MB
-  server: 120.232.217.88
-  port: 36245
-  type: ss
-  cipher: ss
-  password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZjVhMzE5NC04M2Q3LTQ0YWItYjdkOC1lYjFhNTZlOTUwZWE
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:6379 | 1.069MB
-  server: 38.114.114.69
-  port: 6379
-  type: ss
-  cipher: aes-256-gcm
-  password: zDNVedRFPQexG9v
-- name: 🇨🇦SS-TCP-NA🇨🇦CA-165.22.238.239:44386 | 1.069MB
-  server: 165.22.238.239
-  port: 44386
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: AQONBNwv8LztqVMNyZlEph
-- name: 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9041 | 1.069MB
-  server: 5.188.181.201
-  port: 9041
-  type: ss
-  cipher: aes-256-cfb
-  password: U6qnYRhfyDmn8sgn
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-95.181.161.101:13341 | 1.069MB
-  server: 95.181.161.101
-  port: 13341
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: P7WDQFBmpshWFhAgcHX3Tw
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-3.9.149.52:443 | 1.069MB
-  server: 3.9.149.52
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: mps3FwmDjLrWaOVg
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:9102 | 1.069MB
-  server: 23.150.152.16
-  port: 9102
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:14110 | 1.069MB
-  server: 213.130.141.113
-  port: 14110
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 43c1589b-3e05-4bbd-aeec-16fe1f0f5da5
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9102 | 1.069MB
-  server: 51.77.53.200
-  port: 9102
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.100:8009 | 1.069MB
-  server: 69.50.93.100
-  port: 8009
-  type: ss
-  cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-141.94.115.231:8443 | 1.069MB
-  server: 141.94.115.231
-  port: 8443
-  type: ss
-  cipher: aes-256-gcm
-  password: 5a2404d4-8fc8-4296-a79f-214dd2b2f4b9
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-95.164.35.90:8388 | 1.068MB
-  server: 95.164.35.90
-  port: 8388
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: OGViMmFl
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.176:9101 | 1.068MB
-  server: 23.154.136.176
-  port: 9101
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 1.068MB
-  server: 205.134.180.145
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: hgLCgfLRgB6d
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:6697 | 1.067MB
-  server: 38.121.43.71
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:6697 | 1.075MB
+  server: 23.157.40.89
   port: 6697
   type: ss
   cipher: aes-256-gcm
   password: TEzjfAYq2IjtuoS
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:5003 | 1.067MB
-  server: 38.68.134.9
-  port: 5003
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:804 | 1.075MB
+  server: 185.172.113.182
+  port: 804
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: G!yBwPWH3Vao
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.245:7002 | 1.075MB
+  server: 69.50.95.245
+  port: 7002
   type: ss
   cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: SS-TCP-NA🇦🇪AE-45.144.172.13:1080 | 1.067MB
-  server: 45.144.172.13
-  port: 1080
+  password: RexnBgU7EV5ADxG
+- name: SS-TCP-NA🇫🇮FI-78.153.139.98:1792 | 1.075MB
+  server: 78.153.139.98
+  port: 1792
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: OTK97XEd7n2Ay0knnArV_A
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.86:5003 | 1.067MB
-  server: 69.50.95.86
-  port: 5003
+  password: bpRogmcSxC4NrYG6BcZH2R
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.19:6697 | 1.075MB
+  server: 38.114.114.19
+  port: 6697
   type: ss
   cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50200 | 1.067MB
-  server: 46.232.123.37
-  port: 50200
+  password: TEzjfAYq2IjtuoS
+- name: 🇮🇳SS-TCP-NA🇮🇳IN-64.227.144.190:50690 | 1.075MB
+  server: 64.227.144.190
+  port: 50690
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 5ddbeb21-15fb-4aa5-8cc3-34df601c1f02
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:14110 | 1.067MB
-  server: 45.158.59.74
-  port: 14110
+  password: jQahQBlN1Xdu1uhwUKrE7k
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8080 | 1.075MB
+  server: 38.114.114.69
+  port: 8080
   type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 43c1589b-3e05-4bbd-aeec-16fe1f0f5da5
-- name: SS-TCP-NA🇪🇪EE-38.180.45.235:443 | 1.067MB
-  server: 38.180.45.235
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 9Xo4HX2dLZucT_5O5844UA
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:7306 | 1.067MB
-  server: 54.36.174.181
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:7306 | 1.075MB
+  server: 38.75.136.49
   port: 7306
   type: ss
   cipher: aes-256-gcm
   password: FoOiGlkAA9yPEGP
-- name: SS-TCP-NA🇷🇴RO-146.19.75.41:9350 | 1.067MB
-  server: 146.19.75.41
-  port: 9350
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8882 | 1.074MB
+  server: 149.202.82.172
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-199.59.243.226:8388 | 1.074MB
+  server: 199.59.243.226
+  port: 8388
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: UkS1nSzQR58Ob0JCF5PyR3
-- name: SS-TCP-NA🇱🇹LT-2.58.87.221:16899 | 1.066MB
-  server: 2.58.87.221
-  port: 16899
+  password: ZDdjMGRi
+- name: SS-TCP-NA🇦🇱AL-31.171.153.178:989 | 1.074MB
+  server: 31.171.153.178
+  port: 989
   type: ss
-  cipher: aes-128-gcm
-  password: Yc2CtrIz8L
-- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5499 | 1.066MB
-  server: 15.204.87.217
-  port: 5499
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8888 | 1.066MB
-  server: 38.75.136.21
-  port: 8888
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8119 | 1.074MB
+  server: 23.157.40.120
+  port: 8119
   type: ss
   cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.112:5498 | 1.066MB
-  server: 23.150.152.112
-  port: 5498
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:5000 | 1.066MB
-  server: 23.157.40.89
-  port: 5000
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-206.189.155.44:45632 | 1.066MB
-  server: 206.189.155.44
-  port: 45632
+  password: cdBIDV42DCwnfIN
+- name: SS-TCP-NA🇬🇷GR-185.235.243.5:12306 | 1.074MB
+  server: 185.235.243.5
+  port: 12306
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: rZLGR6TGaRVHohvlarYmA4
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9019 | 1.066MB
+  password: NJA4Zc81ZsF8O15bpCe92P
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9019 | 1.074MB
   server: 217.30.10.18
   port: 9019
   type: ss
   cipher: aes-256-cfb
   password: GA9KzeEgvfxNrgmM
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-162.19.25.207:34232 | 1.066MB
-  server: 162.19.25.207
-  port: 34232
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5000 | 1.074MB
+  server: 38.75.136.21
+  port: 5000
   type: ss
   cipher: aes-256-gcm
-  password: 3b9ktZGztC
+  password: Y6R9pAtvxxzmGC
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-5.182.87.210:35961 | 1.074MB
+  server: 5.182.87.210
+  port: 35961
+  type: ss
+  cipher: aes-256-gcm
+  password: wDZtxfIk3UhacKHrho7lxw
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-38.150.12.187:56032 | 1.074MB
+  server: 38.150.12.187
+  port: 56032
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: AHyDyR
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.176:9101 | 1.074MB
+  server: 23.154.136.176
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 1.074MB
+  server: 216.39.248.133
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:7306 | 1.074MB
+  server: 38.75.136.21
+  port: 7306
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-139.162.80.75:39192 | 1.073MB
+  server: 139.162.80.75
+  port: 39192
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 43c1589b-3e05-4bbd-aeec-16fe1f0f5da5
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:9101 | 1.073MB
+  server: 38.121.43.71
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:8091 | 1.073MB
+  server: 23.150.152.16
+  port: 8091
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:9101 | 1.073MB
+  server: 38.114.114.69
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: SS-TCP-NA🇨🇷CR-138.59.16.146:989 | 1.073MB
+  server: 138.59.16.146
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:6697 | 1.073MB
+  server: 38.143.66.87
+  port: 6697
+  type: ss
+  cipher: aes-256-gcm
+  password: TEzjfAYq2IjtuoS
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:5600 | 1.073MB
+  server: 38.86.135.117
+  port: 5600
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-51.195.149.115:45816 | 1.073MB
+  server: 51.195.149.115
+  port: 45816
+  type: ss
+  cipher: aes-256-gcm
+  password: KkDzY101Oe
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 1.073MB
+  server: 38.86.135.117
+  port: 3389
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:7307 | 1.073MB
+  server: 23.157.40.113
+  port: 7307
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8000 | 1.073MB
+  server: 38.114.114.69
+  port: 8000
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50243 | 1.073MB
+  server: 46.232.123.37
+  port: 50243
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 190067b9-63a3-4f8d-9c16-ee2737a87c14
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.42:5600 | 1.072MB
+  server: 38.75.137.42
+  port: 5600
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:2375 | 1.072MB
+  server: 38.111.114.133
+  port: 2375
+  type: ss
+  cipher: aes-256-gcm
+  password: faBAoD54k87UJG7
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-89.107.10.65:51348 | 1.072MB
+  server: 89.107.10.65
+  port: 51348
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: WM5adrXijpwApm1wLsEB3WFSCrG9aQ6QAJjVc2btj73FvBnw
+- name: SS-TCP-NA🇲🇩MD-192.121.87.147:989 | 1.072MB
+  server: 192.121.87.147
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.47:3389 | 1.072MB
+  server: 23.157.40.47
+  port: 3389
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: SS-TCP-NA🇭🇷HR-46.183.184.61:989 | 1.072MB
+  server: 46.183.184.61
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.43:8881 | 1.072MB
+  server: 38.110.1.43
+  port: 8881
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.94.76.55:51981 | 1.072MB
+  server: 23.94.76.55
+  port: 51981
+  type: ss
+  cipher: aes-256-gcm
+  password: 06gZKkeC2J
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-13.42.93.226:443 | 1.072MB
+  server: 13.42.93.226
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: mps3FwmDjLrWaOVg
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.85.74:6697 | 1.072MB
+  server: 67.220.85.74
+  port: 6697
+  type: ss
+  cipher: aes-256-gcm
+  password: TEzjfAYq2IjtuoS
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50230 | 1.072MB
+  server: 46.232.123.37
+  port: 50230
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 190067b9-63a3-4f8d-9c16-ee2737a87c14
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.28:5000 | 1.071MB
+  server: 69.50.93.28
+  port: 5000
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8882 | 1.071MB
+  server: 23.157.40.113
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8091 | 1.071MB
+  server: 38.114.114.69
+  port: 8091
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-64.226.98.217:40678 | 1.071MB
+  server: 64.226.98.217
+  port: 40678
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: YJq8OrymRhFjVkP1YAKu12
+- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:5499 | 1.071MB
+  server: 15.204.87.225
+  port: 5499
+  type: ss
+  cipher: aes-256-gcm
+  password: lGqs95QkFHo2NV
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 1.071MB
+  server: 38.143.66.244
+  port: 7307
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 1.071MB
+  server: 205.134.180.145
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: hgLCgfLRgB6d
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-138.68.182.23:2248 | 1.071MB
+  server: 138.68.182.23
+  port: 2248
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 0SiMTIJdmmGVu16bJAU9dO
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:6379 | 1.071MB
+  server: 38.68.134.9
+  port: 6379
+  type: ss
+  cipher: aes-256-gcm
+  password: zDNVedRFPQexG9v
+- name: 🇮🇸SS-TCP-NA🇮🇸IS-37.235.49.152:989 | 1.071MB
+  server: 37.235.49.152
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:8882 | 1.071MB
+  server: 38.68.134.9
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.19:5004 | 1.071MB
+  server: 38.68.135.19
+  port: 5004
+  type: ss
+  cipher: aes-256-gcm
+  password: g5MeD6Ft3CWlJId
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.78:443 | 1.071MB
+  server: 212.102.53.78
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-37.252.10.45:47580 | 1.071MB
+  server: 37.252.10.45
+  port: 47580
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: bzlLrRCRHdXp4SSL0voHBS
+- name: 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:8119 | 1.071MB
+  server: 38.111.114.133
+  port: 8119
+  type: ss
+  cipher: aes-256-gcm
+  password: cdBIDV42DCwnfIN
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.15.127.125:443 | 1.07MB
+  server: 51.15.127.125
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: zWMulcnimnP4xtvHEF1Ntg
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.86:8888 | 1.07MB
+  server: 69.50.93.86
+  port: 8888
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: SS-TCP-NA🇲🇩MD-91.194.161.7:8388 | 1.07MB
+  server: 91.194.161.7
+  port: 8388
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ODEwNDZm
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:5500 | 1.07MB
+  server: 38.121.43.71
+  port: 5500
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-18.133.155.154:10901 | 1.07MB
+  server: 18.133.155.154
+  port: 10901
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: CIw5YUtHhI8uTCXAjWyuAf
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.10:5001 | 1.07MB
+  server: 23.157.40.10
+  port: 5001
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: SS-TCP-NA🇮🇪IE-52.169.42.203:50435 | 1.07MB
+  server: 52.169.42.203
+  port: 50435
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: nBP66n0XVHfQM0vM02393B
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:8882 | 1.069MB
+  server: 23.157.40.103
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:4444 | 1.069MB
+  server: 38.111.114.133
+  port: 4444
+  type: ss
+  cipher: aes-256-gcm
+  password: pKEW8JPByTVTLtM
+- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9037 | 1.069MB
+  server: 45.89.52.66
+  port: 9037
+  type: ss
+  cipher: aes-256-cfb
+  password: TN2YqghxeFDKZfLU
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.103:9101 | 1.069MB
+  server: 69.50.95.103
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.105:8091 | 1.069MB
+  server: 69.50.95.105
+  port: 8091
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: SS-TCP-NA🇹🇷TR-62.133.63.16:33188 | 1.068MB
+  server: 62.133.63.16
+  port: 33188
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: laWM6aFUDYVYdJKPY6jJ9W
+- name: 🇺🇸SS-TCP-NA🇺🇸US-107.182.131.204:40874 | 1.068MB
+  server: 107.182.131.204
+  port: 40874
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: FXCdcoeHrzoa9Yzx9Jx8dQ3KY5kardy8mwkbPcgfSQe5QXLAtUEwZfmMihQhrVTnWw3acAhZQm5CG7C5XjxdtYBKCssEvFHx
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9101 | 1.068MB
+  server: 51.77.53.200
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:7307 | 1.068MB
+  server: 51.77.53.200
+  port: 7307
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-163.172.64.22:989 | 1.068MB
+  server: 163.172.64.22
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:811 | 1.068MB
+  server: 185.172.113.182
+  port: 811
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: G!yBwPWH3Vao
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5003 | 1.067MB
+  server: 149.202.82.172
+  port: 5003
+  type: ss
+  cipher: aes-256-gcm
+  password: g5MeD6Ft3CWlJId
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:8119 | 1.067MB
+  server: 38.121.43.71
+  port: 8119
+  type: ss
+  cipher: aes-256-gcm
+  password: cdBIDV42DCwnfIN
+- name: SS-TCP-NA🇦🇹AT-212.113.106.76:61992 | 1.067MB
+  server: 212.113.106.76
+  port: 61992
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: Fj9VL1bmuGFz8Vb6aGtjdg
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.100:8009 | 1.067MB
+  server: 69.50.93.100
+  port: 8009
+  type: ss
+  cipher: aes-256-gcm
+  password: XKFKl2rULjIp74
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:3306 | 1.067MB
+  server: 38.143.66.87
+  port: 3306
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-139.162.80.75:14110 | 1.067MB
+  server: 139.162.80.75
+  port: 14110
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 43c1589b-3e05-4bbd-aeec-16fe1f0f5da5
+- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:9090 | 1.066MB
+  server: 15.204.87.225
+  port: 9090
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
 - name: SS-TCP-NA🏴‍☠️NA-172.67.198.153:443 | 1.066MB
   server: 172.67.198.153
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: a-wym4ovY4Yw
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9102 | 1.066MB
-  server: 23.157.40.89
-  port: 9102
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.105:7002 | 1.065MB
-  server: 69.50.95.105
-  port: 7002
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: SS-TCP-NA🇰🇿KZ-103.106.3.170:27179 | 1.065MB
-  server: 103.106.3.170
-  port: 27179
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 59G5Rfm77E0aPRkuYa4ff4
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.24:8888 | 1.065MB
-  server: 23.150.152.24
-  port: 8888
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.10:5001 | 1.065MB
-  server: 23.157.40.10
-  port: 5001
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-152.42.196.113:21965 | 1.065MB
-  server: 152.42.196.113
-  port: 21965
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: EudGUcXyVtptAiaZwpCngr
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50225 | 1.065MB
-  server: 46.232.123.37
-  port: 50225
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 033c8fd4-ef0c-479c-a4ff-cbd0f4bd3ef1
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-37.252.10.45:47580 | 1.065MB
-  server: 37.252.10.45
-  port: 47580
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: bzlLrRCRHdXp4SSL0voHBS
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:10014 | 1.065MB
-  server: 46.232.123.37
-  port: 10014
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 853a4d4c-153f-4897-9a9b-8528b2bfafb2
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.19:8091 | 1.065MB
-  server: 38.114.114.19
-  port: 8091
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.43:5499 | 1.065MB
-  server: 38.110.1.43
-  port: 5499
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: 🇨🇦SS-TCP-NA🇨🇦CA-134.195.196.178:808 | 1.064MB
-  server: 134.195.196.178
-  port: 808
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: G!yBwPWH3Vao
-- name: 🇷🇺SS-TCP-NA🇷🇺RU-146.185.198.44:51348 | 1.064MB
+- name: 🇷🇺SS-TCP-NA🇷🇺RU-146.185.198.44:51348 | 1.065MB
   server: 146.185.198.44
   port: 51348
   type: ss
   cipher: chacha20-ietf-poly1305
   password: Zu5sVdhPITkII1Rf9bUTjt0ws1nks4vgBoHhe7QxwEk0j3Ai
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:6379 | 1.064MB
-  server: 23.157.40.113
-  port: 6379
+- name: 🇨🇦SS-TCP-NA🇨🇦CA-23.162.200.130:5004 | 1.065MB
+  server: 23.162.200.130
+  port: 5004
   type: ss
   cipher: aes-256-gcm
-  password: zDNVedRFPQexG9v
-- name: 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:8881 | 1.064MB
-  server: 38.111.114.133
-  port: 8881
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: SS-TCP-NA🇦🇱AL-31.171.153.181:989 | 1.064MB
-  server: 31.171.153.181
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇯🇵SS-TCP-NA🇯🇵JP-18.183.186.14:443 | 1.064MB
-  server: 18.183.186.14
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: amazonskr05
-- name: SS-TCP-NA🇦🇹AT-212.113.106.76:61992 | 1.063MB
-  server: 212.113.106.76
-  port: 61992
+  password: g5MeD6Ft3CWlJId
+- name: 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:39418 | 1.065MB
+  server: 45.158.59.74
+  port: 39418
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: vL5d2Zm8rX1AAwgKYYQyUC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:3306 | 1.063MB
-  server: 38.68.134.9
-  port: 3306
+  password: 43c1589b-3e05-4bbd-aeec-16fe1f0f5da5
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.28:6679 | 1.065MB
+  server: 69.50.93.28
+  port: 6679
+  type: ss
+  cipher: aes-256-gcm
+  password: TEzjfAYq2IjtuoS
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:5001 | 1.065MB
+  server: 23.150.152.16
+  port: 5001
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-94.228.165.178:58176 | 1.063MB
-  server: 94.228.165.178
-  port: 58176
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: afKAHp1VfRWZu91LIi9o0D
-- name: 🇺🇸SS-TCP-NA🇺🇸US-34.219.130.214:443 | 1.063MB
-  server: 34.219.130.214
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: amazonskr05
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8008 | 1.063MB
-  server: 23.157.40.113
-  port: 8008
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-188.245.87.175:80 | 1.065MB
+  server: 188.245.87.175
+  port: 80
   type: ss
   cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇺🇸SS-TCP-NA🇺🇸US-44.208.124.139:443 | 1.063MB
-  server: 44.208.124.139
-  port: 443
+  password: CH1UNTDYpn/iAH8O1dMmv/Hs8c46PU9GXnHrGyt4SW0=
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:9102 | 1.065MB
+  server: 38.75.136.21
+  port: 9102
   type: ss
-  cipher: chacha20-poly1305
-  password: u17T3BvpYaaiuW2c
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.195:443 | 1.062MB
-  server: 212.102.53.195
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50206 | 1.061MB
-  server: 46.232.123.37
-  port: 50206
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 190067b9-63a3-4f8d-9c16-ee2737a87c14
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
 proxy-groups:
 - name: Core
   type: select
   proxies:
   - Ping
-  - CF|🟢|vmess|@V2rayCollectorDonate|4 | 99.569MB
-  - IE|🟢|trojan|@PrivateVPNs|0 | 95.937MB
-  - IE|🟢|trojan|@PrivateVPNs|1 | 83.815MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|2 | 83.123MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|3 | 74.245MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|4 | 70.729MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|5 | 41.368MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|6 | 35.919MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|7 | 35.907MB
-  - SE|🟢|trojan|@PrivateVPNs|8 | 35.278MB
-  - SE|🟢|trojan|@PrivateVPNs|9 | 34.874MB
-  - IE|🟢|trojan|@PrivateVPNs|10 | 34.189MB
-  - IE|🟢|trojan|@PrivateVPNs|11 | 33.839MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|12 | 33.78MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|13 | 33.746MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|14 | 33.395MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|15 | 33.232MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|16 | 33.085MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|17 | 32.711MB
-  - 🇩🇪DE|🟢|trojan|@DirectVPN|0 | 32.545MB
-  - 🇩🇪DE|🟢|trojan|@DirectVPN|1 | 31.496MB
-  - SE|🟢|trojan|@DirectVPN|2 | 30.755MB
-  - SE|🟢|trojan|@DirectVPN|3 | 29.248MB
-  - 🇺🇸US|🟢|trojan|@DirectVPN|4 | 29.06MB
-  - 🇺🇸US|🟢|trojan|@DirectVPN|5 | 27.315MB
-  - 🇺🇸US|🟢|trojan|@DirectVPN|6 | 25.874MB
-  - 🇨🇦CA|🟢|trojan|@DirectVPN|7 | 25.319MB
-  - 🇨🇦CA|🟢|trojan|@DirectVPN|8 | 23.541MB
-  - IE|🟢|trojan|@DirectVPN|9 | 23.056MB
-  - IE|🟢|trojan|@DirectVPN|10 | 22.377MB
-  - 🇬🇧GB|🟢|trojan|@DirectVPN|11 | 20.779MB
-  - 🇬🇧GB|🟢|trojan|@DirectVPN|12 | 20.431MB
-  - 🇫🇷FR|🟢|trojan|@DirectVPN|13 | 20.187MB
-  - 🇫🇷FR|🟢|trojan|@DirectVPN|14 | 18.256MB
-  - SE|🟢|trojan|@DirectVPN|15 | 18.065MB
-  - SE|🟢|trojan|@DirectVPN|16 | 16.159MB
-  - 🇩🇪DE|🟢|trojan|@DirectVPN|17 | 15.643MB
-  - 🇫🇷FR|🟢|vmess|@v2ray_outlineir|0 | 15.388MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|0 | 15.038MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|2 | 14.915MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|4 | 14.54MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|6 | 14.403MB
-  - 🇺🇸US|🟢|vmess|@mftizi|13 | 14.304MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|14 | 13.954MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|16 | 13.756MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|17 | 13.365MB
-  - SE|🟢|vmess|@DeamNet_Proxy|0 | 12.711MB
-  - 🇸🇬SG|🟢|vmess|@ShadowProxy66|11 | 12.623MB
-  - CF|🟢|vmess|@v2ray1_ng|9 | 12.59MB
-  - 🇩🇪DE|🟢|ss|@VmessProtocol|7 | 12.456MB
-  - AE|🟢|ss|@VmessProtocol|12 | 12.372MB
-  - CF|🟢|vmess|@DailyV2RY|294 | 12.248MB
-  - TR|🟢|ss|@OutlineVpnOfficial|0 | 12.105MB
-  - 🇸🇬SG|🟢|ss|@OutlineVpnOfficial|1 | 11.821MB
-  - SE|🟢|ss|@OutlineVpnOfficial|2 | 11.795MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|3 | 10.389MB
-  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|4 | 10.034MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|5 | 9.849MB
-  - 🇯🇵JP|🟢|ss|@OutlineVpnOfficial|6 | 9.099MB
-  - 🇮🇳IN|🟢|ss|@OutlineVpnOfficial|7 | 6.619MB
-  - 🇷🇺RU|🟢|ss|@OutlineVpnOfficial|8 | 6.606MB
-  - IE|🟢|ss|@OutlineVpnOfficial|9 | 6.594MB
-  - 🇭🇰HK|🟢|ss|@OutlineVpnOfficial|10 | 6.558MB
-  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|11 | 6.547MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|12 | 6.258MB
-  - 🇫🇷FR|🟢|ss|@OutlineVpnOfficial|13 | 6.163MB
-  - KZ|🟢|ss|@OutlineVpnOfficial|14 | 5.537MB
-  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|15 | 5.373MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|16 | 4.967MB
-  - CY|🟢|ss|@OutlineVpnOfficial|17 | 4.785MB
-  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|18 | 4.728MB
-  - CH|🟢|ss|@OutlineVpnOfficial|19 | 4.56MB
-  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|20 | 3.843MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|21 | 3.781MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|22 | 3.404MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|23 | 3.395MB
-  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|24 | 3.095MB
-  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|25 | 2.835MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|26 | 2.822MB
-  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|27 | 2.782MB
-  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|28 | 2.772MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|29 | 2.747MB
-  - CF|🟢|vmess|@proxystore11|0 | 2.227MB
-  - CF|🟢|vmess|@proxystore11|1 | 2.225MB
-  - 🇳🇱NL|🟢|vmess|@yaney_01|1 | 2.13MB
-  - 🇺🇸US|🟢|vmess|@yaney_01|2 | 2.084MB
-  - ❔XX|🟢|vmess|@yaney_01|3 | 2.041MB
-  - 🇨🇳CN|🟢|vmess|@yaney_01|4 | 1.905MB
-  - CF|🟢|vmess|@yaney_01|5 | 1.903MB
-  - ❔XX|🟢|vmess|@Hope_Net|0 | 1.777MB
-  - 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.645MB
-  - CF|🟢|vmess|@Hope_Net|2 | 1.364MB
-  - CF|🟢|vmess|@v2Line|0 | 1.096MB
-  - CF|🟢|vmess|@v2Line|1 | 1.09MB
-  - CF|🟢|vmess|@nofiltering2|5 | 1.09MB
-  - 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.084MB
-  - 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.083MB
-  - 🇬🇧GB|🟢|ss|@ROMAX_VPN|2 | 1.079MB
-  - LATEST-UPDATE📅WED-24-MORDAD-1403🕑02:41 | 1.078MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-40.172.36.247:443 | 1.078MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:7002 | 1.078MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.46:8091 | 1.077MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:5003 | 1.077MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-157.245.206.70:3127 | 1.077MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-81.19.140.31:65305 | 1.077MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8009 | 1.077MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:8009 | 1.076MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.79:443 | 1.076MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-8.210.172.202:80 | 1.075MB
-  - SS-TCP-NA🇧🇭BH-15.185.170.210:443 | 1.075MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.10:8091 | 1.075MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.225:7001 | 1.074MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.42:2376 | 1.074MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:7001 | 1.074MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-135.125.172.153:443 | 1.074MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:9090 | 1.073MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.107.226.146:1230 | 1.072MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-188.212.132.20:52952 | 1.072MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:6697 | 1.072MB
-  - SS-TCP-NA🇪🇪EE-95.164.8.130:443 | 1.072MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:7307 | 1.071MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-89.110.70.175:13402 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.19:7002 | 1.071MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-62.133.60.60:21712 | 1.071MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-80.66.64.39:21076 | 1.071MB
-  - SS-TCP-NA🇹🇷TR-185.123.101.241:989 | 1.071MB
-  - SS-TCP-NA🇻🇳VN-103.163.218.2:989 | 1.071MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-51.158.195.96:443 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:2375 | 1.071MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:2375 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.101:5601 | 1.071MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:8119 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.53:9101 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:4444 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.118:2375 | 1.07MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-45.144.48.63:57456 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.118:8080 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.46:8118 | 1.07MB
-  - SS-TCP-NA🇮🇪IE-23.92.127.134:989 | 1.07MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-109.107.185.225:443 | 1.07MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-195.2.76.71:60422 | 1.07MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-162.19.83.12:443 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8119 | 1.07MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:811 | 1.07MB
-  - 🇨🇳SS-TCP-NA🇨🇳CN-120.232.217.88:36245 | 1.069MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:6379 | 1.069MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-165.22.238.239:44386 | 1.069MB
-  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9041 | 1.069MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-95.181.161.101:13341 | 1.069MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-3.9.149.52:443 | 1.069MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:9102 | 1.069MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:14110 | 1.069MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9102 | 1.069MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.100:8009 | 1.069MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-141.94.115.231:8443 | 1.069MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-95.164.35.90:8388 | 1.068MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.176:9101 | 1.068MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 1.068MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:6697 | 1.067MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:5003 | 1.067MB
-  - SS-TCP-NA🇦🇪AE-45.144.172.13:1080 | 1.067MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.86:5003 | 1.067MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50200 | 1.067MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:14110 | 1.067MB
-  - SS-TCP-NA🇪🇪EE-38.180.45.235:443 | 1.067MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:7306 | 1.067MB
-  - SS-TCP-NA🇷🇴RO-146.19.75.41:9350 | 1.067MB
-  - SS-TCP-NA🇱🇹LT-2.58.87.221:16899 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5499 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8888 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.112:5498 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:5000 | 1.066MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-206.189.155.44:45632 | 1.066MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9019 | 1.066MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-162.19.25.207:34232 | 1.066MB
+  - CF|🟢|vmess|@V2rayCollectorDonate|4 | 106.73MB
+  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|0 | 88.935MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|1 | 49.035MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|2 | 42.539MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|3 | 36.804MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|4 | 34.858MB
+  - SE|🟢|trojan|@PrivateVPNs|5 | 33.8MB
+  - SE|🟢|trojan|@PrivateVPNs|6 | 33.463MB
+  - IE|🟢|trojan|@PrivateVPNs|7 | 32.228MB
+  - IE|🟢|trojan|@PrivateVPNs|8 | 31.111MB
+  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|9 | 30.727MB
+  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|10 | 30.718MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|11 | 30.56MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|12 | 30.344MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|13 | 30.304MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|14 | 28.696MB
+  - SE|🟢|trojan|@PrivateVPNs|15 | 24.871MB
+  - SE|🟢|trojan|@PrivateVPNs|16 | 21.926MB
+  - IE|🟢|trojan|@PrivateVPNs|17 | 21.718MB
+  - IE|🟢|trojan|@DirectVPN|0 | 21.068MB
+  - IE|🟢|trojan|@DirectVPN|1 | 19.535MB
+  - 🇬🇧GB|🟢|trojan|@DirectVPN|2 | 19.508MB
+  - 🇬🇧GB|🟢|trojan|@DirectVPN|3 | 19.03MB
+  - 🇫🇷FR|🟢|trojan|@DirectVPN|4 | 18.792MB
+  - 🇫🇷FR|🟢|trojan|@DirectVPN|5 | 18.766MB
+  - SE|🟢|trojan|@DirectVPN|6 | 17.482MB
+  - SE|🟢|trojan|@DirectVPN|7 | 14.339MB
+  - 🇩🇪DE|🟢|trojan|@DirectVPN|8 | 14.215MB
+  - 🇩🇪DE|🟢|trojan|@DirectVPN|9 | 13.05MB
+  - SE|🟢|trojan|@DirectVPN|10 | 13.005MB
+  - SE|🟢|trojan|@DirectVPN|11 | 12.738MB
+  - 🇺🇸US|🟢|trojan|@DirectVPN|12 | 12.709MB
+  - 🇺🇸US|🟢|trojan|@DirectVPN|13 | 12.565MB
+  - 🇺🇸US|🟢|trojan|@DirectVPN|14 | 12.542MB
+  - 🇨🇦CA|🟢|trojan|@DirectVPN|15 | 12.457MB
+  - 🇨🇦CA|🟢|trojan|@DirectVPN|16 | 12.041MB
+  - IE|🟢|trojan|@DirectVPN|17 | 11.725MB
+  - 🇫🇷FR|🟢|vmess|@v2ray_outlineir|0 | 10.728MB
+  - 🇺🇸US|🟢|vmess|@mftizi|0 | 8.343MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|1 | 7.625MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|3 | 6.414MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|5 | 6.092MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|7 | 5.89MB
+  - 🇺🇸US|🟢|vmess|@mftizi|14 | 5.725MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|15 | 5.628MB
+  - 🇬🇧GB|🟢|ss|@DeamNet_Proxy|3 | 5.619MB
+  - CF|🟢|vmess|@DeamNet_Proxy|11 | 5.607MB
+  - 🇩🇪DE|🟢|ss|@DeamNet_Proxy|14 | 5.222MB
+  - 🇸🇬SG|🟢|vmess|@ShadowProxy66|11 | 5.074MB
+  - 🇩🇪DE|🟢|ss|@VmessProtocol|8 | 4.658MB
+  - AE|🟢|ss|@VmessProtocol|13 | 4.608MB
+  - ❔XX|🟢|vmess|@DailyV2RY|286 | 4.018MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|0 | 3.434MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|1 | 3.162MB
+  - TR|🟢|ss|@OutlineVpnOfficial|2 | 2.64MB
+  - 🇸🇬SG|🟢|ss|@OutlineVpnOfficial|3 | 2.303MB
+  - SE|🟢|ss|@OutlineVpnOfficial|4 | 2.083MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|5 | 2.081MB
+  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|6 | 2.023MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|7 | 1.839MB
+  - 🇯🇵JP|🟢|ss|@OutlineVpnOfficial|8 | 1.772MB
+  - 🇮🇳IN|🟢|ss|@OutlineVpnOfficial|9 | 1.727MB
+  - 🇷🇺RU|🟢|ss|@OutlineVpnOfficial|10 | 1.675MB
+  - IE|🟢|ss|@OutlineVpnOfficial|11 | 1.654MB
+  - 🇭🇰HK|🟢|ss|@OutlineVpnOfficial|12 | 1.61MB
+  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|13 | 1.361MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|14 | 1.188MB
+  - 🇫🇷FR|🟢|ss|@OutlineVpnOfficial|15 | 1.128MB
+  - KZ|🟢|ss|@OutlineVpnOfficial|16 | 1.118MB
+  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|17 | 1.088MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|18 | 1.087MB
+  - CY|🟢|ss|@OutlineVpnOfficial|19 | 1.085MB
+  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|20 | 1.08MB
+  - CH|🟢|ss|@OutlineVpnOfficial|21 | 1.079MB
+  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|22 | 1.079MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|23 | 1.078MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|24 | 1.078MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|25 | 1.078MB
+  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|26 | 1.078MB
+  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|27 | 1.078MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|28 | 1.077MB
+  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|29 | 1.077MB
+  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|30 | 1.077MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|31 | 1.077MB
+  - CF|🟢|vmess|@proxystore11|0 | 1.077MB
+  - CF|🟢|vmess|@proxystore11|1 | 1.077MB
+  - 🇳🇱NL|🟢|vmess|@yaney_01|1 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@yaney_01|2 | 1.076MB
+  - ❔XX|🟢|vmess|@yaney_01|3 | 1.076MB
+  - 🇨🇳CN|🟢|vmess|@yaney_01|4 | 1.076MB
+  - CF|🟢|vmess|@yaney_01|5 | 1.076MB
+  - CF|🟢|vmess|@free1_vpn|1 | 1.076MB
+  - ❔XX|🟢|vmess|@Hope_Net|0 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.076MB
+  - CF|🟢|vmess|@Hope_Net|2 | 1.076MB
+  - CF|🟢|vmess|@v2Line|0 | 1.076MB
+  - CF|🟢|vmess|@v2Line|1 | 1.076MB
+  - CF|🟢|vmess|@v2Line|2 | 1.076MB
+  - CF|🟢|vmess|@nofiltering2|5 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.076MB
+  - 🇬🇧GB|🟢|ss|@ROMAX_VPN|2 | 1.076MB
+  - LATEST-UPDATE📅WED-24-MORDAD-1403🕑14:45 | 1.076MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50207 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.197:5003 | 1.075MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-85.159.230.44:52842 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 1.075MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5600 | 1.075MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-62.133.60.60:21712 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.24:5600 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:6697 | 1.075MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:804 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.245:7002 | 1.075MB
+  - SS-TCP-NA🇫🇮FI-78.153.139.98:1792 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.19:6697 | 1.075MB
+  - 🇮🇳SS-TCP-NA🇮🇳IN-64.227.144.190:50690 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8080 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:7306 | 1.075MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8882 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-199.59.243.226:8388 | 1.074MB
+  - SS-TCP-NA🇦🇱AL-31.171.153.178:989 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8119 | 1.074MB
+  - SS-TCP-NA🇬🇷GR-185.235.243.5:12306 | 1.074MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9019 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5000 | 1.074MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-5.182.87.210:35961 | 1.074MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-38.150.12.187:56032 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.176:9101 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:7306 | 1.074MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-139.162.80.75:39192 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:9101 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:8091 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:9101 | 1.073MB
+  - SS-TCP-NA🇨🇷CR-138.59.16.146:989 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:6697 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:5600 | 1.073MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-51.195.149.115:45816 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:7307 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8000 | 1.073MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50243 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.42:5600 | 1.072MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:2375 | 1.072MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-89.107.10.65:51348 | 1.072MB
+  - SS-TCP-NA🇲🇩MD-192.121.87.147:989 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.47:3389 | 1.072MB
+  - SS-TCP-NA🇭🇷HR-46.183.184.61:989 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.43:8881 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.94.76.55:51981 | 1.072MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-13.42.93.226:443 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.85.74:6697 | 1.072MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50230 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.28:5000 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8882 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8091 | 1.071MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-64.226.98.217:40678 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:5499 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 1.071MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-138.68.182.23:2248 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:6379 | 1.071MB
+  - 🇮🇸SS-TCP-NA🇮🇸IS-37.235.49.152:989 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:8882 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.19:5004 | 1.071MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.78:443 | 1.071MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-37.252.10.45:47580 | 1.071MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:8119 | 1.071MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.15.127.125:443 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.86:8888 | 1.07MB
+  - SS-TCP-NA🇲🇩MD-91.194.161.7:8388 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:5500 | 1.07MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-18.133.155.154:10901 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.10:5001 | 1.07MB
+  - SS-TCP-NA🇮🇪IE-52.169.42.203:50435 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:8882 | 1.069MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:4444 | 1.069MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9037 | 1.069MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.103:9101 | 1.069MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.105:8091 | 1.069MB
+  - SS-TCP-NA🇹🇷TR-62.133.63.16:33188 | 1.068MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-107.182.131.204:40874 | 1.068MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9101 | 1.068MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:7307 | 1.068MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-163.172.64.22:989 | 1.068MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:811 | 1.068MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5003 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:8119 | 1.067MB
+  - SS-TCP-NA🇦🇹AT-212.113.106.76:61992 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.100:8009 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:3306 | 1.067MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-139.162.80.75:14110 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:9090 | 1.066MB
   - SS-TCP-NA🏴‍☠️NA-172.67.198.153:443 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9102 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.105:7002 | 1.065MB
-  - SS-TCP-NA🇰🇿KZ-103.106.3.170:27179 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.24:8888 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.10:5001 | 1.065MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-152.42.196.113:21965 | 1.065MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50225 | 1.065MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-37.252.10.45:47580 | 1.065MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:10014 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.19:8091 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.43:5499 | 1.065MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-134.195.196.178:808 | 1.064MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-146.185.198.44:51348 | 1.064MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:6379 | 1.064MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:8881 | 1.064MB
-  - SS-TCP-NA🇦🇱AL-31.171.153.181:989 | 1.064MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.183.186.14:443 | 1.064MB
-  - SS-TCP-NA🇦🇹AT-212.113.106.76:61992 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:3306 | 1.063MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-94.228.165.178:58176 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-34.219.130.214:443 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8008 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-44.208.124.139:443 | 1.063MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.195:443 | 1.062MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50206 | 1.061MB
+  - 🇷🇺SS-TCP-NA🇷🇺RU-146.185.198.44:51348 | 1.065MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-23.162.200.130:5004 | 1.065MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:39418 | 1.065MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.28:6679 | 1.065MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:5001 | 1.065MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-188.245.87.175:80 | 1.065MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:9102 | 1.065MB
 - name: Ping
   type: url-test
   url: https://www.gstatic.com/generate_204
   tolerance: 300
   interval: 3600
   proxies:
-  - CF|🟢|vmess|@V2rayCollectorDonate|4 | 99.569MB
-  - IE|🟢|trojan|@PrivateVPNs|0 | 95.937MB
-  - IE|🟢|trojan|@PrivateVPNs|1 | 83.815MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|2 | 83.123MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|3 | 74.245MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|4 | 70.729MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|5 | 41.368MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|6 | 35.919MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|7 | 35.907MB
-  - SE|🟢|trojan|@PrivateVPNs|8 | 35.278MB
-  - SE|🟢|trojan|@PrivateVPNs|9 | 34.874MB
-  - IE|🟢|trojan|@PrivateVPNs|10 | 34.189MB
-  - IE|🟢|trojan|@PrivateVPNs|11 | 33.839MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|12 | 33.78MB
-  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|13 | 33.746MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|14 | 33.395MB
-  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|15 | 33.232MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|16 | 33.085MB
-  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|17 | 32.711MB
-  - 🇩🇪DE|🟢|trojan|@DirectVPN|0 | 32.545MB
-  - 🇩🇪DE|🟢|trojan|@DirectVPN|1 | 31.496MB
-  - SE|🟢|trojan|@DirectVPN|2 | 30.755MB
-  - SE|🟢|trojan|@DirectVPN|3 | 29.248MB
-  - 🇺🇸US|🟢|trojan|@DirectVPN|4 | 29.06MB
-  - 🇺🇸US|🟢|trojan|@DirectVPN|5 | 27.315MB
-  - 🇺🇸US|🟢|trojan|@DirectVPN|6 | 25.874MB
-  - 🇨🇦CA|🟢|trojan|@DirectVPN|7 | 25.319MB
-  - 🇨🇦CA|🟢|trojan|@DirectVPN|8 | 23.541MB
-  - IE|🟢|trojan|@DirectVPN|9 | 23.056MB
-  - IE|🟢|trojan|@DirectVPN|10 | 22.377MB
-  - 🇬🇧GB|🟢|trojan|@DirectVPN|11 | 20.779MB
-  - 🇬🇧GB|🟢|trojan|@DirectVPN|12 | 20.431MB
-  - 🇫🇷FR|🟢|trojan|@DirectVPN|13 | 20.187MB
-  - 🇫🇷FR|🟢|trojan|@DirectVPN|14 | 18.256MB
-  - SE|🟢|trojan|@DirectVPN|15 | 18.065MB
-  - SE|🟢|trojan|@DirectVPN|16 | 16.159MB
-  - 🇩🇪DE|🟢|trojan|@DirectVPN|17 | 15.643MB
-  - 🇫🇷FR|🟢|vmess|@v2ray_outlineir|0 | 15.388MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|0 | 15.038MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|2 | 14.915MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|4 | 14.54MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|6 | 14.403MB
-  - 🇺🇸US|🟢|vmess|@mftizi|13 | 14.304MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|14 | 13.954MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|16 | 13.756MB
-  - 🇨🇳CN|🟢|vmess|@mftizi|17 | 13.365MB
-  - SE|🟢|vmess|@DeamNet_Proxy|0 | 12.711MB
-  - 🇸🇬SG|🟢|vmess|@ShadowProxy66|11 | 12.623MB
-  - CF|🟢|vmess|@v2ray1_ng|9 | 12.59MB
-  - 🇩🇪DE|🟢|ss|@VmessProtocol|7 | 12.456MB
-  - AE|🟢|ss|@VmessProtocol|12 | 12.372MB
-  - CF|🟢|vmess|@DailyV2RY|294 | 12.248MB
-  - TR|🟢|ss|@OutlineVpnOfficial|0 | 12.105MB
-  - 🇸🇬SG|🟢|ss|@OutlineVpnOfficial|1 | 11.821MB
-  - SE|🟢|ss|@OutlineVpnOfficial|2 | 11.795MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|3 | 10.389MB
-  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|4 | 10.034MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|5 | 9.849MB
-  - 🇯🇵JP|🟢|ss|@OutlineVpnOfficial|6 | 9.099MB
-  - 🇮🇳IN|🟢|ss|@OutlineVpnOfficial|7 | 6.619MB
-  - 🇷🇺RU|🟢|ss|@OutlineVpnOfficial|8 | 6.606MB
-  - IE|🟢|ss|@OutlineVpnOfficial|9 | 6.594MB
-  - 🇭🇰HK|🟢|ss|@OutlineVpnOfficial|10 | 6.558MB
-  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|11 | 6.547MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|12 | 6.258MB
-  - 🇫🇷FR|🟢|ss|@OutlineVpnOfficial|13 | 6.163MB
-  - KZ|🟢|ss|@OutlineVpnOfficial|14 | 5.537MB
-  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|15 | 5.373MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|16 | 4.967MB
-  - CY|🟢|ss|@OutlineVpnOfficial|17 | 4.785MB
-  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|18 | 4.728MB
-  - CH|🟢|ss|@OutlineVpnOfficial|19 | 4.56MB
-  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|20 | 3.843MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|21 | 3.781MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|22 | 3.404MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|23 | 3.395MB
-  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|24 | 3.095MB
-  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|25 | 2.835MB
-  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|26 | 2.822MB
-  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|27 | 2.782MB
-  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|28 | 2.772MB
-  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|29 | 2.747MB
-  - CF|🟢|vmess|@proxystore11|0 | 2.227MB
-  - CF|🟢|vmess|@proxystore11|1 | 2.225MB
-  - 🇳🇱NL|🟢|vmess|@yaney_01|1 | 2.13MB
-  - 🇺🇸US|🟢|vmess|@yaney_01|2 | 2.084MB
-  - ❔XX|🟢|vmess|@yaney_01|3 | 2.041MB
-  - 🇨🇳CN|🟢|vmess|@yaney_01|4 | 1.905MB
-  - CF|🟢|vmess|@yaney_01|5 | 1.903MB
-  - ❔XX|🟢|vmess|@Hope_Net|0 | 1.777MB
-  - 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.645MB
-  - CF|🟢|vmess|@Hope_Net|2 | 1.364MB
-  - CF|🟢|vmess|@v2Line|0 | 1.096MB
-  - CF|🟢|vmess|@v2Line|1 | 1.09MB
-  - CF|🟢|vmess|@nofiltering2|5 | 1.09MB
-  - 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.084MB
-  - 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.083MB
-  - 🇬🇧GB|🟢|ss|@ROMAX_VPN|2 | 1.079MB
-  - LATEST-UPDATE📅WED-24-MORDAD-1403🕑02:41 | 1.078MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-40.172.36.247:443 | 1.078MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:7002 | 1.078MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.46:8091 | 1.077MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:5003 | 1.077MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-157.245.206.70:3127 | 1.077MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-81.19.140.31:65305 | 1.077MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8009 | 1.077MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:8009 | 1.076MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.79:443 | 1.076MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-8.210.172.202:80 | 1.075MB
-  - SS-TCP-NA🇧🇭BH-15.185.170.210:443 | 1.075MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.10:8091 | 1.075MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.225:7001 | 1.074MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.42:2376 | 1.074MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:7001 | 1.074MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-135.125.172.153:443 | 1.074MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:9090 | 1.073MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.107.226.146:1230 | 1.072MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-188.212.132.20:52952 | 1.072MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:6697 | 1.072MB
-  - SS-TCP-NA🇪🇪EE-95.164.8.130:443 | 1.072MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:7307 | 1.071MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-89.110.70.175:13402 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.19:7002 | 1.071MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-62.133.60.60:21712 | 1.071MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-80.66.64.39:21076 | 1.071MB
-  - SS-TCP-NA🇹🇷TR-185.123.101.241:989 | 1.071MB
-  - SS-TCP-NA🇻🇳VN-103.163.218.2:989 | 1.071MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-51.158.195.96:443 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:2375 | 1.071MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:2375 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.101:5601 | 1.071MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:8119 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.53:9101 | 1.071MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:4444 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.118:2375 | 1.07MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-45.144.48.63:57456 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.118:8080 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.46:8118 | 1.07MB
-  - SS-TCP-NA🇮🇪IE-23.92.127.134:989 | 1.07MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-109.107.185.225:443 | 1.07MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-195.2.76.71:60422 | 1.07MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-162.19.83.12:443 | 1.07MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8119 | 1.07MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:811 | 1.07MB
-  - 🇨🇳SS-TCP-NA🇨🇳CN-120.232.217.88:36245 | 1.069MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:6379 | 1.069MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-165.22.238.239:44386 | 1.069MB
-  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9041 | 1.069MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-95.181.161.101:13341 | 1.069MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-3.9.149.52:443 | 1.069MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:9102 | 1.069MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:14110 | 1.069MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9102 | 1.069MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.100:8009 | 1.069MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-141.94.115.231:8443 | 1.069MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-95.164.35.90:8388 | 1.068MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.176:9101 | 1.068MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 1.068MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:6697 | 1.067MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:5003 | 1.067MB
-  - SS-TCP-NA🇦🇪AE-45.144.172.13:1080 | 1.067MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.86:5003 | 1.067MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50200 | 1.067MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:14110 | 1.067MB
-  - SS-TCP-NA🇪🇪EE-38.180.45.235:443 | 1.067MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:7306 | 1.067MB
-  - SS-TCP-NA🇷🇴RO-146.19.75.41:9350 | 1.067MB
-  - SS-TCP-NA🇱🇹LT-2.58.87.221:16899 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5499 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8888 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.112:5498 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:5000 | 1.066MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-206.189.155.44:45632 | 1.066MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9019 | 1.066MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-162.19.25.207:34232 | 1.066MB
+  - CF|🟢|vmess|@V2rayCollectorDonate|4 | 106.73MB
+  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|0 | 88.935MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|1 | 49.035MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|2 | 42.539MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|3 | 36.804MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|4 | 34.858MB
+  - SE|🟢|trojan|@PrivateVPNs|5 | 33.8MB
+  - SE|🟢|trojan|@PrivateVPNs|6 | 33.463MB
+  - IE|🟢|trojan|@PrivateVPNs|7 | 32.228MB
+  - IE|🟢|trojan|@PrivateVPNs|8 | 31.111MB
+  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|9 | 30.727MB
+  - 🇬🇧GB|🟢|trojan|@PrivateVPNs|10 | 30.718MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|11 | 30.56MB
+  - 🇫🇷FR|🟢|trojan|@PrivateVPNs|12 | 30.344MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|13 | 30.304MB
+  - 🇩🇪DE|🟢|trojan|@PrivateVPNs|14 | 28.696MB
+  - SE|🟢|trojan|@PrivateVPNs|15 | 24.871MB
+  - SE|🟢|trojan|@PrivateVPNs|16 | 21.926MB
+  - IE|🟢|trojan|@PrivateVPNs|17 | 21.718MB
+  - IE|🟢|trojan|@DirectVPN|0 | 21.068MB
+  - IE|🟢|trojan|@DirectVPN|1 | 19.535MB
+  - 🇬🇧GB|🟢|trojan|@DirectVPN|2 | 19.508MB
+  - 🇬🇧GB|🟢|trojan|@DirectVPN|3 | 19.03MB
+  - 🇫🇷FR|🟢|trojan|@DirectVPN|4 | 18.792MB
+  - 🇫🇷FR|🟢|trojan|@DirectVPN|5 | 18.766MB
+  - SE|🟢|trojan|@DirectVPN|6 | 17.482MB
+  - SE|🟢|trojan|@DirectVPN|7 | 14.339MB
+  - 🇩🇪DE|🟢|trojan|@DirectVPN|8 | 14.215MB
+  - 🇩🇪DE|🟢|trojan|@DirectVPN|9 | 13.05MB
+  - SE|🟢|trojan|@DirectVPN|10 | 13.005MB
+  - SE|🟢|trojan|@DirectVPN|11 | 12.738MB
+  - 🇺🇸US|🟢|trojan|@DirectVPN|12 | 12.709MB
+  - 🇺🇸US|🟢|trojan|@DirectVPN|13 | 12.565MB
+  - 🇺🇸US|🟢|trojan|@DirectVPN|14 | 12.542MB
+  - 🇨🇦CA|🟢|trojan|@DirectVPN|15 | 12.457MB
+  - 🇨🇦CA|🟢|trojan|@DirectVPN|16 | 12.041MB
+  - IE|🟢|trojan|@DirectVPN|17 | 11.725MB
+  - 🇫🇷FR|🟢|vmess|@v2ray_outlineir|0 | 10.728MB
+  - 🇺🇸US|🟢|vmess|@mftizi|0 | 8.343MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|1 | 7.625MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|3 | 6.414MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|5 | 6.092MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|7 | 5.89MB
+  - 🇺🇸US|🟢|vmess|@mftizi|14 | 5.725MB
+  - 🇨🇳CN|🟢|vmess|@mftizi|15 | 5.628MB
+  - 🇬🇧GB|🟢|ss|@DeamNet_Proxy|3 | 5.619MB
+  - CF|🟢|vmess|@DeamNet_Proxy|11 | 5.607MB
+  - 🇩🇪DE|🟢|ss|@DeamNet_Proxy|14 | 5.222MB
+  - 🇸🇬SG|🟢|vmess|@ShadowProxy66|11 | 5.074MB
+  - 🇩🇪DE|🟢|ss|@VmessProtocol|8 | 4.658MB
+  - AE|🟢|ss|@VmessProtocol|13 | 4.608MB
+  - ❔XX|🟢|vmess|@DailyV2RY|286 | 4.018MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|0 | 3.434MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|1 | 3.162MB
+  - TR|🟢|ss|@OutlineVpnOfficial|2 | 2.64MB
+  - 🇸🇬SG|🟢|ss|@OutlineVpnOfficial|3 | 2.303MB
+  - SE|🟢|ss|@OutlineVpnOfficial|4 | 2.083MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|5 | 2.081MB
+  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|6 | 2.023MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|7 | 1.839MB
+  - 🇯🇵JP|🟢|ss|@OutlineVpnOfficial|8 | 1.772MB
+  - 🇮🇳IN|🟢|ss|@OutlineVpnOfficial|9 | 1.727MB
+  - 🇷🇺RU|🟢|ss|@OutlineVpnOfficial|10 | 1.675MB
+  - IE|🟢|ss|@OutlineVpnOfficial|11 | 1.654MB
+  - 🇭🇰HK|🟢|ss|@OutlineVpnOfficial|12 | 1.61MB
+  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|13 | 1.361MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|14 | 1.188MB
+  - 🇫🇷FR|🟢|ss|@OutlineVpnOfficial|15 | 1.128MB
+  - KZ|🟢|ss|@OutlineVpnOfficial|16 | 1.118MB
+  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|17 | 1.088MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|18 | 1.087MB
+  - CY|🟢|ss|@OutlineVpnOfficial|19 | 1.085MB
+  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|20 | 1.08MB
+  - CH|🟢|ss|@OutlineVpnOfficial|21 | 1.079MB
+  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|22 | 1.079MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|23 | 1.078MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|24 | 1.078MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|25 | 1.078MB
+  - 🇳🇱NL|🟢|ss|@OutlineVpnOfficial|26 | 1.078MB
+  - 🇬🇧GB|🟢|ss|@OutlineVpnOfficial|27 | 1.078MB
+  - 🇵🇱PL|🟢|ss|@OutlineVpnOfficial|28 | 1.077MB
+  - 🇩🇪DE|🟢|ss|@OutlineVpnOfficial|29 | 1.077MB
+  - 🇨🇦CA|🟢|ss|@OutlineVpnOfficial|30 | 1.077MB
+  - 🇺🇸US|🟢|ss|@OutlineVpnOfficial|31 | 1.077MB
+  - CF|🟢|vmess|@proxystore11|0 | 1.077MB
+  - CF|🟢|vmess|@proxystore11|1 | 1.077MB
+  - 🇳🇱NL|🟢|vmess|@yaney_01|1 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@yaney_01|2 | 1.076MB
+  - ❔XX|🟢|vmess|@yaney_01|3 | 1.076MB
+  - 🇨🇳CN|🟢|vmess|@yaney_01|4 | 1.076MB
+  - CF|🟢|vmess|@yaney_01|5 | 1.076MB
+  - CF|🟢|vmess|@free1_vpn|1 | 1.076MB
+  - ❔XX|🟢|vmess|@Hope_Net|0 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@Hope_Net|1 | 1.076MB
+  - CF|🟢|vmess|@Hope_Net|2 | 1.076MB
+  - CF|🟢|vmess|@v2Line|0 | 1.076MB
+  - CF|🟢|vmess|@v2Line|1 | 1.076MB
+  - CF|🟢|vmess|@v2Line|2 | 1.076MB
+  - CF|🟢|vmess|@nofiltering2|5 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@kingofilter|5 | 1.076MB
+  - 🇺🇸US|🟢|vmess|@kingofilter|7 | 1.076MB
+  - 🇬🇧GB|🟢|ss|@ROMAX_VPN|2 | 1.076MB
+  - LATEST-UPDATE📅WED-24-MORDAD-1403🕑14:45 | 1.076MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50207 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.197:5003 | 1.075MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-85.159.230.44:52842 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 1.075MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5600 | 1.075MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-62.133.60.60:21712 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.24:5600 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:6697 | 1.075MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:804 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.245:7002 | 1.075MB
+  - SS-TCP-NA🇫🇮FI-78.153.139.98:1792 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.19:6697 | 1.075MB
+  - 🇮🇳SS-TCP-NA🇮🇳IN-64.227.144.190:50690 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8080 | 1.075MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:7306 | 1.075MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8882 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-199.59.243.226:8388 | 1.074MB
+  - SS-TCP-NA🇦🇱AL-31.171.153.178:989 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8119 | 1.074MB
+  - SS-TCP-NA🇬🇷GR-185.235.243.5:12306 | 1.074MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9019 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5000 | 1.074MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-5.182.87.210:35961 | 1.074MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-38.150.12.187:56032 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.176:9101 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 1.074MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:7306 | 1.074MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-139.162.80.75:39192 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:9101 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:8091 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:9101 | 1.073MB
+  - SS-TCP-NA🇨🇷CR-138.59.16.146:989 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:6697 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:5600 | 1.073MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-51.195.149.115:45816 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:7307 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8000 | 1.073MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50243 | 1.073MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.42:5600 | 1.072MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:2375 | 1.072MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-89.107.10.65:51348 | 1.072MB
+  - SS-TCP-NA🇲🇩MD-192.121.87.147:989 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.47:3389 | 1.072MB
+  - SS-TCP-NA🇭🇷HR-46.183.184.61:989 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.43:8881 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.94.76.55:51981 | 1.072MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-13.42.93.226:443 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.85.74:6697 | 1.072MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50230 | 1.072MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.28:5000 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8882 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8091 | 1.071MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-64.226.98.217:40678 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:5499 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 1.071MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-138.68.182.23:2248 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:6379 | 1.071MB
+  - 🇮🇸SS-TCP-NA🇮🇸IS-37.235.49.152:989 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:8882 | 1.071MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.19:5004 | 1.071MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.78:443 | 1.071MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-37.252.10.45:47580 | 1.071MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:8119 | 1.071MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.15.127.125:443 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.86:8888 | 1.07MB
+  - SS-TCP-NA🇲🇩MD-91.194.161.7:8388 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:5500 | 1.07MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-18.133.155.154:10901 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.10:5001 | 1.07MB
+  - SS-TCP-NA🇮🇪IE-52.169.42.203:50435 | 1.07MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:8882 | 1.069MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:4444 | 1.069MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9037 | 1.069MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.103:9101 | 1.069MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.105:8091 | 1.069MB
+  - SS-TCP-NA🇹🇷TR-62.133.63.16:33188 | 1.068MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-107.182.131.204:40874 | 1.068MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9101 | 1.068MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:7307 | 1.068MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-163.172.64.22:989 | 1.068MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-185.172.113.182:811 | 1.068MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5003 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.71:8119 | 1.067MB
+  - SS-TCP-NA🇦🇹AT-212.113.106.76:61992 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.100:8009 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:3306 | 1.067MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-139.162.80.75:14110 | 1.067MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:9090 | 1.066MB
   - SS-TCP-NA🏴‍☠️NA-172.67.198.153:443 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9102 | 1.066MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.105:7002 | 1.065MB
-  - SS-TCP-NA🇰🇿KZ-103.106.3.170:27179 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.24:8888 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.10:5001 | 1.065MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-152.42.196.113:21965 | 1.065MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50225 | 1.065MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-37.252.10.45:47580 | 1.065MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:10014 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.19:8091 | 1.065MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.43:5499 | 1.065MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-134.195.196.178:808 | 1.064MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-146.185.198.44:51348 | 1.064MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:6379 | 1.064MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-38.111.114.133:8881 | 1.064MB
-  - SS-TCP-NA🇦🇱AL-31.171.153.181:989 | 1.064MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.183.186.14:443 | 1.064MB
-  - SS-TCP-NA🇦🇹AT-212.113.106.76:61992 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.134.9:3306 | 1.063MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-94.228.165.178:58176 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-34.219.130.214:443 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8008 | 1.063MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-44.208.124.139:443 | 1.063MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.195:443 | 1.062MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-46.232.123.37:50206 | 1.061MB
+  - 🇷🇺SS-TCP-NA🇷🇺RU-146.185.198.44:51348 | 1.065MB
+  - 🇨🇦SS-TCP-NA🇨🇦CA-23.162.200.130:5004 | 1.065MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:39418 | 1.065MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.93.28:6679 | 1.065MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.16:5001 | 1.065MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-188.245.87.175:80 | 1.065MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:9102 | 1.065MB
 rule-providers:
   direct:
     type: http
