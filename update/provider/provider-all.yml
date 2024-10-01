@@ -136,67 +136,67 @@ proxies:
   - {name: CF | 🟢 | vmess | @v2Line | 4, server: 104.26.15.148, port: 80, type: vmess, uuid: 2f188c61-6622-4056-810e-a1a5f1c9b023, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS, headers: {Host: 58892877706648357761980405045364.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou}}}
   - {name: CF | 🟢 | vmess | @v2Line | 5, server: 104.26.15.148, port: 80, type: vmess, uuid: 947cb385-54b4-4453-ac92-63c95ef32a6a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS, headers: {Host: 39238319310964543920519489701900.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou}}}
   - {name: SE | 🟢 | vmess | @kingofilter | 7, server: holandostesf.aramislegend.com, port: 8081, type: vmess, uuid: ccea6d55-2309-4059-93dc-a62ce7cd3f7c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: LATEST-UPDATE 📅 MON-09-MEHR-1403 🕑 14:27, server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: cbaacba-baac-cbaa-adcb-aaccccaabbbb}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.143:2376, server: 38.114.114.143, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇪🇸 SS-TCP-NA 🇪🇸 ES-45.154.206.192:990, server: 45.154.206.192, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: SS-TCP-NA 🇧🇭 BH-16.24.124.108:443, server: 16.24.124.108, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.24:5003, server: 23.150.152.24, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8008, server: 51.77.53.200, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: SS-TCP-NA 🇪🇬 EG-38.54.59.45:990, server: 38.54.59.45, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.113:8119, server: 23.157.40.113, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.93.100:8009, server: 69.50.93.100, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.142:4444, server: 38.121.43.142, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:8009, server: 38.75.136.21, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8080, server: 51.77.53.200, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.69:4444, server: 38.114.114.69, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-162.19.25.207:34232, server: 162.19.25.207, port: 34232, type: ss, cipher: aes-256-gcm, password: 3b9ktZGztC}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.16:5500, server: 23.150.152.16, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.92.110:8118, server: 69.50.92.110, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-122.195.189.15:10705, server: 122.195.189.15, port: 10705, type: ss, cipher: chacha20-ietf-poly1305, password: dd29d7ad-5fda-4f64-a57e-716ca6010e65}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.91.102.72:8882, server: 38.91.102.72, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-54.36.174.181:2375, server: 54.36.174.181, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.46:5500, server: 38.110.1.46, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇸🇬 SS-TCP-NA 🇸🇬 SG-140.245.57.33:21850, server: 140.245.57.33, port: 21850, type: ss, cipher: aes-256-gcm, password: c6d35094-dd85-4202-81ef-5e387c560481}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29106, server: 91.199.84.195, port: 29106, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.105:8080, server: 38.110.1.105, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.56:9090, server: 23.150.152.56, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.46:5000, server: 38.114.114.46, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.56:8009, server: 23.150.152.56, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: SS-TCP-NA 🇨🇭 CH-156.146.62.163:443, server: 156.146.62.163, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.69:8090, server: 38.114.114.69, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29228, server: 91.199.84.195, port: 29228, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
+  - {name: LATEST-UPDATE 📅 TUE-10-MEHR-1403 🕑 15:12, server: 127.0.0.1, port: 1080, type: ss, cipher: none, password: aaacbcb-acba-abca-abdc-acbcabaaccbb}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-77.72.5.113:989, server: 77.72.5.113, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24721, server: 91.199.84.195, port: 24721, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
+  - {name: 🇵🇱 SS-TCP-NA 🇵🇱 PL-51.77.53.200:8009, server: 51.77.53.200, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
   - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-37.19.198.243:443, server: 37.19.198.243, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29107, server: 91.199.84.195, port: 29107, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.222:5499, server: 15.204.87.222, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.69:5003, server: 38.114.114.69, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-195.154.169.198:989, server: 195.154.169.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.46:6379, server: 38.110.1.46, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.101:8008, server: 23.157.40.101, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.68.134.9:8000, server: 38.68.134.9, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-141.98.101.178:443, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:5001, server: 38.75.136.21, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: SS-TCP-NA 🇹🇷 TR-45.89.52.66:9041, server: 45.89.52.66, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn}
-  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-147.45.136.147:41095, server: 147.45.136.147, port: 41095, type: ss, cipher: chacha20-ietf-poly1305, password: GM3takOqmU3vxy0NdsvChD}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-142.202.49.84:5003, server: 142.202.49.84, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.225:5003, server: 15.204.87.225, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.33:8119, server: 38.75.136.33, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.93.113:8888, server: 69.50.93.113, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-142.202.49.68:7307, server: 142.202.49.68, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.71:5003, server: 38.121.43.71, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇮🇳 SS-TCP-NA 🇮🇳 IN-165.22.208.240:4917, server: 165.22.208.240, port: 4917, type: ss, cipher: chacha20-ietf-poly1305, password: l2zEoLV7XbwU4ZvGN46gyr}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.71:5600, server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.41:443, server: 23.150.152.41, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇨🇦 SS-TCP-NA 🇨🇦 CA-64.74.163.130:990, server: 64.74.163.130, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: f8f7aCzcPKbsF8p3}
+  - {name: SS-TCP-NA 🇦🇪 AE-3.29.199.34:443, server: 3.29.199.34, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.202:8090, server: 38.110.1.202, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-38.150.12.188:39051, server: 38.150.12.188, port: 39051, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNzdmMmU0My1lYmU5LTQ5N2ItYmQ4Ny00M2NmNTU0Njc5ZTI}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-15.204.87.222:5000, server: 15.204.87.222, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.103:8882, server: 69.50.95.103, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-107.181.155.244:55330, server: 107.181.155.244, port: 55330, type: ss, cipher: chacha20-ietf-poly1305, password: rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:6679, server: 38.75.136.21, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: SS-TCP-NA 🇱🇹 LT-2.58.87.221:16899, server: 2.58.87.221, port: 16899, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.97:8882, server: 38.121.43.97, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-167.71.77.212:62062, server: 167.71.77.212, port: 62062, type: ss, cipher: chacha20-ietf-poly1305, password: UeCtaK8vx4M5UfYOXzCXt5}
+  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-122.195.189.15:10722, server: 122.195.189.15, port: 10722, type: ss, cipher: chacha20-ietf-poly1305, password: dd29d7ad-5fda-4f64-a57e-716ca6010e65}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.69:8008, server: 38.114.114.69, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.47:6679, server: 23.157.40.47, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.107:2375, server: 38.110.1.107, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.5:6679, server: 23.157.40.5, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
   - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.120:7001, server: 23.157.40.120, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:22211, server: 91.199.84.195, port: 22211, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.46:9090, server: 38.114.114.46, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.41:5498, server: 23.150.152.41, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.202:2376, server: 38.110.1.202, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.86.135.117:5499, server: 38.86.135.117, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-51.68.206.229:8080, server: 51.68.206.229, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.71:443, server: 38.121.43.71, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:7307, server: 38.75.136.21, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.56:6697, server: 23.150.152.56, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.53:8118, server: 69.50.95.53, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:6697, server: 38.75.136.21, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
   - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.218:7001, server: 69.50.95.218, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.46:7306, server: 38.114.114.46, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-13.43.105.128:443, server: 13.43.105.128, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.68.134.202:5003, server: 38.68.134.202, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-207.246.101.50:1633, server: 207.246.101.50, port: 1633, type: ss, cipher: chacha20-ietf-poly1305, password: o_A7inN1yqeWtOTL}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.12:2375, server: 38.110.1.12, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.53:9101, server: 23.150.152.53, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.69:8080, server: 38.114.114.69, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.114.114.46:8080, server: 38.114.114.46, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-205.134.180.139:443, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag}
-  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:5004, server: 38.75.136.21, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-  - {name: SS-TCP-NA 🇸🇪 SE-5.42.75.106:30125, server: 5.42.75.106, port: 30125, type: ss, cipher: chacha20-ietf-poly1305, password: YD3xhcACSBP3T5Z7Da4LP6}
-  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29108, server: 91.199.84.195, port: 29108, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.157.40.95:8008, server: 23.157.40.95, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-142.202.49.122:7306, server: 142.202.49.122, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.121.43.71:8888, server: 38.121.43.71, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-38.150.12.188:39049, server: 38.150.12.188, port: 39049, type: ss, cipher: ss, password: //Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNzdmMmU0My1lYmU5LTQ5N2ItYmQ4Ny00M2NmNTU0Njc5ZTI}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.86.135.117:9090, server: 38.86.135.117, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:24726, server: 91.199.84.195, port: 24726, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.56:7307, server: 23.150.152.56, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: SS-TCP-NA 🇷🇸 RS-194.71.126.31:989, server: 194.71.126.31, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-141.98.101.179:443, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:25206, server: 91.199.84.195, port: 25206, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-212.102.53.197:443, server: 212.102.53.197, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇨🇳 SS-TCP-NA 🇨🇳 CN-122.195.189.15:10723, server: 122.195.189.15, port: 10723, type: ss, cipher: chacha20-ietf-poly1305, password: dd29d7ad-5fda-4f64-a57e-716ca6010e65}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.21:5001, server: 38.75.136.21, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.75.136.33:6679, server: 38.75.136.33, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-142.202.49.119:7307, server: 142.202.49.119, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.53:3389, server: 69.50.95.53, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇭🇰 SS-TCP-NA 🇭🇰 HK-91.199.84.195:29222, server: 91.199.84.195, port: 29222, type: ss, cipher: aes-128-gcm, password: 69037302-0050-43ae-abf3-f8e62740aff1}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-92.118.112.101:9483, server: 92.118.112.101, port: 9483, type: ss, cipher: chacha20-ietf-poly1305, password: TzbYcaKIciUviyqWblgoSi}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.56:7306, server: 23.150.152.56, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-38.110.1.12:6379, server: 38.110.1.12, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇸🇬 SS-TCP-NA 🇸🇬 SG-140.245.57.33:21850, server: 140.245.57.33, port: 21850, type: ss, cipher: aes-256-gcm, password: c6d35094-dd85-4202-81ef-5e387c560481}
+  - {name: 🇳🇱 SS-TCP-NA 🇳🇱 NL-178.23.190.216:19609, server: 178.23.190.216, port: 19609, type: ss, cipher: chacha20-ietf-poly1305, password: Cm7LXEP7bkPhTi2jdhXI0W}
+  - {name: 🇫🇷 SS-TCP-NA 🇫🇷 FR-62.210.88.22:443, server: 62.210.88.22, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: BCeQrIQUeIdjvdiaqzMMb5}
+  - {name: SS-TCP-NA 🇨🇭 CH-156.146.62.163:443, server: 156.146.62.163, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.95.218:9090, server: 69.50.95.218, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: SS-TCP-NA 🇰🇿 KZ-213.156.137.67:989, server: 213.156.137.67, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-23.150.152.41:5600, server: 23.150.152.41, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-139.64.165.154:3306, server: 139.64.165.154, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+  - {name: 🇺🇸 SS-TCP-NA 🇺🇸 US-69.50.92.99:6379, server: 69.50.92.99, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+  - {name: 🇬🇧 SS-TCP-NA 🇬🇧 GB-212.102.53.80:443, server: 212.102.53.80, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
