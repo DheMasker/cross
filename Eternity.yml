@@ -11,849 +11,1071 @@ dns:
   - 1.1.1.1
   - 8.8.8.8
 proxies:
-- name: LATEST-UPDATE📅THU-06-DEY-1403🕑15:15 | 172.888MB
+- name: LATEST-UPDATE📅FRI-07-DEY-1403🕑03:12 | 102.888MB
   server: 127.0.0.1
   port: 1080
   type: ss
   cipher: none
-  password: acbacba-abca-aabc-dbca-aacbccacabbb
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.180:5498 | 144.235MB
-  server: 69.50.95.180
-  port: 5498
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:3306 | 137.714MB
-  server: 149.202.82.172
-  port: 3306
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: SS-TCP-NA🇭🇺HU-91.219.237.102:990 | 134.984MB
-  server: 91.219.237.102
-  port: 990
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: f8f7aCzcPKbsF8p3
-- name: SS-TCP-NA🇦🇪AE-40.172.103.119:443 | 77.971MB
-  server: 40.172.103.119
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: u17T3BvpYaaiuW2c
-- name: 🇨🇳SS-TCP-NA🇨🇳CN-183.233.187.157:20001 | 76.935MB
-  server: 183.233.187.157
-  port: 20001
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 99301d55-a41f-4919-986b-1435996533aa
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9027 | 75.039MB
-  server: 80.92.204.106
-  port: 9027
-  type: ss
-  cipher: aes-256-cfb
-  password: EXN3S3eQpjE7EJu8
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5004 | 73.631MB
-  server: 38.75.136.21
-  port: 5004
-  type: ss
-  cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: 🇺🇸SS-TCP-NA🇺🇸US-52.237.155.68:443 | 70.514MB
-  server: 52.237.155.68
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: mzyYriPYYnCWDxoy
-- name: 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.151:443 | 67.393MB
-  server: 205.134.180.151
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 5cp9Z3iWnJZ2
-- name: SS-TCP-NA🇦🇷AR-190.103.176.29:989 | 61.259MB
-  server: 190.103.176.29
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7306 | 59.695MB
-  server: 38.114.114.69
-  port: 7306
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇺🇸SS-TCP-NA🇺🇸US-156.146.38.170:443 | 57.773MB
-  server: 156.146.38.170
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8881 | 49.902MB
+  password: bacacba-acab-acba-dbca-ababacccbbac
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8091 | 91.791MB
   server: 67.220.95.102
-  port: 8881
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.218:5499 | 45.047MB
-  server: 69.50.95.218
-  port: 5499
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: SS-TCP-NA🇮🇩ID-154.205.159.100:990 | 44.12MB
-  server: 154.205.159.100
-  port: 990
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: f8f7aCzcPKbsF8p3
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:58226 | 41.598MB
-  server: 213.130.141.113
-  port: 58226
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: ba8d6492-f3f5-4376-aa88-1c3bda57a6d9
-- name: SS-TCP-NA🇹🇭TH-119.59.98.58:990 | 38.486MB
-  server: 119.59.98.58
-  port: 990
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:5000 | 36.652MB
-  server: 169.197.142.216
-  port: 5000
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-193.108.119.230:8080 | 34.557MB
-  server: 193.108.119.230
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.91.100.211:3306 | 34.199MB
-  server: 38.91.100.211
-  port: 3306
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:7306 | 33.82MB
-  server: 142.202.48.105
-  port: 7306
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7307 | 33.555MB
-  server: 38.110.1.46
-  port: 7307
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇺🇸SS-TCP-NA🇺🇸US-138.199.42.68:8080 | 33.056MB
-  server: 138.199.42.68
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9040 | 32.725MB
-  server: 45.89.52.66
-  port: 9040
-  type: ss
-  cipher: aes-256-cfb
-  password: p9z5BVADH2YFs3MN
-- name: 🇺🇸SS-TCP-NA🇺🇸US-212.102.47.131:443 | 32.459MB
-  server: 212.102.47.131
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8882 | 31.573MB
-  server: 149.202.82.172
-  port: 8882
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:9102 | 31.556MB
-  server: 38.143.66.87
-  port: 9102
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇯🇵SS-TCP-NA🇯🇵JP-18.176.215.63:2377 | 30.8MB
-  server: 18.176.215.63
-  port: 2377
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.203:5601 | 30.755MB
-  server: 69.50.95.203
-  port: 5601
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇯🇵SS-TCP-NA🇯🇵JP-18.179.197.216:443 | 30.288MB
-  server: 18.179.197.216
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: amazonskr05
-- name: 🇳🇱SS-TCP-NA🇳🇱NL-157.245.77.251:80 | 30.265MB
-  server: 157.245.77.251
-  port: 80
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: QNW95bWjUNST2ySXgNzJt6
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8090 | 30.213MB
-  server: 38.121.43.204
-  port: 8090
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.51:8091 | 28.551MB
-  server: 38.110.1.51
   port: 8091
   type: ss
   cipher: aes-256-gcm
   password: PCnnH6SQSnfoS27
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 28.551MB
-  server: 38.143.66.244
-  port: 7307
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:9102 | 27.697MB
-  server: 149.202.82.172
-  port: 9102
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:2375 | 27.088MB
-  server: 38.75.136.21
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2376 | 26.821MB
-  server: 23.157.40.113
-  port: 2376
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:2375 | 26.563MB
-  server: 217.182.198.219
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2375 | 25.897MB
-  server: 23.157.40.113
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:7306 | 25.764MB
-  server: 38.121.43.142
-  port: 7306
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-18.133.5.100:443 | 24.418MB
-  server: 18.133.5.100
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: W74XFALLLuw6m5IA
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.71:8000 | 24.283MB
-  server: 38.75.137.71
-  port: 8000
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:7307 | 22.269MB
-  server: 23.150.152.56
-  port: 7307
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:6379 | 21.447MB
-  server: 23.157.40.5
-  port: 6379
-  type: ss
-  cipher: aes-256-gcm
-  password: zDNVedRFPQexG9v
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8881 | 21.278MB
-  server: 23.157.40.89
-  port: 8881
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8009 | 19.31MB
-  server: 38.114.114.69
-  port: 8009
-  type: ss
-  cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.211:8080 | 19.264MB
-  server: 38.86.135.211
-  port: 8080
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.150.12.187:56018 | 19.194MB
-  server: 38.150.12.187
-  port: 56018
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: ZpeGa4
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:8881 | 18.977MB
-  server: 38.121.43.27
-  port: 8881
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.103:8882 | 18.774MB
-  server: 38.110.1.103
-  port: 8882
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇯🇵SS-TCP-NA🇯🇵JP-52.68.44.53:443 | 18.765MB
-  server: 52.68.44.53
-  port: 443
+- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9043 | 85.613MB
+  server: 45.89.52.66
+  port: 9043
   type: ss
   cipher: aes-256-cfb
-  password: amazonskr05
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.174:443 | 18.226MB
-  server: 69.50.95.174
-  port: 443
-  type: ss
-  cipher: aes-256-gcm
-  password: pKEW8JPByTVTLtM
-- name: 🇺🇸SS-TCP-NA🇺🇸US-194.5.215.59:8080 | 17.581MB
-  server: 194.5.215.59
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8118 | 16.027MB
-  server: 38.121.43.204
-  port: 8118
-  type: ss
-  cipher: aes-256-gcm
-  password: cdBIDV42DCwnfIN
-- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.122:8008 | 15.986MB
+  password: HSZuyJQcWe8dxNdF
+- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.122:8008 | 71.916MB
   server: 142.202.49.122
   port: 8008
   type: ss
   cipher: aes-256-gcm
   password: XKFKl2rULjIp74
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9006 | 15.97MB
-  server: 80.92.204.106
-  port: 9006
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8000 | 71.671MB
+  server: 67.220.95.102
+  port: 8000
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇳🇱SS-TCP-NA🇳🇱NL-178.208.91.118:19805 | 63.424MB
+  server: 178.208.91.118
+  port: 19805
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: WaA5OwKrWrjUA1QypsRiBQ
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5004 | 59.511MB
+  server: 38.75.136.21
+  port: 5004
+  type: ss
+  cipher: aes-256-gcm
+  password: g5MeD6Ft3CWlJId
+- name: SS-TCP-NA🇵🇦PA-138.186.142.4:989 | 59.449MB
+  server: 138.186.142.4
+  port: 989
   type: ss
   cipher: aes-256-cfb
-  password: FAdUvMJUq5vDgKEq
-- name: 🇺🇸SS-TCP-NA🇺🇸US-52.89.164.115:443 | 15.843MB
-  server: 52.89.164.115
+  password: f8f7aCzcPKbsF8p3
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-13.41.171.229:443 | 54.831MB
+  server: 13.41.171.229
   port: 443
   type: ss
-  cipher: aes-256-cfb
-  password: amazonskr05
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:3389 | 15.617MB
-  server: 38.143.66.87
-  port: 3389
+  cipher: chacha20-ietf-poly1305
+  password: mps3FwmDjLrWaOVg
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.91.100.211:3306 | 53.761MB
+  server: 38.91.100.211
+  port: 3306
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:5000 | 14.098MB
-  server: 38.143.66.87
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-167.172.170.30:80 | 51.742MB
+  server: 167.172.170.30
+  port: 80
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: qkq6X68SHTIQrMB5lVfVcW
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8882 | 45.205MB
+  server: 38.75.136.21
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:8008 | 41.331MB
+  server: 23.150.152.56
+  port: 8008
+  type: ss
+  cipher: aes-256-gcm
+  password: XKFKl2rULjIp74
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.87:443 | 39.68MB
+  server: 23.157.40.87
+  port: 443
+  type: ss
+  cipher: aes-256-gcm
+  password: pKEW8JPByTVTLtM
+- name: 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:5000 | 39.077MB
+  server: 169.197.142.216
   port: 5000
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.17:8009 | 13.609MB
-  server: 38.110.1.17
-  port: 8009
+- name: SS-TCP-NA🇹🇷TR-62.133.63.21:65262 | 38.125MB
+  server: 62.133.63.21
+  port: 65262
   type: ss
-  cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.4:8080 | 13.474MB
-  server: 68.183.227.4
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.105:9090 | 13.365MB
-  server: 38.110.1.105
-  port: 9090
+  cipher: chacha20-ietf-poly1305
+  password: 70GnyrLzWcRT4wUaVM0Sus
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:3306 | 37.789MB
+  server: 67.220.95.102
+  port: 3306
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇨🇳SS-TCP-NA🇨🇳CN-163.177.58.140:13137 | 13.35MB
-  server: 163.177.58.140
-  port: 13137
-  type: ss
-  cipher: aes-128-gcm
-  password: haMLMXirByn6rGVh
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7307 | 12.841MB
-  server: 38.114.114.69
-  port: 7307
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:443 | 35.98MB
+  server: 67.220.95.102
+  port: 443
   type: ss
   cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇺🇸SS-TCP-NA🇺🇸US-107.155.57.51:8080 | 12.414MB
+  password: pKEW8JPByTVTLtM
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5004 | 35.582MB
+  server: 149.202.82.172
+  port: 5004
+  type: ss
+  cipher: aes-256-gcm
+  password: g5MeD6Ft3CWlJId
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:43684 | 35.283MB
+  server: 91.103.122.32
+  port: 43684
+  type: ss
+  cipher: aes-128-gcm
+  password: bd12f79e-3209-4970-83cd-5e1f3526ff51
+- name: 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9025 | 35.144MB
+  server: 5.188.181.201
+  port: 9025
+  type: ss
+  cipher: aes-256-cfb
+  password: XPtzA9sCug3SPR4c
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.105:443 | 34.285MB
+  server: 38.110.1.105
+  port: 443
+  type: ss
+  cipher: aes-256-gcm
+  password: pKEW8JPByTVTLtM
+- name: 🇳🇱SS-TCP-NA🇳🇱NL-208.67.105.196:42029 | 33.993MB
+  server: 208.67.105.196
+  port: 42029
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: SjdGCHwafjktt1rzpGxTKYTvVBWb8Xa6E5DTr6MzbdHQSwvpLiDczj3n6MBjy2uyFSzgqgvCWsDQmpM4VQzfPzyGYF58wdyD
+- name: SS-TCP-NA🇲🇩MD-192.121.87.147:989 | 33.535MB
+  server: 192.121.87.147
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.26:443 | 33.4MB
+  server: 23.157.40.26
+  port: 443
+  type: ss
+  cipher: aes-256-gcm
+  password: pKEW8JPByTVTLtM
+- name: 🇺🇸SS-TCP-NA🇺🇸US-107.155.57.51:8080 | 33.299MB
   server: 107.155.57.51
   port: 8080
   type: ss
   cipher: rc4-md5
   password: 14fFPrbezE3HDZzsMOr6
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-68.183.235.122:8080 | 11.141MB
-  server: 68.183.235.122
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: SS-TCP-NA🇺🇦UA-95.164.249.61:54075 | 11.108MB
-  server: 95.164.249.61
-  port: 54075
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: o38yuvzSe3m5aDNpHtUPH1zGwbGEXXMDsGwVaub2SYEmHUa2WGZUjiezX3Vvva9CCzpjxYtuJLgKsSnsyKBf9ciPVba3y4o3
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:5500 | 10.94MB
-  server: 23.157.40.5
-  port: 5500
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9037 | 10.907MB
-  server: 80.92.204.106
-  port: 9037
+- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9031 | 32.986MB
+  server: 45.89.52.66
+  port: 9031
   type: ss
   cipher: aes-256-cfb
-  password: TN2YqghxeFDKZfLU
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-51.68.206.229:8080 | 10.876MB
-  server: 51.68.206.229
-  port: 8080
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5499 | 10.855MB
-  server: 15.204.87.217
-  port: 5499
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: SS-TCP-NA🇳🇴NO-51.13.115.105:48963 | 9.5MB
-  server: 51.13.115.105
-  port: 48963
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: ZTqcA3pg0tY0qKKP240BQT
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.39:9101 | 8.95MB
-  server: 69.50.95.39
-  port: 9101
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-174.138.17.254:52252 | 6.598MB
-  server: 174.138.17.254
-  port: 52252
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: BzZTmphVccYTpHXy1ynVxD
-- name: SS-TCP-NA🇰🇿KZ-213.156.137.67:989 | 6.393MB
-  server: 213.156.137.67
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8882 | 6.095MB
-  server: 38.75.136.49
-  port: 8882
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:5003 | 6.025MB
-  server: 54.37.12.70
-  port: 5003
-  type: ss
-  cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8000 | 5.726MB
-  server: 67.220.95.102
-  port: 8000
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:6697 | 5.536MB
-  server: 38.75.136.21
-  port: 6697
-  type: ss
-  cipher: aes-256-gcm
-  password: TEzjfAYq2IjtuoS
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.218:8881 | 5.437MB
-  server: 69.50.95.218
-  port: 8881
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5004 | 5.412MB
-  server: 149.202.82.172
-  port: 5004
-  type: ss
-  cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.196:443 | 5.234MB
-  server: 212.102.53.196
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇰🇷SS-TCP-NA🇰🇷KR-3.38.212.48:443 | 5.118MB
-  server: 3.38.212.48
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: amazonskr05
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5600 | 4.518MB
-  server: 149.202.82.172
-  port: 5600
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: SS-TCP-NA🇰🇪KE-62.12.116.66:989 | 4.113MB
-  server: 62.12.116.66
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇩🇰SS-TCP-NA🇩🇰DK-192.36.27.94:989 | 3.784MB
-  server: 192.36.27.94
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.33:6697 | 3.051MB
-  server: 38.75.136.33
-  port: 6697
-  type: ss
-  cipher: aes-256-gcm
-  password: TEzjfAYq2IjtuoS
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-169.150.210.233:8080 | 2.862MB
-  server: 169.150.210.233
-  port: 8080
-  type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8118 | 2.399MB
-  server: 23.157.40.113
-  port: 8118
-  type: ss
-  cipher: aes-256-gcm
-  password: cdBIDV42DCwnfIN
-- name: 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 2.094MB
-  server: 216.39.248.133
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:6379 | 1.868MB
-  server: 67.220.95.102
-  port: 6379
-  type: ss
-  cipher: aes-256-gcm
-  password: zDNVedRFPQexG9v
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8008 | 1.632MB
-  server: 23.157.40.89
-  port: 8008
-  type: ss
-  cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:8091 | 1.288MB
-  server: 23.157.40.5
-  port: 8091
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:48491 | 1.257MB
-  server: 91.103.122.32
-  port: 48491
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: bd12f79e-3209-4970-83cd-5e1f3526ff51
-- name: SS-TCP-NA🇱🇻LV-46.32.186.234:1080 | 1.24MB
-  server: 46.32.186.234
-  port: 1080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 171pEaFf5HJtdAAI3L7r6A
-- name: 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.60:2377 | 1.205MB
-  server: 60.249.28.60
-  port: 2377
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9084 | 1.204MB
-  server: 80.92.204.106
-  port: 9084
-  type: ss
-  cipher: aes-256-cfb
-  password: c3NtHJ5ujV2tGDfj
-- name: SS-TCP-NA🇦🇹AT-212.113.106.76:29149 | 1.191MB
+  password: BwcAUZk8hUFAkDGN
+- name: SS-TCP-NA🇦🇹AT-212.113.106.76:29149 | 32.323MB
   server: 212.113.106.76
   port: 29149
   type: ss
   cipher: chacha20-ietf-poly1305
   password: Ox8nkAorqOGUAnIcj1Jc82
-- name: SS-TCP-NA🇰🇪KE-62.12.116.66:990 | 1.135MB
-  server: 62.12.116.66
-  port: 990
+- name: 🇺🇸SS-TCP-NA🇺🇸US-92.118.112.101:9483 | 32.201MB
+  server: 92.118.112.101
+  port: 9483
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: f8f7aCzcPKbsF8p3
-- name: 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.138:2377 | 1.075MB
-  server: 60.249.28.138
-  port: 2377
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-13.212.204.100:443 | 1.074MB
-  server: 13.212.204.100
-  port: 443
-  type: ss
-  cipher: aes-256-cfb
-  password: amazonskr05
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.193:443 | 1.074MB
-  server: 212.102.53.193
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8118 | 1.057MB
+  password: LEN7jzG48E4QcDtG9Gdkss
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5003 | 32.121MB
   server: 149.202.82.172
-  port: 8118
+  port: 5003
   type: ss
   cipher: aes-256-gcm
-  password: cdBIDV42DCwnfIN
-- name: 🇰🇷SS-TCP-NA🇰🇷KR-52.79.52.119:443 | 1.056MB
-  server: 52.79.52.119
-  port: 443
+  password: g5MeD6Ft3CWlJId
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.15.15.82:989 | 31.886MB
+  server: 51.15.15.82
+  port: 989
   type: ss
   cipher: aes-256-cfb
-  password: amazonskr05
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:8090 | 1.054MB
-  server: 54.37.12.70
-  port: 8090
+  password: f8f7aCzcPKbsF8p3
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:8882 | 31.777MB
+  server: 38.121.43.27
+  port: 8882
   type: ss
   cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇳🇱SS-TCP-NA🇳🇱NL-109.201.152.181:443 | 1.039MB
-  server: 109.201.152.181
-  port: 443
-  type: ss
-  cipher: aes-128-cfb
-  password: shadowsocks
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:38792 | 1.039MB
-  server: 91.103.122.32
-  port: 38792
+  password: kDWvXYZoTBcGkC4
+- name: 🇨🇳SS-TCP-NA🇨🇳CN-163.177.58.140:13137 | 31.673MB
+  server: 163.177.58.140
+  port: 13137
   type: ss
   cipher: aes-128-gcm
-  password: bd12f79e-3209-4970-83cd-5e1f3526ff51
-- name: 🇺🇸SS-TCP-NA🇺🇸US-207.246.101.50:1633 | 1.038MB
+  password: haMLMXirByn6rGVh
+- name: 🇺🇸SS-TCP-NA🇺🇸US-207.246.101.50:1633 | 31.291MB
   server: 207.246.101.50
   port: 1633
   type: ss
   cipher: chacha20-ietf-poly1305
   password: o_A7inN1yqeWtOTL
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:5601 | 1.014MB
-  server: 23.157.40.103
-  port: 5601
+- name: 🇺🇸SS-TCP-NA🇺🇸US-74.50.98.185:8080 | 30.702MB
+  server: 74.50.98.185
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: Mju3ZSaa4QVk45mc
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:7306 | 30.5MB
+  server: 217.182.198.219
+  port: 7306
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:5001 | 30.448MB
+  server: 142.202.49.84
+  port: 5001
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:5004 | 0.999MB
-  server: 142.202.49.84
-  port: 5004
-  type: ss
-  cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: 🇺🇸SS-TCP-NA🇺🇸US-139.64.164.15:8882 | 0.946MB
-  server: 139.64.164.15
-  port: 8882
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-74.119.193.103:42658 | 0.945MB
-  server: 74.119.193.103
-  port: 42658
+- name: 🇨🇳SS-TCP-NA🇹🇼TW-103.115.108.83:40020 | 30.428MB
+  server: 103.115.108.83
+  port: 40020
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: FU9HUAR4ZPMXV9Wh815b3FGPi2EOfqHTdv5aDV0ZVJN25OWzcLUTHmFlw28xLE9n
-- name: 🇮🇳SS-TCP-NA🇮🇳IN-103.120.178.193:51348 | 0.944MB
+  password: F585FCDB-6351-48D4-82C1-599B5447A589
+- name: SS-TCP-NA🇱🇹LT-45.87.175.181:8080 | 30.257MB
+  server: 45.87.175.181
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: cvII85TrW6n0OGyfpHVS1u
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.191:2376 | 30.119MB
+  server: 69.50.95.191
+  port: 2376
+  type: ss
+  cipher: aes-256-gcm
+  password: faBAoD54k87UJG7
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-185.5.38.111:55988 | 29.944MB
+  server: 185.5.38.111
+  port: 55988
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 27NDoVz3MepkWeZz4es6T1XsuHByjB2m4CUBYeWig6wjxqz5AyZZUAtH7xPKDcb8AYeK3gc9AS4BN4pMbPE6FLeHH7SidBV1
+- name: 🇮🇳SS-TCP-NA🇮🇳IN-103.120.178.193:51348 | 29.863MB
   server: 103.120.178.193
   port: 51348
   type: ss
   cipher: chacha20-ietf-poly1305
   password: pULZkJUnl5FB4mOQUngUKFtPfohf0cUCpOxqyRD52hy9WuHe
-- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9065 | 0.944MB
-  server: 45.89.52.66
-  port: 9065
-  type: ss
-  cipher: aes-256-cfb
-  password: PeHSHm5SqEjBuEXE
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:5498 | 0.915MB
-  server: 69.50.95.53
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.112:5498 | 29.211MB
+  server: 23.150.152.112
   port: 5498
   type: ss
   cipher: aes-256-gcm
   password: lGqs95QkFHo2NV
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8008 | 0.866MB
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.100:8090 | 28.615MB
+  server: 23.154.136.100
+  port: 8090
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇺🇸SS-TCP-NA🇺🇸US-34.222.136.128:443 | 28.457MB
+  server: 34.222.136.128
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: amazonskr05
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8882 | 28.369MB
+  server: 38.75.136.49
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7002 | 27.817MB
   server: 38.114.114.69
-  port: 8008
+  port: 7002
   type: ss
   cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:5003 | 0.802MB
-  server: 38.110.1.252
-  port: 5003
+  password: RexnBgU7EV5ADxG
+- name: SS-TCP-NA🇦🇹AT-95.164.9.144:2927 | 27.767MB
+  server: 95.164.9.144
+  port: 2927
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ug4Fu79SEREdFGlt2sUyT4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.191:443 | 27.569MB
+  server: 69.50.95.191
+  port: 443
   type: ss
   cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9090 | 0.753MB
+  password: pKEW8JPByTVTLtM
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9090 | 27.506MB
   server: 23.157.40.89
   port: 9090
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇯🇵SS-TCP-NA🇯🇵JP-18.181.152.92:443 | 0.735MB
+- name: SS-TCP-NA🇨🇿CZ-94.131.97.22:5139 | 27.308MB
+  server: 94.131.97.22
+  port: 5139
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: cN5RRTw7vYadEdRcdIduix
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:9102 | 27.091MB
+  server: 217.182.198.219
+  port: 9102
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇺🇸SS-TCP-NA🇺🇸US-34.222.132.123:443 | 27.069MB
+  server: 34.222.132.123
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: amazonskr05
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8888 | 26.912MB
+  server: 38.75.136.21
+  port: 8888
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇷🇺SS-TCP-NA🇷🇺RU-185.22.155.228:23456 | 26.685MB
+  server: 185.22.155.228
+  port: 23456
+  type: ss
+  cipher: aes-256-gcm
+  password: dongtaiwang.com
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 26.396MB
+  server: 38.86.135.117
+  port: 3389
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:9102 | 25.897MB
+  server: 149.202.82.172
+  port: 9102
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 25.842MB
+  server: 38.114.114.69
+  port: 5500
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-107.148.6.121:8388 | 24.98MB
+  server: 107.148.6.121
+  port: 8388
+  type: ss
+  cipher: chacha20-ietf
+  password: asd123456
+- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9037 | 24.82MB
+  server: 45.89.52.66
+  port: 9037
+  type: ss
+  cipher: aes-256-cfb
+  password: TN2YqghxeFDKZfLU
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.81:443 | 24.606MB
+  server: 212.102.53.81
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.92.72:8882 | 21.696MB
+  server: 69.50.92.72
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8119 | 20.91MB
+  server: 38.110.1.252
+  port: 8119
+  type: ss
+  cipher: aes-256-gcm
+  password: cdBIDV42DCwnfIN
+- name: 🇺🇸SS-TCP-NA🇺🇸US-194.116.173.21:9038 | 20.48MB
+  server: 194.116.173.21
+  port: 9038
+  type: ss
+  cipher: aes-256-cfb
+  password: gYCYXfkUQEs2TaJQ
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-149.22.87.241:443 | 20.038MB
+  server: 149.22.87.241
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:5500 | 19.463MB
+  server: 69.50.95.53
+  port: 5500
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9027 | 19.437MB
+  server: 5.188.181.201
+  port: 9027
+  type: ss
+  cipher: aes-256-cfb
+  password: EXN3S3eQpjE7EJu8
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:5003 | 18.151MB
+  server: 217.182.198.219
+  port: 5003
+  type: ss
+  cipher: aes-256-gcm
+  password: g5MeD6Ft3CWlJId
+- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9041 | 16.447MB
+  server: 45.89.52.66
+  port: 9041
+  type: ss
+  cipher: aes-256-cfb
+  password: U6qnYRhfyDmn8sgn
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-18.181.152.92:443 | 15.997MB
   server: 18.181.152.92
   port: 443
   type: ss
   cipher: aes-256-cfb
   password: amazonskr05
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.197:443 | 0.731MB
-  server: 212.102.53.197
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.158.252.130:443 | 14.42MB
+  server: 51.158.252.130
   port: 443
   type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8091 | 0.563MB
-  server: 38.114.114.69
-  port: 8091
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.215:8882 | 0.563MB
-  server: 15.204.87.215
-  port: 8882
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:5000 | 0.562MB
-  server: 38.110.1.46
-  port: 5000
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.138:5004 | 0.46MB
-  server: 38.68.135.138
-  port: 5004
-  type: ss
-  cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-77.72.5.113:989 | 0.389MB
-  server: 77.72.5.113
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
-  password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:5498 | 0.364MB
-  server: 23.157.40.120
-  port: 5498
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7001 | 0.249MB
-  server: 38.114.114.69
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇬🇧SS-TCP-NA🇬🇧GB-107.181.155.244:55330 | 0.247MB
-  server: 107.181.155.244
-  port: 55330
-  type: ss
   cipher: chacha20-ietf-poly1305
-  password: rtR4YX74vwqRJu9MGH3e1N3CQdGMWCUFkyLisijiFuvhkU9McV5TpygfkernJ4UQe63JtcDQkrQ9HfchzqQz1kLCnTRor8jg
-- name: SS-TCP-NA🇨🇾CY-134.255.210.49:990 | 0.223MB
-  server: 134.255.210.49
-  port: 990
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: f8f7aCzcPKbsF8p3
-- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:3306 | 0.221MB
-  server: 142.202.48.105
-  port: 3306
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-5.175.137.127:56207 | 0.185MB
-  server: 5.175.137.127
-  port: 56207
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 2MeBqzmUpoBY2rL8o67XjtEqerF8MHJZE24rHCEsPYrG9jCxW1khi1EjGKUBJNiBA25zXjHEB9eujhvQVYURZNCqJe7g33Bk
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9020 | 0.138MB
+  password: ongZotTbkFtDICYZyi63nA
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9020 | 12.825MB
   server: 80.92.204.106
   port: 9020
   type: ss
   cipher: aes-256-cfb
   password: BNmAXXxAHYpTRdzu
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.236:8080 | 0.13MB
-  server: 68.183.227.236
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:6379 | 12.02MB
+  server: 217.182.198.219
+  port: 6379
+  type: ss
+  cipher: aes-256-gcm
+  password: zDNVedRFPQexG9v
+- name: SS-TCP-NA🇱🇹LT-45.87.175.178:8080 | 11.792MB
+  server: 45.87.175.178
   port: 8080
   type: ss
-  cipher: rc4-md5
-  password: 14fFPrbezE3HDZzsMOr6
-- name: 🇰🇷SS-TCP-NA🇰🇷KR-43.203.243.93:443 | 0.12MB
-  server: 43.203.243.93
-  port: 443
+  cipher: chacha20-ietf-poly1305
+  password: cvII85TrW6n0OGyfpHVS1u
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:5601 | 9.43MB
+  server: 23.157.40.89
+  port: 5601
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8090 | 5.944MB
+  server: 149.202.82.172
+  port: 8090
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8881 | 4.506MB
+  server: 67.220.95.102
+  port: 8881
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: SS-TCP-NA🇲🇩MD-86.104.75.103:49264 | 1.053MB
+  server: 86.104.75.103
+  port: 49264
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: LI4obOEIDLzDjd7xYlhhTJ
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-141.98.234.93:20012 | 1.051MB
+  server: 141.98.234.93
+  port: 20012
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: WfmxKX2FBJRU0Ie9VLIYDL
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.71:8091 | 1.049MB
+  server: 38.75.137.71
+  port: 8091
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-195.154.169.198:989 | 1.048MB
+  server: 195.154.169.198
+  port: 989
   type: ss
   cipher: aes-256-cfb
-  password: amazonskr05
-- name: SS-TCP-NA🇱🇹LT-45.87.175.188:8080 | 0.092MB
-  server: 45.87.175.188
-  port: 8080
+  password: f8f7aCzcPKbsF8p3
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:804 | 1.048MB
+  server: 51.178.87.37
+  port: 804
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: 4a2rfixophdjffa8KVA4Aa
-- name: SS-TCP-NA🇪🇪EE-147.45.60.33:16356 | 0.08MB
-  server: 147.45.60.33
-  port: 16356
+  password: G!yBwPWH3Vao
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7001 | 1.047MB
+  server: 38.110.1.46
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:5601 | 1.046MB
+  server: 23.157.40.103
+  port: 5601
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:9101 | 1.041MB
+  server: 38.121.43.142
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.151:443 | 1.038MB
+  server: 205.134.180.151
+  port: 443
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: LqlPI19oqnunGNSLMvdXyB
-- name: 🇷🇺SS-TCP-NA🇷🇺RU-45.142.246.232:19796 | 0.028MB
-  server: 45.142.246.232
-  port: 19796
+  password: 5cp9Z3iWnJZ2
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:5601 | 1.037MB
+  server: 23.157.40.5
+  port: 5601
   type: ss
   cipher: aes-256-gcm
-  password: b12360f4-33ba-4c9b-ae0c-3da5f8c6ed05
-- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.75:8000 | 0.0MB
-  server: 142.202.49.75
-  port: 8000
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.51:2376 | 1.032MB
+  server: 38.121.43.51
+  port: 2376
   type: ss
   cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
+  password: faBAoD54k87UJG7
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-145.239.6.202:5001 | 1.032MB
+  server: 145.239.6.202
+  port: 5001
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:8091 | 1.029MB
+  server: 23.157.40.5
+  port: 8091
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇺🇸SS-TCP-NA🇺🇸US-45.55.2.232:14293 | 1.024MB
+  server: 45.55.2.232
+  port: 14293
+  type: ss
+  cipher: aes-256-cfb
+  password: 2170f8
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:9101 | 0.795MB
+  server: 38.75.136.108
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇳🇱SS-TCP-NA🇳🇱NL-82.115.5.141:1080 | 0.685MB
+  server: 82.115.5.141
+  port: 1080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 4uEQwGO5GC-6gMe4zFPVRQ
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:7307 | 0.489MB
+  server: 23.150.152.56
+  port: 7307
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:3389 | 0.328MB
+  server: 142.202.48.105
+  port: 3389
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: SS-TCP-NA🇮🇪IE-13.79.98.64:55939 | 0.0MB
+  server: 13.79.98.64
+  port: 55939
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 49JPbl6SMH1hDoskOR6irG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8118 | 0.0MB
+  server: 38.75.136.49
+  port: 8118
+  type: ss
+  cipher: aes-256-gcm
+  password: cdBIDV42DCwnfIN
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:9101 | 0.0MB
+  server: 217.182.198.219
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: SS-TCP-NA🇳🇴NO-51.13.115.105:48963 | 0.0MB
+  server: 51.13.115.105
+  port: 48963
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ZTqcA3pg0tY0qKKP240BQT
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:5003 | 0.0MB
+  server: 23.157.40.113
+  port: 5003
+  type: ss
+  cipher: aes-256-gcm
+  password: g5MeD6Ft3CWlJId
 - name: 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:9102 | 0.0MB
   server: 167.88.61.235
   port: 9102
   type: ss
   cipher: aes-256-gcm
   password: e4FCWrgpkji3QY
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9064 | 0.0MB
+  server: 217.30.10.18
+  port: 9064
+  type: ss
+  cipher: aes-256-cfb
+  password: cp8pRSUAyLhTfVWH
+- name: SS-TCP-NA🇹🇭TH-119.59.98.58:990 | 0.0MB
+  server: 119.59.98.58
+  port: 990
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-13.114.67.166:443 | 0.0MB
+  server: 13.114.67.166
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: amazonskr05
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5001 | 0.0MB
+  server: 149.202.82.172
+  port: 5001
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:5500 | 0.0MB
+  server: 51.77.53.200
+  port: 5500
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇸🇬SS-TCP-NA🇸🇬SG-174.138.17.254:52252 | 0.0MB
+  server: 174.138.17.254
+  port: 52252
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: BzZTmphVccYTpHXy1ynVxD
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9027 | 0.0MB
+  server: 80.92.204.106
+  port: 9027
+  type: ss
+  cipher: aes-256-cfb
+  password: EXN3S3eQpjE7EJu8
+- name: 🇺🇸SS-TCP-NA🇺🇸US-139.64.165.144:7002 | 0.0MB
+  server: 139.64.165.144
+  port: 7002
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:3389 | 0.0MB
+  server: 23.157.40.5
+  port: 3389
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.122:7306 | 0.0MB
+  server: 38.110.1.122
+  port: 7306
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2376 | 0.0MB
+  server: 23.157.40.113
+  port: 2376
+  type: ss
+  cipher: aes-256-gcm
+  password: faBAoD54k87UJG7
+- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:8090 | 0.0MB
+  server: 142.202.49.84
+  port: 8090
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇺🇸SS-TCP-NA🇺🇸US-139.64.165.115:7001 | 0.0MB
+  server: 139.64.165.115
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 0.0MB
+  server: 38.143.66.244
+  port: 7307
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: SS-TCP-NA🇧🇭BH-157.241.22.182:443 | 0.0MB
+  server: 157.241.22.182
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: Bog0ELmMM9DSxDdQ
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:7002 | 0.0MB
+  server: 38.121.43.27
+  port: 7002
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.236:8080 | 0.0MB
+  server: 68.183.227.236
+  port: 8080
+  type: ss
+  cipher: rc4-md5
+  password: 14fFPrbezE3HDZzsMOr6
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.203:2375 | 0.0MB
+  server: 69.50.95.203
+  port: 2375
+  type: ss
+  cipher: aes-256-gcm
+  password: faBAoD54k87UJG7
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.179:5498 | 0.0MB
+  server: 69.50.95.179
+  port: 5498
+  type: ss
+  cipher: aes-256-gcm
+  password: lGqs95QkFHo2NV
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:5003 | 0.0MB
+  server: 54.37.12.70
+  port: 5003
+  type: ss
+  cipher: aes-256-gcm
+  password: g5MeD6Ft3CWlJId
+- name: 🇨🇳SS-TCP-NA🇹🇼TW-1.162.32.165:36918 | 0.0MB
+  server: 1.162.32.165
+  port: 36918
+  type: ss
+  cipher: aes-256-gcm
+  password: uoXctIQ4L89ykUZwn17Pn3CzNDNcZSRabCgN5hyNV7JQ
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:8881 | 0.0MB
+  server: 69.50.95.53
+  port: 8881
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-45.158.171.14:8080 | 0.0MB
+  server: 45.158.171.14
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: a8bt9fY0QsLS6eLnXUe0Ym
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7307 | 0.0MB
+  server: 38.110.1.46
+  port: 7307
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.236:443 | 0.0MB
+  server: 37.19.198.236
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8091 | 0.0MB
+  server: 149.202.82.172
+  port: 8091
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
 - name: 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:6679 | 0.0MB
   server: 167.88.61.235
   port: 6679
+  type: ss
+  cipher: aes-256-gcm
+  password: TEzjfAYq2IjtuoS
+- name: SS-TCP-NA🇨🇾CY-5.180.45.142:18429 | 0.0MB
+  server: 5.180.45.142
+  port: 18429
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: dWnlAQeo1ruXqOLepCkMFQ
+- name: 🇺🇸SS-TCP-NA🇺🇸US-144.202.112.106:3913 | 0.0MB
+  server: 144.202.112.106
+  port: 3913
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 76dze09gQEvqS_jOuo
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:6379 | 0.0MB
+  server: 54.36.174.181
+  port: 6379
+  type: ss
+  cipher: aes-256-gcm
+  password: zDNVedRFPQexG9v
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.193:443 | 0.0MB
+  server: 212.102.53.193
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.39:9101 | 0.0MB
+  server: 69.50.95.39
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇨🇳SS-TCP-NA🇹🇼TW-211.22.161.134:2377 | 0.0MB
+  server: 211.22.161.134
+  port: 2377
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.79:443 | 0.0MB
+  server: 212.102.53.79
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.195.220.179:1080 | 0.0MB
+  server: 51.195.220.179
+  port: 1080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: vntxqHhPINXu5Ag6876fXO
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-89.185.84.185:12575 | 0.0MB
+  server: 89.185.84.185
+  port: 12575
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: wL5U8ZvP9eBKEUiSuJbx2E
+- name: SS-TCP-NA🇻🇳VN-103.163.218.2:989 | 0.0MB
+  server: 103.163.218.2
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: SS-TCP-NA🇦🇷AR-190.103.176.29:989 | 0.0MB
+  server: 190.103.176.29
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:8091 | 0.0MB
+  server: 217.182.198.219
+  port: 8091
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8090 | 0.0MB
+  server: 38.110.1.252
+  port: 8090
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 0.0MB
+  server: 216.39.248.133
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9005 | 0.0MB
+  server: 5.188.181.201
+  port: 9005
+  type: ss
+  cipher: aes-256-cfb
+  password: ZET59LF6DvCC8KVt
+- name: SS-TCP-NA🇸🇪SE-121.127.46.147:989 | 0.0MB
+  server: 121.127.46.147
+  port: 989
+  type: ss
+  cipher: aes-256-cfb
+  password: f8f7aCzcPKbsF8p3
+- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9014 | 0.0MB
+  server: 45.89.52.66
+  port: 9014
+  type: ss
+  cipher: aes-256-cfb
+  password: KnJGad3FqTvjqbaX
+- name: 🇬🇧SS-TCP-NA🇬🇧GB-145.239.6.202:3306 | 0.0MB
+  server: 145.239.6.202
+  port: 3306
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:8090 | 0.0MB
+  server: 15.204.87.225
+  port: 8090
+  type: ss
+  cipher: aes-256-gcm
+  password: PCnnH6SQSnfoS27
+- name: 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.45:8080 | 0.0MB
+  server: 68.183.227.45
+  port: 8080
+  type: ss
+  cipher: rc4-md5
+  password: 14fFPrbezE3HDZzsMOr6
+- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.215:8882 | 0.0MB
+  server: 15.204.87.215
+  port: 8882
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5600 | 0.0MB
+  server: 15.204.87.217
+  port: 5600
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.125:7001 | 0.0MB
+  server: 67.220.95.125
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8080 | 0.0MB
+  server: 23.157.40.120
+  port: 8080
+  type: ss
+  cipher: aes-256-gcm
+  password: KixLvKzwjekG00rm
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8118 | 0.0MB
+  server: 38.121.43.204
+  port: 8118
+  type: ss
+  cipher: aes-256-gcm
+  password: cdBIDV42DCwnfIN
+- name: 🇳🇱SS-TCP-NA🇳🇱NL-45.67.231.156:17233 | 0.0MB
+  server: 45.67.231.156
+  port: 17233
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: bLN43fbhH0Dhx8pXcMwXloN5WlXn09BRzIZjMl0vt0SaLPiIC43Xq8lXgCcgANOY
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-82.152.105.168:51161 | 0.0MB
+  server: 82.152.105.168
+  port: 51161
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 6d247617-01a8-4720-9c4e-c5c68ebf75c5
+- name: 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:7306 | 0.0MB
+  server: 142.202.48.105
+  port: 7306
+  type: ss
+  cipher: aes-256-gcm
+  password: FoOiGlkAA9yPEGP
+- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9003 | 0.0MB
+  server: 45.89.52.66
+  port: 9003
+  type: ss
+  cipher: aes-256-cfb
+  password: JdmRK9gMEqFgs8nP
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8881 | 0.0MB
+  server: 23.157.40.89
+  port: 8881
+  type: ss
+  cipher: aes-256-gcm
+  password: kDWvXYZoTBcGkC4
+- name: SS-TCP-NA🇮🇷IR-85.9.112.204:443 | 0.0MB
+  server: 85.9.112.204
+  port: 443
+  type: ss
+  cipher: aes-256-gcm
+  password: eUIU4k444ytYg5/lBaLZBCaeZ0R9tCU5SFEoVrdjG1g=
+- name: SS-TCP-NA🇨🇭CH-156.146.62.162:443 | 0.0MB
+  server: 156.146.62.162
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:7001 | 0.0MB
+  server: 38.75.136.108
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.101:8008 | 0.0MB
+  server: 69.50.95.101
+  port: 8008
+  type: ss
+  cipher: aes-256-gcm
+  password: XKFKl2rULjIp74
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:7001 | 0.0MB
+  server: 149.202.82.172
+  port: 7001
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:9101 | 0.0MB
+  server: 23.157.40.5
+  port: 9101
+  type: ss
+  cipher: aes-256-gcm
+  password: e4FCWrgpkji3QY
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8009 | 0.0MB
+  server: 149.202.82.172
+  port: 8009
+  type: ss
+  cipher: aes-256-gcm
+  password: XKFKl2rULjIp74
+- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:5000 | 0.0MB
+  server: 54.36.174.181
+  port: 5000
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5001 | 0.0MB
+  server: 38.114.114.69
+  port: 5001
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8888 | 0.0MB
+  server: 67.220.95.102
+  port: 8888
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.147:443 | 0.0MB
+  server: 205.134.180.147
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 9Bvkw5aupNy8
+- name: SS-TCP-NA🇫🇮FI-66.151.34.98:57261 | 0.0MB
+  server: 66.151.34.98
+  port: 57261
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: SkhGkSjUxdaoOFwSEifEcH
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8118 | 0.0MB
+  server: 23.157.40.113
+  port: 8118
+  type: ss
+  cipher: aes-256-gcm
+  password: cdBIDV42DCwnfIN
+- name: SS-TCP-NA🇮🇹IT-192.121.46.180:443 | 0.0MB
+  server: 192.121.46.180
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ERqgtmwgEouIlxvMHsxZix
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8009 | 0.0MB
+  server: 38.75.136.49
+  port: 8009
+  type: ss
+  cipher: aes-256-gcm
+  password: XKFKl2rULjIp74
+- name: SS-TCP-NA🇦🇪AE-40.172.79.219:443 | 0.0MB
+  server: 40.172.79.219
+  port: 443
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: u17T3BvpYaaiuW2c
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-92.118.205.228:990 | 0.0MB
+  server: 92.118.205.228
+  port: 990
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: f8f7aCzcPKbsF8p3
+- name: 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:7002 | 0.0MB
+  server: 51.77.53.200
+  port: 7002
+  type: ss
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: SS-TCP-NA🇱🇹LT-45.87.175.157:8080 | 0.0MB
+  server: 45.87.175.157
+  port: 8080
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: cvII85TrW6n0OGyfpHVS1u
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.85:6697 | 0.0MB
+  server: 23.157.40.85
+  port: 6697
   type: ss
   cipher: aes-256-gcm
   password: TEzjfAYq2IjtuoS
@@ -863,773 +1085,551 @@ proxies:
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇨🇳SS-TCP-NA🇹🇼TW-211.22.161.134:2377 | 0.0MB
-  server: 211.22.161.134
-  port: 2377
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5601 | 0.0MB
-  server: 38.75.136.21
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.26:5601 | 0.0MB
+  server: 23.157.40.26
   port: 5601
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7002 | 0.0MB
-  server: 38.114.114.69
-  port: 7002
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 0.0MB
-  server: 205.134.180.145
-  port: 443
+- name: SS-TCP-NA🇮🇩ID-154.205.159.100:990 | 0.0MB
+  server: 154.205.159.100
+  port: 990
   type: ss
   cipher: chacha20-ietf-poly1305
-  password: hgLCgfLRgB6d
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9102 | 0.0MB
-  server: 51.77.53.200
-  port: 9102
-  type: ss
-  cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.111:8090 | 0.0MB
-  server: 167.88.61.111
-  port: 8090
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:2375 | 0.0MB
-  server: 51.77.53.200
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-103.36.90.195:8388 | 0.0MB
-  server: 103.36.90.195
-  port: 8388
-  type: ss
-  cipher: chacha20-ietf
-  password: asd123456
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.117:2376 | 0.0MB
-  server: 38.75.136.117
-  port: 2376
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇺🇸SS-TCP-NA🇺🇸US-167.88.62.24:8080 | 0.0MB
-  server: 167.88.62.24
-  port: 8080
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:800 | 0.0MB
-  server: 51.178.87.37
-  port: 800
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: G!yBwPWH3Vao
-- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.100:443 | 0.0MB
-  server: 67.220.95.100
-  port: 443
-  type: ss
-  cipher: aes-256-gcm
-  password: pKEW8JPByTVTLtM
-- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9030 | 0.0MB
-  server: 45.89.52.66
-  port: 9030
-  type: ss
-  cipher: aes-256-cfb
-  password: GeregetR8cvQHzYr
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8119 | 0.0MB
-  server: 38.110.1.252
-  port: 8119
-  type: ss
-  cipher: aes-256-gcm
-  password: cdBIDV42DCwnfIN
-- name: 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9005 | 0.0MB
-  server: 5.188.181.201
-  port: 9005
-  type: ss
-  cipher: aes-256-cfb
-  password: ZET59LF6DvCC8KVt
-- name: 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.150:443 | 0.0MB
-  server: 205.134.180.150
-  port: 443
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 5cp9Z3iWnJZ2
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:7001 | 0.0MB
-  server: 38.75.136.108
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:7002 | 0.0MB
-  server: 38.75.136.49
-  port: 7002
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:5001 | 0.0MB
-  server: 23.157.40.120
-  port: 5001
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:43684 | 0.0MB
-  server: 91.103.122.32
-  port: 43684
-  type: ss
-  cipher: aes-128-gcm
-  password: bd12f79e-3209-4970-83cd-5e1f3526ff51
-- name: 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.120:7307 | 0.0MB
-  server: 169.197.142.120
-  port: 7307
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-213.176.66.228:24495 | 0.0MB
-  server: 213.176.66.228
-  port: 24495
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: xk5c6OgvtSu9d2mUTYZPiI
-- name: 🇨🇳SS-TCP-NA🇹🇼TW-36.232.15.12:36918 | 0.0MB
-  server: 36.232.15.12
-  port: 36918
-  type: ss
-  cipher: aes-256-gcm
-  password: uoXctIQ4L89ykUZwn17Pn3CzNDNcZSRabCgN5hyNV7JQ
-- name: 🇨🇳SS-TCP-NA🇹🇼TW-103.115.108.83:40020 | 0.0MB
-  server: 103.115.108.83
-  port: 40020
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: F585FCDB-6351-48D4-82C1-599B5447A589
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:7001 | 0.0MB
-  server: 149.202.82.172
-  port: 7001
-  type: ss
-  cipher: aes-256-gcm
-  password: RexnBgU7EV5ADxG
-- name: 🇺🇸SS-TCP-NA🇺🇸US-92.118.112.111:18622 | 0.0MB
-  server: 92.118.112.111
-  port: 18622
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: gmYDzSG6K35s8b19oY4fGz
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.3:5601 | 0.0MB
-  server: 38.110.1.3
-  port: 5601
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:7306 | 0.0MB
-  server: 54.37.12.70
-  port: 7306
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇳🇱SS-TCP-NA🇳🇱NL-193.29.139.202:8080 | 0.0MB
-  server: 193.29.139.202
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: oZIoA69Q8yhcQV8ka3Pa3A
-- name: SS-TCP-NA🇮🇪IE-23.92.127.134:989 | 0.0MB
-  server: 23.92.127.134
-  port: 989
-  type: ss
-  cipher: aes-256-cfb
   password: f8f7aCzcPKbsF8p3
-- name: SS-TCP-NA🇱🇹LT-45.87.175.181:8080 | 0.0MB
-  server: 45.87.175.181
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: cvII85TrW6n0OGyfpHVS1u
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 0.0MB
-  server: 38.86.135.117
-  port: 3389
-  type: ss
-  cipher: aes-256-gcm
-  password: Y6R9pAtvxxzmGC
-- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.95:8882 | 0.0MB
-  server: 23.157.40.95
-  port: 8882
-  type: ss
-  cipher: aes-256-gcm
-  password: kDWvXYZoTBcGkC4
-- name: 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9014 | 0.0MB
-  server: 5.188.181.201
-  port: 9014
-  type: ss
-  cipher: aes-256-cfb
-  password: KnJGad3FqTvjqbaX
-- name: 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:8008 | 0.0MB
-  server: 169.197.142.216
-  port: 8008
-  type: ss
-  cipher: aes-256-gcm
-  password: XKFKl2rULjIp74
-- name: 🇷🇺SS-TCP-NA🇷🇺RU-95.215.108.67:40031 | 0.0MB
-  server: 95.215.108.67
-  port: 40031
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 29fefcc3-9ae1-4e01-a1d0-534fc1671121
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:810 | 0.0MB
-  server: 51.178.87.37
-  port: 810
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: G!yBwPWH3Vao
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8090 | 0.0MB
-  server: 38.114.114.69
-  port: 8090
-  type: ss
-  cipher: aes-256-gcm
-  password: PCnnH6SQSnfoS27
-- name: 🇨🇦SS-TCP-NA🇨🇦CA-142.4.216.225:80 | 0.0MB
-  server: 142.4.216.225
-  port: 80
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: JIhN6rBKkaEboLNXVSv5rq
-- name: 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.236:443 | 0.0MB
-  server: 37.19.198.236
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9098 | 0.0MB
-  server: 80.92.204.106
-  port: 9098
-  type: ss
-  cipher: aes-256-cfb
-  password: aLpQtfEZe445QyHk
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:2375 | 0.0MB
-  server: 38.75.136.108
-  port: 2375
-  type: ss
-  cipher: aes-256-gcm
-  password: faBAoD54k87UJG7
-- name: 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.174:5004 | 0.0MB
-  server: 69.50.95.174
-  port: 5004
-  type: ss
-  cipher: aes-256-gcm
-  password: g5MeD6Ft3CWlJId
-- name: SS-TCP-NA🇨🇭CH-156.146.62.161:443 | 0.0MB
-  server: 156.146.62.161
-  port: 443
-  type: ss
-  cipher: aes-128-gcm
-  password: shadowsocks
-- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:5498 | 0.0MB
-  server: 67.220.95.102
-  port: 5498
-  type: ss
-  cipher: aes-256-gcm
-  password: lGqs95QkFHo2NV
-- name: 🇰🇷SS-TCP-NA🇰🇷KR-3.35.206.24:443 | 0.0MB
-  server: 3.35.206.24
+- name: 🇰🇷SS-TCP-NA🇰🇷KR-43.203.122.162:443 | 0.0MB
+  server: 43.203.122.162
   port: 443
   type: ss
   cipher: aes-256-cfb
   password: amazonskr05
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:9101 | 0.0MB
-  server: 38.114.114.69
-  port: 9101
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:443 | 0.0MB
+  server: 38.121.43.27
+  port: 443
   type: ss
   cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
-- name: SS-TCP-NA🇹🇷TR-45.89.52.66:9011 | 0.0MB
-  server: 45.89.52.66
-  port: 9011
+  password: pKEW8JPByTVTLtM
+- name: 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.138:2377 | 0.0MB
+  server: 60.249.28.138
+  port: 2377
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:3306 | 0.0MB
+  server: 23.157.40.113
+  port: 3306
+  type: ss
+  cipher: aes-256-gcm
+  password: Y6R9pAtvxxzmGC
+- name: 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2375 | 0.0MB
+  server: 23.157.40.113
+  port: 2375
+  type: ss
+  cipher: aes-256-gcm
+  password: faBAoD54k87UJG7
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.150.12.188:56018 | 0.0MB
+  server: 38.150.12.188
+  port: 56018
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ZpeGa4
+- name: 🇳🇱SS-TCP-NA🇳🇱NL-198.105.123.190:46902 | 0.0MB
+  server: 198.105.123.190
+  port: 46902
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: 2UrSffeNABXGXXfNhoL6xBUnh1RzqMizrQ2s9QfC38P2YPuYPRTqW5zZg6jGisiNhkzM4SRjF6nzvFb18GPtESWoXWjhqyC8
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9046 | 0.0MB
+  server: 80.92.204.106
+  port: 9046
   type: ss
   cipher: aes-256-cfb
-  password: M3t2ZEQcMGRWBjRa
-- name: 🇺🇸SS-TCP-NA🇺🇸US-194.116.173.21:9038 | 0.0MB
-  server: 194.116.173.21
-  port: 9038
+  password: NvS8N4Vf8qAGPSCL
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.3:7002 | 0.0MB
+  server: 38.110.1.3
+  port: 7002
   type: ss
-  cipher: aes-256-cfb
-  password: gYCYXfkUQEs2TaJQ
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:9101 | 0.0MB
+  cipher: aes-256-gcm
+  password: RexnBgU7EV5ADxG
+- name: 🇸🇬SS-TCP-NA🇸🇬SG-128.199.172.224:8080 | 0.0MB
+  server: 128.199.172.224
+  port: 8080
+  type: ss
+  cipher: rc4-md5
+  password: 14fFPrbezE3HDZzsMOr6
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:5001 | 0.0MB
   server: 38.75.136.108
-  port: 9101
+  port: 5001
   type: ss
   cipher: aes-256-gcm
-  password: e4FCWrgpkji3QY
+  password: Y6R9pAtvxxzmGC
+- name: 🇳🇱SS-TCP-NA🇳🇱NL-208.67.105.87:42501 | 0.0MB
+  server: 208.67.105.87
+  port: 42501
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: nq96KftrZAj3LuFQESqmn44Mo5oCuo2cipoEsae25mrmHG2oJ4VT37scBfVBpN5DWtUELZutVhhXs8Le5B8fZ9hLn9ytwvbf
+- name: 🇮🇳SS-TCP-NA🇮🇳IN-103.174.86.113:51348 | 0.0MB
+  server: 103.174.86.113
+  port: 51348
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: vZr8MlUXUihNEndqIpjDxQdSeqi37FbgoHBmQ1syy6ZjkbBn
+- name: 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:58226 | 0.0MB
+  server: 213.130.141.113
+  port: 58226
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: ba8d6492-f3f5-4376-aa88-1c3bda57a6d9
+- name: 🇩🇪SS-TCP-NA🇩🇪DE-150.241.95.63:12271 | 0.0MB
+  server: 150.241.95.63
+  port: 12271
+  type: ss
+  cipher: chacha20-ietf-poly1305
+  password: MDtZ$d1lcz
+- name: 🇺🇸SS-TCP-NA🇺🇸US-156.146.38.169:443 | 0.0MB
+  server: 156.146.38.169
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks7
+- name: 🇯🇵SS-TCP-NA🇯🇵JP-54.248.142.136:443 | 0.0MB
+  server: 54.248.142.136
+  port: 443
+  type: ss
+  cipher: aes-256-cfb
+  password: amazonskr05
+- name: 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.68:443 | 0.0MB
+  server: 149.34.244.68
+  port: 443
+  type: ss
+  cipher: aes-128-gcm
+  password: shadowsocks
 - name: 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.82:443 | 0.0MB
   server: 149.34.244.82
   port: 443
   type: ss
   cipher: aes-128-gcm
   password: shadowsocks
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 0.0MB
-  server: 38.114.114.69
-  port: 5500
-  type: ss
-  cipher: aes-256-gcm
-  password: KixLvKzwjekG00rm
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:5601 | 0.0MB
-  server: 38.110.1.252
-  port: 5601
+- name: 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5600 | 0.0MB
+  server: 38.75.136.21
+  port: 5600
   type: ss
   cipher: aes-256-gcm
   password: Y6R9pAtvxxzmGC
-- name: 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:58060 | 0.0MB
-  server: 45.158.59.74
-  port: 58060
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: ba8d6492-f3f5-4376-aa88-1c3bda57a6d9
-- name: 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:7307 | 0.0MB
-  server: 67.220.95.102
-  port: 7307
-  type: ss
-  cipher: aes-256-gcm
-  password: FoOiGlkAA9yPEGP
-- name: 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:4444 | 0.0MB
-  server: 38.121.43.142
-  port: 4444
-  type: ss
-  cipher: aes-256-gcm
-  password: pKEW8JPByTVTLtM
-- name: 🇫🇷SS-TCP-NA🇫🇷FR-45.158.171.14:8080 | 0.0MB
-  server: 45.158.171.14
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: a8bt9fY0QsLS6eLnXUe0Ym
-- name: 🇺🇸SS-TCP-NA🇺🇸US-45.55.2.232:14293 | 0.0MB
-  server: 45.55.2.232
-  port: 14293
-  type: ss
-  cipher: aes-256-cfb
-  password: 2170f8
-- name: SS-TCP-NA🇱🇹LT-45.87.175.164:8080 | 0.0MB
-  server: 45.87.175.164
-  port: 8080
-  type: ss
-  cipher: chacha20-ietf-poly1305
-  password: 4a2rfixophdjffa8KVA4Aa
 proxy-groups:
 - name: Core
   type: select
   proxies:
   - Ping
-  - LATEST-UPDATE📅THU-06-DEY-1403🕑15:15 | 172.888MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.180:5498 | 144.235MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:3306 | 137.714MB
-  - SS-TCP-NA🇭🇺HU-91.219.237.102:990 | 134.984MB
-  - SS-TCP-NA🇦🇪AE-40.172.103.119:443 | 77.971MB
-  - 🇨🇳SS-TCP-NA🇨🇳CN-183.233.187.157:20001 | 76.935MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9027 | 75.039MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5004 | 73.631MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-52.237.155.68:443 | 70.514MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.151:443 | 67.393MB
-  - SS-TCP-NA🇦🇷AR-190.103.176.29:989 | 61.259MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7306 | 59.695MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-156.146.38.170:443 | 57.773MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8881 | 49.902MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.218:5499 | 45.047MB
-  - SS-TCP-NA🇮🇩ID-154.205.159.100:990 | 44.12MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:58226 | 41.598MB
-  - SS-TCP-NA🇹🇭TH-119.59.98.58:990 | 38.486MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:5000 | 36.652MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-193.108.119.230:8080 | 34.557MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.91.100.211:3306 | 34.199MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:7306 | 33.82MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7307 | 33.555MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-138.199.42.68:8080 | 33.056MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9040 | 32.725MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-212.102.47.131:443 | 32.459MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8882 | 31.573MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:9102 | 31.556MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.176.215.63:2377 | 30.8MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.203:5601 | 30.755MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.179.197.216:443 | 30.288MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-157.245.77.251:80 | 30.265MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8090 | 30.213MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.51:8091 | 28.551MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 28.551MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:9102 | 27.697MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:2375 | 27.088MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2376 | 26.821MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:2375 | 26.563MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2375 | 25.897MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:7306 | 25.764MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-18.133.5.100:443 | 24.418MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.71:8000 | 24.283MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:7307 | 22.269MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:6379 | 21.447MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8881 | 21.278MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8009 | 19.31MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.211:8080 | 19.264MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.150.12.187:56018 | 19.194MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:8881 | 18.977MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.103:8882 | 18.774MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-52.68.44.53:443 | 18.765MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.174:443 | 18.226MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-194.5.215.59:8080 | 17.581MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8118 | 16.027MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.122:8008 | 15.986MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9006 | 15.97MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-52.89.164.115:443 | 15.843MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:3389 | 15.617MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:5000 | 14.098MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.17:8009 | 13.609MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.4:8080 | 13.474MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.105:9090 | 13.365MB
-  - 🇨🇳SS-TCP-NA🇨🇳CN-163.177.58.140:13137 | 13.35MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7307 | 12.841MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-107.155.57.51:8080 | 12.414MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.235.122:8080 | 11.141MB
-  - SS-TCP-NA🇺🇦UA-95.164.249.61:54075 | 11.108MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:5500 | 10.94MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9037 | 10.907MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-51.68.206.229:8080 | 10.876MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5499 | 10.855MB
-  - SS-TCP-NA🇳🇴NO-51.13.115.105:48963 | 9.5MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.39:9101 | 8.95MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-174.138.17.254:52252 | 6.598MB
-  - SS-TCP-NA🇰🇿KZ-213.156.137.67:989 | 6.393MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8882 | 6.095MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:5003 | 6.025MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8000 | 5.726MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:6697 | 5.536MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.218:8881 | 5.437MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5004 | 5.412MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.196:443 | 5.234MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-3.38.212.48:443 | 5.118MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5600 | 4.518MB
-  - SS-TCP-NA🇰🇪KE-62.12.116.66:989 | 4.113MB
-  - 🇩🇰SS-TCP-NA🇩🇰DK-192.36.27.94:989 | 3.784MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.33:6697 | 3.051MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-169.150.210.233:8080 | 2.862MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8118 | 2.399MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 2.094MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:6379 | 1.868MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8008 | 1.632MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:8091 | 1.288MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:48491 | 1.257MB
-  - SS-TCP-NA🇱🇻LV-46.32.186.234:1080 | 1.24MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.60:2377 | 1.205MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9084 | 1.204MB
-  - SS-TCP-NA🇦🇹AT-212.113.106.76:29149 | 1.191MB
-  - SS-TCP-NA🇰🇪KE-62.12.116.66:990 | 1.135MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.138:2377 | 1.075MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-13.212.204.100:443 | 1.074MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.193:443 | 1.074MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8118 | 1.057MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-52.79.52.119:443 | 1.056MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:8090 | 1.054MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-109.201.152.181:443 | 1.039MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:38792 | 1.039MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-207.246.101.50:1633 | 1.038MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:5601 | 1.014MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:5004 | 0.999MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-139.64.164.15:8882 | 0.946MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-74.119.193.103:42658 | 0.945MB
-  - 🇮🇳SS-TCP-NA🇮🇳IN-103.120.178.193:51348 | 0.944MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9065 | 0.944MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:5498 | 0.915MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8008 | 0.866MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:5003 | 0.802MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9090 | 0.753MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.181.152.92:443 | 0.735MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.197:443 | 0.731MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8091 | 0.563MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.215:8882 | 0.563MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:5000 | 0.562MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.138:5004 | 0.46MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-77.72.5.113:989 | 0.389MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:5498 | 0.364MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7001 | 0.249MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-107.181.155.244:55330 | 0.247MB
-  - SS-TCP-NA🇨🇾CY-134.255.210.49:990 | 0.223MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:3306 | 0.221MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-5.175.137.127:56207 | 0.185MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9020 | 0.138MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.236:8080 | 0.13MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-43.203.243.93:443 | 0.12MB
-  - SS-TCP-NA🇱🇹LT-45.87.175.188:8080 | 0.092MB
-  - SS-TCP-NA🇪🇪EE-147.45.60.33:16356 | 0.08MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-45.142.246.232:19796 | 0.028MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.75:8000 | 0.0MB
+  - LATEST-UPDATE📅FRI-07-DEY-1403🕑03:12 | 102.888MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8091 | 91.791MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9043 | 85.613MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.122:8008 | 71.916MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8000 | 71.671MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-178.208.91.118:19805 | 63.424MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5004 | 59.511MB
+  - SS-TCP-NA🇵🇦PA-138.186.142.4:989 | 59.449MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-13.41.171.229:443 | 54.831MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.91.100.211:3306 | 53.761MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-167.172.170.30:80 | 51.742MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8882 | 45.205MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:8008 | 41.331MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.87:443 | 39.68MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:5000 | 39.077MB
+  - SS-TCP-NA🇹🇷TR-62.133.63.21:65262 | 38.125MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:3306 | 37.789MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:443 | 35.98MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5004 | 35.582MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:43684 | 35.283MB
+  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9025 | 35.144MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.105:443 | 34.285MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-208.67.105.196:42029 | 33.993MB
+  - SS-TCP-NA🇲🇩MD-192.121.87.147:989 | 33.535MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.26:443 | 33.4MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-107.155.57.51:8080 | 33.299MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9031 | 32.986MB
+  - SS-TCP-NA🇦🇹AT-212.113.106.76:29149 | 32.323MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-92.118.112.101:9483 | 32.201MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5003 | 32.121MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.15.15.82:989 | 31.886MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:8882 | 31.777MB
+  - 🇨🇳SS-TCP-NA🇨🇳CN-163.177.58.140:13137 | 31.673MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-207.246.101.50:1633 | 31.291MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-74.50.98.185:8080 | 30.702MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:7306 | 30.5MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:5001 | 30.448MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-103.115.108.83:40020 | 30.428MB
+  - SS-TCP-NA🇱🇹LT-45.87.175.181:8080 | 30.257MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.191:2376 | 30.119MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-185.5.38.111:55988 | 29.944MB
+  - 🇮🇳SS-TCP-NA🇮🇳IN-103.120.178.193:51348 | 29.863MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.112:5498 | 29.211MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.100:8090 | 28.615MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-34.222.136.128:443 | 28.457MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8882 | 28.369MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7002 | 27.817MB
+  - SS-TCP-NA🇦🇹AT-95.164.9.144:2927 | 27.767MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.191:443 | 27.569MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9090 | 27.506MB
+  - SS-TCP-NA🇨🇿CZ-94.131.97.22:5139 | 27.308MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:9102 | 27.091MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-34.222.132.123:443 | 27.069MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8888 | 26.912MB
+  - 🇷🇺SS-TCP-NA🇷🇺RU-185.22.155.228:23456 | 26.685MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 26.396MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:9102 | 25.897MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 25.842MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-107.148.6.121:8388 | 24.98MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9037 | 24.82MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.81:443 | 24.606MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.92.72:8882 | 21.696MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8119 | 20.91MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-194.116.173.21:9038 | 20.48MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-149.22.87.241:443 | 20.038MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:5500 | 19.463MB
+  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9027 | 19.437MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:5003 | 18.151MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9041 | 16.447MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-18.181.152.92:443 | 15.997MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.158.252.130:443 | 14.42MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9020 | 12.825MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:6379 | 12.02MB
+  - SS-TCP-NA🇱🇹LT-45.87.175.178:8080 | 11.792MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:5601 | 9.43MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8090 | 5.944MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8881 | 4.506MB
+  - SS-TCP-NA🇲🇩MD-86.104.75.103:49264 | 1.053MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-141.98.234.93:20012 | 1.051MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.71:8091 | 1.049MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-195.154.169.198:989 | 1.048MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:804 | 1.048MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7001 | 1.047MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:5601 | 1.046MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:9101 | 1.041MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.151:443 | 1.038MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:5601 | 1.037MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.51:2376 | 1.032MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-145.239.6.202:5001 | 1.032MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:8091 | 1.029MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-45.55.2.232:14293 | 1.024MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:9101 | 0.795MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-82.115.5.141:1080 | 0.685MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:7307 | 0.489MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:3389 | 0.328MB
+  - SS-TCP-NA🇮🇪IE-13.79.98.64:55939 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8118 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:9101 | 0.0MB
+  - SS-TCP-NA🇳🇴NO-51.13.115.105:48963 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:5003 | 0.0MB
   - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:9102 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:6679 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.243:443 | 0.0MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-211.22.161.134:2377 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5601 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7002 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 0.0MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9102 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.111:8090 | 0.0MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:2375 | 0.0MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-103.36.90.195:8388 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.117:2376 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.62.24:8080 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:800 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.100:443 | 0.0MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9030 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8119 | 0.0MB
-  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9005 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.150:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:7001 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:7002 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:5001 | 0.0MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:43684 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.120:7307 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-213.176.66.228:24495 | 0.0MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-36.232.15.12:36918 | 0.0MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-103.115.108.83:40020 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:7001 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-92.118.112.111:18622 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.3:5601 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:7306 | 0.0MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-193.29.139.202:8080 | 0.0MB
-  - SS-TCP-NA🇮🇪IE-23.92.127.134:989 | 0.0MB
-  - SS-TCP-NA🇱🇹LT-45.87.175.181:8080 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.95:8882 | 0.0MB
-  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9014 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:8008 | 0.0MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-95.215.108.67:40031 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:810 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8090 | 0.0MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-142.4.216.225:80 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.236:443 | 0.0MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9098 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:2375 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.174:5004 | 0.0MB
-  - SS-TCP-NA🇨🇭CH-156.146.62.161:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:5498 | 0.0MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-3.35.206.24:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:9101 | 0.0MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9011 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-194.116.173.21:9038 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:9101 | 0.0MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.82:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:5601 | 0.0MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:58060 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:7307 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:4444 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9064 | 0.0MB
+  - SS-TCP-NA🇹🇭TH-119.59.98.58:990 | 0.0MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-13.114.67.166:443 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5001 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:5500 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-174.138.17.254:52252 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9027 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-139.64.165.144:7002 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:3389 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.122:7306 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2376 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:8090 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-139.64.165.115:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 0.0MB
+  - SS-TCP-NA🇧🇭BH-157.241.22.182:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:7002 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.236:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.203:2375 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.179:5498 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:5003 | 0.0MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-1.162.32.165:36918 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:8881 | 0.0MB
   - 🇫🇷SS-TCP-NA🇫🇷FR-45.158.171.14:8080 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-45.55.2.232:14293 | 0.0MB
-  - SS-TCP-NA🇱🇹LT-45.87.175.164:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7307 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.236:443 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8091 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:6679 | 0.0MB
+  - SS-TCP-NA🇨🇾CY-5.180.45.142:18429 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-144.202.112.106:3913 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:6379 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.193:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.39:9101 | 0.0MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-211.22.161.134:2377 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.79:443 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.195.220.179:1080 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-89.185.84.185:12575 | 0.0MB
+  - SS-TCP-NA🇻🇳VN-103.163.218.2:989 | 0.0MB
+  - SS-TCP-NA🇦🇷AR-190.103.176.29:989 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:8091 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8090 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 0.0MB
+  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9005 | 0.0MB
+  - SS-TCP-NA🇸🇪SE-121.127.46.147:989 | 0.0MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9014 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-145.239.6.202:3306 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:8090 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.45:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.215:8882 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5600 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.125:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8118 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-45.67.231.156:17233 | 0.0MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-82.152.105.168:51161 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:7306 | 0.0MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9003 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8881 | 0.0MB
+  - SS-TCP-NA🇮🇷IR-85.9.112.204:443 | 0.0MB
+  - SS-TCP-NA🇨🇭CH-156.146.62.162:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.101:8008 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:9101 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8009 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:5000 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8888 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.147:443 | 0.0MB
+  - SS-TCP-NA🇫🇮FI-66.151.34.98:57261 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8118 | 0.0MB
+  - SS-TCP-NA🇮🇹IT-192.121.46.180:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8009 | 0.0MB
+  - SS-TCP-NA🇦🇪AE-40.172.79.219:443 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-92.118.205.228:990 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:7002 | 0.0MB
+  - SS-TCP-NA🇱🇹LT-45.87.175.157:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.85:6697 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.243:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.26:5601 | 0.0MB
+  - SS-TCP-NA🇮🇩ID-154.205.159.100:990 | 0.0MB
+  - 🇰🇷SS-TCP-NA🇰🇷KR-43.203.122.162:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:443 | 0.0MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.138:2377 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:3306 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2375 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.150.12.188:56018 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-198.105.123.190:46902 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9046 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.3:7002 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-128.199.172.224:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:5001 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-208.67.105.87:42501 | 0.0MB
+  - 🇮🇳SS-TCP-NA🇮🇳IN-103.174.86.113:51348 | 0.0MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:58226 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-150.241.95.63:12271 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-156.146.38.169:443 | 0.0MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-54.248.142.136:443 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.68:443 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.82:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5600 | 0.0MB
 - name: Ping
   type: url-test
   url: https://www.gstatic.com/generate_204
   tolerance: 300
   interval: 3600
   proxies:
-  - LATEST-UPDATE📅THU-06-DEY-1403🕑15:15 | 172.888MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.180:5498 | 144.235MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:3306 | 137.714MB
-  - SS-TCP-NA🇭🇺HU-91.219.237.102:990 | 134.984MB
-  - SS-TCP-NA🇦🇪AE-40.172.103.119:443 | 77.971MB
-  - 🇨🇳SS-TCP-NA🇨🇳CN-183.233.187.157:20001 | 76.935MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9027 | 75.039MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5004 | 73.631MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-52.237.155.68:443 | 70.514MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.151:443 | 67.393MB
-  - SS-TCP-NA🇦🇷AR-190.103.176.29:989 | 61.259MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7306 | 59.695MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-156.146.38.170:443 | 57.773MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8881 | 49.902MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.218:5499 | 45.047MB
-  - SS-TCP-NA🇮🇩ID-154.205.159.100:990 | 44.12MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:58226 | 41.598MB
-  - SS-TCP-NA🇹🇭TH-119.59.98.58:990 | 38.486MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:5000 | 36.652MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-193.108.119.230:8080 | 34.557MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.91.100.211:3306 | 34.199MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:7306 | 33.82MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7307 | 33.555MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-138.199.42.68:8080 | 33.056MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9040 | 32.725MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-212.102.47.131:443 | 32.459MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8882 | 31.573MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:9102 | 31.556MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.176.215.63:2377 | 30.8MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.203:5601 | 30.755MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.179.197.216:443 | 30.288MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-157.245.77.251:80 | 30.265MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8090 | 30.213MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.51:8091 | 28.551MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 28.551MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:9102 | 27.697MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:2375 | 27.088MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2376 | 26.821MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:2375 | 26.563MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2375 | 25.897MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:7306 | 25.764MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-18.133.5.100:443 | 24.418MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.71:8000 | 24.283MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:7307 | 22.269MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:6379 | 21.447MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8881 | 21.278MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8009 | 19.31MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.211:8080 | 19.264MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.150.12.187:56018 | 19.194MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:8881 | 18.977MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.103:8882 | 18.774MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-52.68.44.53:443 | 18.765MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.174:443 | 18.226MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-194.5.215.59:8080 | 17.581MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8118 | 16.027MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.122:8008 | 15.986MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9006 | 15.97MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-52.89.164.115:443 | 15.843MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:3389 | 15.617MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.87:5000 | 14.098MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.17:8009 | 13.609MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.4:8080 | 13.474MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.105:9090 | 13.365MB
-  - 🇨🇳SS-TCP-NA🇨🇳CN-163.177.58.140:13137 | 13.35MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7307 | 12.841MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-107.155.57.51:8080 | 12.414MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.235.122:8080 | 11.141MB
-  - SS-TCP-NA🇺🇦UA-95.164.249.61:54075 | 11.108MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:5500 | 10.94MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9037 | 10.907MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-51.68.206.229:8080 | 10.876MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5499 | 10.855MB
-  - SS-TCP-NA🇳🇴NO-51.13.115.105:48963 | 9.5MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.39:9101 | 8.95MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-174.138.17.254:52252 | 6.598MB
-  - SS-TCP-NA🇰🇿KZ-213.156.137.67:989 | 6.393MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8882 | 6.095MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:5003 | 6.025MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8000 | 5.726MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:6697 | 5.536MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.218:8881 | 5.437MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5004 | 5.412MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.196:443 | 5.234MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-3.38.212.48:443 | 5.118MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5600 | 4.518MB
-  - SS-TCP-NA🇰🇪KE-62.12.116.66:989 | 4.113MB
-  - 🇩🇰SS-TCP-NA🇩🇰DK-192.36.27.94:989 | 3.784MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.33:6697 | 3.051MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-169.150.210.233:8080 | 2.862MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8118 | 2.399MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 2.094MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:6379 | 1.868MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8008 | 1.632MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:8091 | 1.288MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:48491 | 1.257MB
-  - SS-TCP-NA🇱🇻LV-46.32.186.234:1080 | 1.24MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.60:2377 | 1.205MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9084 | 1.204MB
-  - SS-TCP-NA🇦🇹AT-212.113.106.76:29149 | 1.191MB
-  - SS-TCP-NA🇰🇪KE-62.12.116.66:990 | 1.135MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.138:2377 | 1.075MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-13.212.204.100:443 | 1.074MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.193:443 | 1.074MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8118 | 1.057MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-52.79.52.119:443 | 1.056MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:8090 | 1.054MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-109.201.152.181:443 | 1.039MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:38792 | 1.039MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-207.246.101.50:1633 | 1.038MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:5601 | 1.014MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:5004 | 0.999MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-139.64.164.15:8882 | 0.946MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-74.119.193.103:42658 | 0.945MB
-  - 🇮🇳SS-TCP-NA🇮🇳IN-103.120.178.193:51348 | 0.944MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9065 | 0.944MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:5498 | 0.915MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8008 | 0.866MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:5003 | 0.802MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9090 | 0.753MB
-  - 🇯🇵SS-TCP-NA🇯🇵JP-18.181.152.92:443 | 0.735MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.197:443 | 0.731MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8091 | 0.563MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.215:8882 | 0.563MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:5000 | 0.562MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.68.135.138:5004 | 0.46MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-77.72.5.113:989 | 0.389MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:5498 | 0.364MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7001 | 0.249MB
-  - 🇬🇧SS-TCP-NA🇬🇧GB-107.181.155.244:55330 | 0.247MB
-  - SS-TCP-NA🇨🇾CY-134.255.210.49:990 | 0.223MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:3306 | 0.221MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-5.175.137.127:56207 | 0.185MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9020 | 0.138MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.236:8080 | 0.13MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-43.203.243.93:443 | 0.12MB
-  - SS-TCP-NA🇱🇹LT-45.87.175.188:8080 | 0.092MB
-  - SS-TCP-NA🇪🇪EE-147.45.60.33:16356 | 0.08MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-45.142.246.232:19796 | 0.028MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.75:8000 | 0.0MB
+  - LATEST-UPDATE📅FRI-07-DEY-1403🕑03:12 | 102.888MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8091 | 91.791MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9043 | 85.613MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.122:8008 | 71.916MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8000 | 71.671MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-178.208.91.118:19805 | 63.424MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5004 | 59.511MB
+  - SS-TCP-NA🇵🇦PA-138.186.142.4:989 | 59.449MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-13.41.171.229:443 | 54.831MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.91.100.211:3306 | 53.761MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-167.172.170.30:80 | 51.742MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8882 | 45.205MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:8008 | 41.331MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.87:443 | 39.68MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:5000 | 39.077MB
+  - SS-TCP-NA🇹🇷TR-62.133.63.21:65262 | 38.125MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:3306 | 37.789MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:443 | 35.98MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5004 | 35.582MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:43684 | 35.283MB
+  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9025 | 35.144MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.105:443 | 34.285MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-208.67.105.196:42029 | 33.993MB
+  - SS-TCP-NA🇲🇩MD-192.121.87.147:989 | 33.535MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.26:443 | 33.4MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-107.155.57.51:8080 | 33.299MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9031 | 32.986MB
+  - SS-TCP-NA🇦🇹AT-212.113.106.76:29149 | 32.323MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-92.118.112.101:9483 | 32.201MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5003 | 32.121MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.15.15.82:989 | 31.886MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:8882 | 31.777MB
+  - 🇨🇳SS-TCP-NA🇨🇳CN-163.177.58.140:13137 | 31.673MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-207.246.101.50:1633 | 31.291MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-74.50.98.185:8080 | 30.702MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:7306 | 30.5MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:5001 | 30.448MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-103.115.108.83:40020 | 30.428MB
+  - SS-TCP-NA🇱🇹LT-45.87.175.181:8080 | 30.257MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.191:2376 | 30.119MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-185.5.38.111:55988 | 29.944MB
+  - 🇮🇳SS-TCP-NA🇮🇳IN-103.120.178.193:51348 | 29.863MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.112:5498 | 29.211MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.154.136.100:8090 | 28.615MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-34.222.136.128:443 | 28.457MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8882 | 28.369MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7002 | 27.817MB
+  - SS-TCP-NA🇦🇹AT-95.164.9.144:2927 | 27.767MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.191:443 | 27.569MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:9090 | 27.506MB
+  - SS-TCP-NA🇨🇿CZ-94.131.97.22:5139 | 27.308MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:9102 | 27.091MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-34.222.132.123:443 | 27.069MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:8888 | 26.912MB
+  - 🇷🇺SS-TCP-NA🇷🇺RU-185.22.155.228:23456 | 26.685MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 26.396MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:9102 | 25.897MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 25.842MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-107.148.6.121:8388 | 24.98MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9037 | 24.82MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.81:443 | 24.606MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.92.72:8882 | 21.696MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8119 | 20.91MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-194.116.173.21:9038 | 20.48MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-149.22.87.241:443 | 20.038MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:5500 | 19.463MB
+  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9027 | 19.437MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:5003 | 18.151MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9041 | 16.447MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-18.181.152.92:443 | 15.997MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.158.252.130:443 | 14.42MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9020 | 12.825MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:6379 | 12.02MB
+  - SS-TCP-NA🇱🇹LT-45.87.175.178:8080 | 11.792MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:5601 | 9.43MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8090 | 5.944MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8881 | 4.506MB
+  - SS-TCP-NA🇲🇩MD-86.104.75.103:49264 | 1.053MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-141.98.234.93:20012 | 1.051MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.137.71:8091 | 1.049MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-195.154.169.198:989 | 1.048MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:804 | 1.048MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7001 | 1.047MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.103:5601 | 1.046MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:9101 | 1.041MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.151:443 | 1.038MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:5601 | 1.037MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.51:2376 | 1.032MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-145.239.6.202:5001 | 1.032MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:8091 | 1.029MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-45.55.2.232:14293 | 1.024MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:9101 | 0.795MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-82.115.5.141:1080 | 0.685MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.150.152.56:7307 | 0.489MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:3389 | 0.328MB
+  - SS-TCP-NA🇮🇪IE-13.79.98.64:55939 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8118 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:9101 | 0.0MB
+  - SS-TCP-NA🇳🇴NO-51.13.115.105:48963 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:5003 | 0.0MB
   - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:9102 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:6679 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.243:443 | 0.0MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-211.22.161.134:2377 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5601 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:7002 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.145:443 | 0.0MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:9102 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.111:8090 | 0.0MB
-  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:2375 | 0.0MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-103.36.90.195:8388 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.117:2376 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.62.24:8080 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:800 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.100:443 | 0.0MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9030 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8119 | 0.0MB
-  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9005 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.150:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:7001 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:7002 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:5001 | 0.0MB
-  - 🇭🇰SS-TCP-NA🇭🇰HK-91.103.122.32:43684 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.120:7307 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-213.176.66.228:24495 | 0.0MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-36.232.15.12:36918 | 0.0MB
-  - 🇨🇳SS-TCP-NA🇹🇼TW-103.115.108.83:40020 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:7001 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-92.118.112.111:18622 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.3:5601 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:7306 | 0.0MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-193.29.139.202:8080 | 0.0MB
-  - SS-TCP-NA🇮🇪IE-23.92.127.134:989 | 0.0MB
-  - SS-TCP-NA🇱🇹LT-45.87.175.181:8080 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.86.135.117:3389 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.95:8882 | 0.0MB
-  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9014 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-169.197.142.216:8008 | 0.0MB
-  - 🇷🇺SS-TCP-NA🇷🇺RU-95.215.108.67:40031 | 0.0MB
-  - 🇫🇷SS-TCP-NA🇫🇷FR-51.178.87.37:810 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:8090 | 0.0MB
-  - 🇨🇦SS-TCP-NA🇨🇦CA-142.4.216.225:80 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.236:443 | 0.0MB
-  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9098 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:2375 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.174:5004 | 0.0MB
-  - SS-TCP-NA🇨🇭CH-156.146.62.161:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:5498 | 0.0MB
-  - 🇰🇷SS-TCP-NA🇰🇷KR-3.35.206.24:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:9101 | 0.0MB
-  - SS-TCP-NA🇹🇷TR-45.89.52.66:9011 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-194.116.173.21:9038 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:9101 | 0.0MB
-  - 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.82:443 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5500 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:5601 | 0.0MB
-  - 🇸🇬SS-TCP-NA🇸🇬SG-45.158.59.74:58060 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:7307 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.142:4444 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-217.30.10.18:9064 | 0.0MB
+  - SS-TCP-NA🇹🇭TH-119.59.98.58:990 | 0.0MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-13.114.67.166:443 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:5001 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:5500 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-174.138.17.254:52252 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9027 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-139.64.165.144:7002 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:3389 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.122:7306 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2376 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.49.84:8090 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-139.64.165.115:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.143.66.244:7307 | 0.0MB
+  - SS-TCP-NA🇧🇭BH-157.241.22.182:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:7002 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.236:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.203:2375 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.179:5498 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-54.37.12.70:5003 | 0.0MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-1.162.32.165:36918 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.53:8881 | 0.0MB
   - 🇫🇷SS-TCP-NA🇫🇷FR-45.158.171.14:8080 | 0.0MB
-  - 🇺🇸SS-TCP-NA🇺🇸US-45.55.2.232:14293 | 0.0MB
-  - SS-TCP-NA🇱🇹LT-45.87.175.164:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.46:7307 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.236:443 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8091 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-167.88.61.235:6679 | 0.0MB
+  - SS-TCP-NA🇨🇾CY-5.180.45.142:18429 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-144.202.112.106:3913 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:6379 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.193:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.39:9101 | 0.0MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-211.22.161.134:2377 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-212.102.53.79:443 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-51.195.220.179:1080 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-89.185.84.185:12575 | 0.0MB
+  - SS-TCP-NA🇻🇳VN-103.163.218.2:989 | 0.0MB
+  - SS-TCP-NA🇦🇷AR-190.103.176.29:989 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-217.182.198.219:8091 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.252:8090 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-216.39.248.133:7001 | 0.0MB
+  - 🇪🇸SS-TCP-NA🇪🇸ES-5.188.181.201:9005 | 0.0MB
+  - SS-TCP-NA🇸🇪SE-121.127.46.147:989 | 0.0MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9014 | 0.0MB
+  - 🇬🇧SS-TCP-NA🇬🇧GB-145.239.6.202:3306 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.225:8090 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-68.183.227.45:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.215:8882 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-15.204.87.217:5600 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.125:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.120:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.204:8118 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-45.67.231.156:17233 | 0.0MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-82.152.105.168:51161 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-142.202.48.105:7306 | 0.0MB
+  - SS-TCP-NA🇹🇷TR-45.89.52.66:9003 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.89:8881 | 0.0MB
+  - SS-TCP-NA🇮🇷IR-85.9.112.204:443 | 0.0MB
+  - SS-TCP-NA🇨🇭CH-156.146.62.162:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-69.50.95.101:8008 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:7001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.5:9101 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-149.202.82.172:8009 | 0.0MB
+  - 🇫🇷SS-TCP-NA🇫🇷FR-54.36.174.181:5000 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.114.114.69:5001 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-67.220.95.102:8888 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-205.134.180.147:443 | 0.0MB
+  - SS-TCP-NA🇫🇮FI-66.151.34.98:57261 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:8118 | 0.0MB
+  - SS-TCP-NA🇮🇹IT-192.121.46.180:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.49:8009 | 0.0MB
+  - SS-TCP-NA🇦🇪AE-40.172.79.219:443 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-92.118.205.228:990 | 0.0MB
+  - 🇵🇱SS-TCP-NA🇵🇱PL-51.77.53.200:7002 | 0.0MB
+  - SS-TCP-NA🇱🇹LT-45.87.175.157:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.85:6697 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-37.19.198.243:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.26:5601 | 0.0MB
+  - SS-TCP-NA🇮🇩ID-154.205.159.100:990 | 0.0MB
+  - 🇰🇷SS-TCP-NA🇰🇷KR-43.203.122.162:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.121.43.27:443 | 0.0MB
+  - 🇨🇳SS-TCP-NA🇹🇼TW-60.249.28.138:2377 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:3306 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-23.157.40.113:2375 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.150.12.188:56018 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-198.105.123.190:46902 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-80.92.204.106:9046 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.110.1.3:7002 | 0.0MB
+  - 🇸🇬SS-TCP-NA🇸🇬SG-128.199.172.224:8080 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.108:5001 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-208.67.105.87:42501 | 0.0MB
+  - 🇮🇳SS-TCP-NA🇮🇳IN-103.174.86.113:51348 | 0.0MB
+  - 🇭🇰SS-TCP-NA🇭🇰HK-213.130.141.113:58226 | 0.0MB
+  - 🇩🇪SS-TCP-NA🇩🇪DE-150.241.95.63:12271 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-156.146.38.169:443 | 0.0MB
+  - 🇯🇵SS-TCP-NA🇯🇵JP-54.248.142.136:443 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.68:443 | 0.0MB
+  - 🇳🇱SS-TCP-NA🇳🇱NL-149.34.244.82:443 | 0.0MB
+  - 🇺🇸SS-TCP-NA🇺🇸US-38.75.136.21:5600 | 0.0MB
 rule-providers:
   direct:
     type: http
